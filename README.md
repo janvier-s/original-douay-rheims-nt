@@ -1,34 +1,56 @@
-#The Nevv Testament of Iesus Christ, translated faithfully into English, out of the authentical Latin, according to the best corrected copies of the same, diligently conferred vvith the Greeke and other editions in diuers languages; vvith arguments of bookes and chapters, annotations, and other necessarie helpes, for the better vnderstanding of the text, and specially for the discouerie of the corruptions of diuers late translations, and for cleering the controversies in religion, of these daies: in the English College of Rhemes Bible. N.T. English. Douai.#
-The Nevv Testament of Iesus Christ, translated faithfully into English, out of the authentical Latin, according to the best corrected copies of the same, diligently conferred vvith the Greeke and other editions in diuers languages; vvith arguments of bookes and chapters, annotations, and other necessarie helpes, for the better vnderstanding of the text, and specially for the discouerie of the corruptions of diuers late translations, and for cleering the controversies in religion, of these daies: in the English College of Rhemes
-Bible. N.T. English. Douai.
+# The New Testament of Jesus Christ (Rhemes 1582) — TEI XML Edition
 
-##General Summary##
+An open, audited TEI XML edition of the **Original 1582 Rhemes New Testament**, translated out of the authentical Latin by Gregory Martin and the scholars of the English College of Rhemes, and printed by John Fogny in 1582.
 
-**Links**
+This repository takes the foundational transcription by the [Early English Books Online Text Creation Partnership (EEBO-TCP)](http://www.textcreationpartnership.org/) (text `A16049`, STC 2884) and undertakes a rigorous, scholarly audit to backfill gaps, restore polytonic Greek, correct transcription anomalies, and align the text directly with high-resolution original page facsimiles.
 
-[TCP catalogue](http://www.ota.ox.ac.uk/tcp/)  • 
-[HTML](http://tei.it.ox.ac.uk/tcp/Texts-HTML/free/A16/A16049.html)  • 
-[EPUB](http://tei.it.ox.ac.uk/tcp/Texts-EPUB/free/A16/A16049.epub) • 
-[Page images (Historical Texts)](https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99838273e&pageId=eebo-99838273e-2646-1)
+---
 
-**Availability**
+## 🌟 Audit & Enhancement Status
 
-This keyboarded and encoded edition of the
-	       work described above is co-owned by the institutions
-	       providing financial support to the Early English Books
-	       Online Text Creation Partnership. This Phase I text is
-	       available for reuse, according to the terms of Creative
-	       Commons 0 1.0 Universal. The text can be copied,
-	       modified, distributed and performed, even for
-	       commercial purposes, all without asking permission.
+### Front Matter (Pages 1–30 / Preliminaries) — **100% Complete**
+The entire front matter—including the Censure and Approbation, the landmark 22-page Preface to the Reader, the Signification of Numbers and Marks, and the Books of the New Testament—has been audited against original print facsimiles:
+- **86 Gaps Restored**:
+  - **44 Greek Foreign Gaps**: Restored using standard TEI `<foreign xml:lang="grc">...</foreign>` elements with full polytonic accents (e.g. `προΐστασθαι`, `ἐνεκαίνισεν`, `δικαιώματα`, `καιρῷ`, `εἰς ὑπόκρισιν`, `πυκνῇ`, `πυγμῇ`, `πρεσβυτέρους`, `εἴδωλα`, `πέπεισμαι`, `ἀξίως τοῦ κυρίου εἰς πᾶσαν ἀρέσκειαν`, etc.).
+  - **42 Faint/Illegible Gaps**: Accurately supplied based on the 1582 print (`extant`, `then before`, `Lay mens`, `laietie`, `Ioſias Simlerus`, `Cochlæ.`, `authoritate`, `truer`, `Criſpins`, `Gehenna`, `haereſeon`, `Iuel`, `potions`, etc.).
+  - **Transcription Errors Fixed**: Corrected duplicated marginal note on Page 19 (`Againſt only faith.`).
+- **Unicode NFC Normalization**: Fully normalized to Unicode Canonical Composition (NFC).
+- **Wikisource Alignment**: Synchronized 1:1 with the page-by-page critical transcription on [English Wikisource](https://en.wikisource.org/wiki/Index:The_New_Testament_of_Iesus_Christ_(1582).djvu).
 
-**Major revisions**
+### Biblical Text & Annotations (Matthew through Apocalypse) — **In Progress**
+- Gaps in the biblical chapters, arguments, and marginal notes are being audited and backfilled book by book against original scans and the Peters facsimile edition.
 
-1. __2005-12__ __TCP__ *Assigned for keying and markup*
-1. __2005-12__ __Aptara__ *Keyed and coded from ProQuest page images*
-1. __2006-02__ __Mona Logarbo__ *Sampled and proofread*
-1. __2006-02__ __Mona Logarbo__ *Text and markup reviewed and edited*
-1. __2006-04__ __pfs__ *Batch review (QC) and XML conversion*
+---
+
+## 📖 Primary Source & Facsimile References
+
+1. **Original 1582 Print**: *The Nevv Testament of Iesvs Christ, translated faithfully into English...*, Rhemes: John Fogny, 1582 (STC 2884; British Library / Bodleian copies; ProQuest EEBO microfilm 2646:1–16).
+2. **Peters Facsimile Edition**: High-resolution digital facsimile of the 1582 Rhemes New Testament.
+3. **Wikisource Critical Edition**: [The New Testament of Iesus Christ (1582) on en.wikisource.org](https://en.wikisource.org/wiki/Index:The_New_Testament_of_Iesus_Christ_(1582).djvu).
+
+---
+
+## 🛠️ XML Structure & Encoding Standards
+
+- **Standard**: TEI P5 XML (Text Encoding Initiative).
+- **Foreign Alphabets**: Encoded with `<foreign xml:lang="...">` (e.g., `xml:lang="grc"` for polytonic Greek).
+- **Early Modern Typography**:
+  - Long-s (`ſ`) and typographical ligatures faithfully represented.
+  - Typographical abbreviations and macron suspensions preserved via TEI `<g ref="char:cmbAbbrStroke">̄</g>`.
+  - Hyphenations at line ends marked with `<g ref="char:EOLhyphen"/>`.
+  - Milestone verse and chapter labels marked via `<label type="milestone">`.
+  - Marginal annotations and cross-references preserved via `<note place="margin">`.
+
+---
+
+## 📄 License & Attribution
+
+The underlying transcription is derived from the **Text Creation Partnership (Phase I)**, released under [Creative Commons Zero (CC0 1.0 Universal) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+All subsequent editorial restorations, polytonic Greek backfills, and audit enhancements in this repository are likewise dedicated to the public domain under CC0 1.0.
+
+---
+
+## 📚 EEBO-TCP Content Summary
 
 ##Content Summary##
 
