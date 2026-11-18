@@ -109,6 +109,9 @@
          <change>
             <date>2006-04</date>
             <label>pfs</label>Batch review (QC) and XML conversion</change>
+         <change>
+            <date>2026-11</date>
+            <label>Janvier</label>Audited preliminaries (front matter); backfilled all 86 gaps (44 polytonic Greek words in &lt;foreign&gt;, 42 faint/illegible gaps supplied); removed duplicate margin note on p. 19; normalized to Unicode NFC</change>
       </revisionDesc>
    </teiHeader>
    <text xml:lang="eng">
