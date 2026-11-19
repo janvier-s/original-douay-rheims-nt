@@ -15,6 +15,7 @@ The entire front matter—including the Censure and Approbation, the landmark 22
   - **42 Faint/Illegible Gaps**: Accurately supplied based on the 1582 print (`extant`, `then before`, `Lay mens`, `laietie`, `Ioſias Simlerus`, `Cochlæ.`, `authoritate`, `truer`, `Criſpins`, `Gehenna`, `haereſeon`, `Iuel`, `potions`, etc.).
   - **Transcription Errors Fixed**: Corrected duplicated marginal note on Page 19 (`Againſt only faith.`).
 - **Unicode NFC Normalization**: Fully normalized to Unicode Canonical Composition (NFC).
+- **Small Capitals Tagged**: Explicitly encoded small-caps typography across all 28 chapters of Matthew (`<hi rend="smallcaps">`), covering sacred names (`IESVS`, `IESV`, `MARIE`, `CHRIST`), chapter drop-cap continuations (`<seg rend="decorInit">...</seg><hi rend="smallcaps">...</hi>`), Words of Institution (Matt 26:26–28), titulus (Matt 27:37), baptismal formula (Matt 28:19), and liturgical marginal rubrics.
 - **Wikisource Alignment**: Synchronized 1:1 with the page-by-page critical transcription on [English Wikisource](https://en.wikisource.org/wiki/Index:The_New_Testament_of_Iesus_Christ_(1582).djvu).
 
 ### Gospel of Matthew (Pages 31–113) — **100% Complete**
@@ -24,6 +25,7 @@ The entire Gospel of Matthew—including the Argument of S. Matthewes Gospel, th
   - **250 Faint/Illegible Gaps & Print Markers**: Accurately supplied based on 1582 print facsimiles, including annotation catchword markers (`″`), gloss markers (`⸬`), reading ends (`<g ref="char:halfcross">⊢</g>`), verse daggers (`✝`), citation numerals, and missing word fragments (`de cuſtod.`, `c. 51. to. 7.`, `Few are elect.]`, etc.).
   - **Facsimile Duplicates Preserved**: Preserved 20 microfilm duplicate page shots as structural facsimile metadata (`<gap reason="duplicate" extent="1 page"/>`).
 - **Unicode NFC Normalization**: Fully normalized to Unicode Canonical Composition (NFC).
+- **Small Capitals Tagged**: Explicitly encoded small-caps typography across all 28 chapters of Matthew (`<hi rend="smallcaps">`), covering sacred names (`IESVS`, `IESV`, `MARIE`, `CHRIST`), chapter drop-cap continuations (`<seg rend="decorInit">...</seg><hi rend="smallcaps">...</hi>`), Words of Institution (Matt 26:26–28), titulus (Matt 27:37), baptismal formula (Matt 28:19), and liturgical marginal rubrics.
 - **Wikisource Alignment**: Synchronized 1:1 with the page-by-page critical transcription on [English Wikisource](https://en.wikisource.org/wiki/Index:The_New_Testament_of_Iesus_Christ_(1582).djvu).
 
 ### Biblical Text & Annotations (Mark through Apocalypse) — **In Progress**
@@ -1259,7 +1261,7 @@ There are 2058 **ommitted** fragments!
 |11.|__g__|12158| @__ref__ (12158) : char:EOLhyphen (8708), char:cmbAbbrStroke (2436), char:punc (623), char:halfcross (290), char:EOLunhyphen (91), char:leaf (9), char:dtristar (1)|
 |12.|__gap__|2058| @__reason__ (2058) : illegible (1742), foreign (266), duplicate (50)  •  @__resp__ (1729) : #TECH (1729)  •  @__extent__ (1792) : 1 letter (1387), 1 word (188), 2 letters (118), 1 page (50), 1 span (30), 3 letters (12), 4 letters (4), 2 words (2), 5 letters (1)|
 |13.|__head__|603||
-|14.|__hi__|5539| @__rend__ (3) : sup (3)|
+|14.|__hi__|5790| @__rend__ (254) : smallcaps (251), sup (3)|
 |15.|__item__|489||
 |16.|__l__|6||
 |17.|__label__|7951| @__type__ (7951) : milestone (7951)  •  @__rend__ (7688) : leftJustify (3950), rightJustify (3738)|
