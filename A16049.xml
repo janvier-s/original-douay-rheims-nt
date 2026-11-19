@@ -155,6 +155,9 @@
          <change>
             <date>2026-11</date>
             <label>Janvier</label>Audited Evangelical History table (pp. 309-313 / print pp. 281-285); corrected 10 EEBO-TCP typist transcription errors in chapter numbers and narrative text against the 1582 print (restored Mt. 19, 20, 26, 28, Lk. 18, Io. 2, 12, 20, corrected Poter to Peter, and tho to the)</change>
+         <change>
+            <date>2026-11</date>
+            <label>Janvier</label>Audited Acts of the Apostles (pp. 317-404 / print pp. 289-376); corrected 13 EEBO-TCP typist transcription errors against the 1582 print (7:25 vnderſtoode, 16:33 vvoundes, 19:31 ſelf, 20:4 Soſipater, 21:3 vvere, 21:39 Ievve, 24:22 differred, 27:2 ſaile, 27:14 tempeſtuous, 27:26 iland, 27:29 ankers, 28:20 therfore, 28:27 vvaxen); normalized to Unicode NFC</change>
       </revisionDesc>
    </teiHeader>
    <text xml:lang="eng">
@@ -9622,7 +9625,7 @@
                   </note> ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>23</label> And * vvhen he vvas fully of the age of fourtie yeres, it came to his minde to viſite his brethren the children of Iſraël. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>24</label> And vvhen he had ſeen one ſuffer vvrong, he defended him: and ſtriking the Aegyptian, he reuenged his quarel that ſuſteined the vvrong. ✝ <label type="milestone" rend="leftJustify">
-                     <seg type="milestoneunit">verse </seg>25</label> And he thought that his brethren did vnderſtand that God by his hand vvould ſaue them: but they vnder<g ref="char:EOLhyphen"/>ſtood it not.<note place="margin">Exo. 2, 13.</note> ✝ <label type="milestone" rend="leftJustify">
+                     <seg type="milestoneunit">verse </seg>25</label> And he thought that his brethren did vnderſtand that God by his hand vvould ſaue them: but they vnder<g ref="char:EOLhyphen"/>ſtoode it not.<note place="margin">Exo. 2, 13.</note> ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>26</label> And the day folovving * he appeared to them being at ſtrife: and he reconciled them vnto peace, ſaying, Men, ye are brethren, vvherfore hurt you one an other? ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>27</label> But he that did the iniurie to his neighbour, repel<g ref="char:EOLhyphen"/>led him, ſaying, <hi>Vvho hath appointed thee prince and iudge ouer vs?</hi> ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>28</label> 
@@ -10677,7 +10680,7 @@
                         </gap>. 67.</hi>
                   </note> Beleeue in our Lord IESVS: and thou ſhalt be ſa<g ref="char:EOLhyphen"/>ued and thy houſe. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>32</label> And they preached the vvord of our Lord to him vvith al that vvere in his houſe. ✝ <label type="milestone" rend="leftJustify">
-                     <seg type="milestoneunit">verse </seg>33</label> And he ta<g ref="char:EOLhyphen"/>king them in the ſame houre of the night,<note n="c" place="margin">Happie Gai<g ref="char:EOLhyphen"/>lers that doe mercie tovvard their godly pri<g ref="char:EOLhyphen"/>ſoners, and re<g ref="char:EOLhyphen"/>ceiue againe by them ſuch ſpiri<g ref="char:EOLhyphen"/>tual benefites.</note> vvaſhed their vvounds: and him ſelf vvas baptized and al his houſe in<g ref="char:EOLhyphen"/>continent. ✝ <label type="milestone" rend="leftJustify">
+                     <seg type="milestoneunit">verse </seg>33</label> And he ta<g ref="char:EOLhyphen"/>king them in the ſame houre of the night,<note n="c" place="margin">Happie Gai<g ref="char:EOLhyphen"/>lers that doe mercie tovvard their godly pri<g ref="char:EOLhyphen"/>ſoners, and re<g ref="char:EOLhyphen"/>ceiue againe by them ſuch ſpiri<g ref="char:EOLhyphen"/>tual benefites.</note> vvaſhed their vvoundes: and him ſelf vvas baptized and al his houſe in<g ref="char:EOLhyphen"/>continent. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>34</label> And vvhen he had brought them into his ovvne houſe, he laid the table for them, and reioyced vvith al his houſe, beleeuing God. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>35</label> And vvhe<g ref="char:cmbAbbrStroke">̄</g> day vvas come, the ma<g ref="char:EOLhyphen"/>giſtrates ſent the ſergeants, ſaying, Let thoſe men goe. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>36</label> And the keeper of the priſon told theſe vvordes to Paul, That the magiſtrates haue ſent that you ſhould be let goe novv ther<g ref="char:EOLhyphen"/>fore departing, goe ye in peace. ✝ <label type="milestone" rend="leftJustify">
@@ -10887,7 +10890,7 @@
                      <seg type="milestoneunit">verse </seg>28</label> Hearing theſe things, they vvere repleniſhed vvith anger, and cried out ſaying, Great is Diana of the Epheſians. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>29</label> And the vvhole citie vvas filled vvith confuſion, &amp; they ranne violently vvith one accord in to the theátre, catching Gaius and Ariſtarchus Ma<g ref="char:EOLhyphen"/>cedonians, Paules companions. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>30</label> And vvhen Paul vvould haue entred into the people, the diſciples did not permit him. ✝ <label type="milestone" rend="leftJustify">
-                     <seg type="milestoneunit">verse </seg>31</label> And certaine alſo of the Princes of Aſia that vvere his frendes, ſent vnto him, deſyring that he vvould not adue<g ref="char:cmbAbbrStroke">̄</g>ture him ſelfe into the theátre: ✝ <label type="milestone" rend="leftJustify">
+                     <seg type="milestoneunit">verse </seg>31</label> And certaine alſo of the Princes of Aſia that vvere his frendes, ſent vnto him, deſyring that he vvould not adue<g ref="char:cmbAbbrStroke">̄</g>ture him ſelf into the theátre: ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>32</label> and others cried an other thing. For the aſſemblie vvas confuſe, &amp; the more part knevv not for vvhat cauſe they vvere aſſembled. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>33</label> And of the mul<g ref="char:EOLhyphen"/>titude they drevv forth Alexander, the Ievves thruſting him forvvard. But Alexander vvith his hand deſiring ſilence, vvould haue giuen the people ſatisfaction. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>34</label> Vvhom as ſoone as they perceiued to be a Ievve, there vvas made one voice of al, almoſt for the ſpace of tvvo houres crying out, Great is Diana of the Epheſians. ✝ <label type="milestone" rend="leftJustify">
@@ -10946,7 +10949,7 @@
                   <seg rend="decorInit">A</seg>ND after that the tumult vvas ceaſed, Paul calling the diſciples, and exhorting them, tooke his leaue, and ſet forvvard to goe into Macedonia. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>2</label> And vvhen he had vvalked through thoſe partes, &amp; had exhorted them vvith much ſpeach, he came to Greece: ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>3</label> vvhere vvhen he had ſpent three moneths, the Ievves laid vvait for him as he vvas about to ſaile into Syria: and he had councel to returne through Macedonia. ✝ <label type="milestone" rend="leftJustify">
-                     <seg type="milestoneunit">verse </seg>4</label> And there accompanied him Sopater of Pyrrhus, of Beroea: and of Theſſalonians, Ariſtarchus, and Secundus: and Caius of Derbè, and Timothee: and of Aſia, Tychicus and Tróphimus. ✝ <label type="milestone" rend="leftJustify">
+                     <seg type="milestoneunit">verse </seg>4</label> And there accompanied him Soſipater of Pyrrhus, of Beroea: and of Theſſalonians, Ariſtarchus, and Secundus: and Caius of Derbè, and Timothee: and of Aſia, Tychicus and Tróphimus. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>5</label> Theſe going before, ſtaied for vs at Troas: ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>6</label> but vve ſailed after the daies of Azymes from Philippi, and came to them vnto Troas in fiue daies, vvhere vve abode ſeuen daies.</p>
                <p> ✝ <label type="milestone" rend="leftJustify">
@@ -11035,9 +11038,7 @@
                      <seg type="milestoneunit">verse </seg>1</label> 
                   <seg rend="decorInit">A</seg>ND vvhen it came to paſſe that vve ſailed, being caried from them, vvith a ſtraight courſe vve came to Cóos, and the day folovving to Rhodes, and from thence to Pátara. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>2</label> And when vve had found a ſhip that paſſed ouer to Phoenîce, going vp into it vve ſailed. ✝ <label type="milestone" rend="leftJustify">
-                     <seg type="milestoneunit">verse </seg>3</label> And vvhen vve vver<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap> in the ſight of Cypres, leauing it on the left hand, vve ſailed
+                     <seg type="milestoneunit">verse </seg>3</label> And vvhen vve vvere in the ſight of Cypres, leauing it on the left hand, vve ſailed
 <pb n="354" facs="tcp:2646:205"/> into Syria, and came to Tyre: for there the ſhip vvas to diſ<g ref="char:EOLhyphen"/>charge her lode. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>4</label> And finding diſciples, vve taried there ſe<g ref="char:EOLhyphen"/>uen daies: vvho ſaid to Paul by the Spirit, that he ſhould not goe vp to Hieruſalem. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>5</label> And the daies being expired, de<g ref="char:EOLhyphen"/>parting vve vvent forvvard, al bringing vs on the vvay, vvith their vviues and children, til vve vvere out of the citie: and falling vpon our knees on the ſhore, vve praied. ✝ <label type="milestone" rend="rightJustify">
@@ -11093,9 +11094,7 @@
                      <seg type="milestoneunit">verse </seg>36</label> For the multitude of the people folovved, crying, Avvay vvith him. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>37</label> And vvhen Paul began to be brought into the caſtel, he ſaith to the Tri<g ref="char:EOLhyphen"/>bune, Is it lavvful for me to ſpeake ſomething to thee? Vvho ſaid, Canſt thou ſpeake Greeke? ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>38</label> Art not thou the Aegyp<g ref="char:EOLhyphen"/>tian that before theſe daies did raiſe a tumult, and didſt lead forth into the deſert foure thouſand men that vvere murde<g ref="char:EOLhyphen"/>rers? ✝ <label type="milestone" rend="rightJustify">
-                     <seg type="milestoneunit">verse </seg>39</label> And Paul ſaid to him,<note place="margin">Act. 22, 3.</note> * I am a man truely a Ievv<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap> of Tarſus, a citizen not of an obſcure citie of Cilicia. And I de<g ref="char:EOLhyphen"/>ſire thee, permit me to ſpeake to the people. ✝ <label type="milestone" rend="rightJustify">
+                     <seg type="milestoneunit">verse </seg>39</label> And Paul ſaid to him,<note place="margin">Act. 22, 3.</note> * I am a man truely a Ievve of Tarſus, a citizen not of an obſcure citie of Cilicia. And I de<g ref="char:EOLhyphen"/>ſire thee, permit me to ſpeake to the people. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>40</label> And vvhen he had permitted him, Paul ſta<g ref="char:cmbAbbrStroke">̄</g>ding on the ſtaiers, beckened with his hand to the people. and great ſilence being made, he ſpake vnto them in the Hebrevv tongue, ſaying.</p>
                <div type="annotations">
                   <head>ANNOTATIONS CHAP. XXI.</head>
@@ -11333,7 +11332,7 @@
                      <seg type="milestoneunit">verse </seg>19</label> But certaine Ievves of Aſia, vvho ought to be preſent before thee and to accuſe, if they had any thing againſt me: ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>20</label> or let theſe men the<g ref="char:cmbAbbrStroke">̄</g> ſelues ſay, if they haue found in me any iniquitie, foraſmuch as I ſta<g ref="char:cmbAbbrStroke">̄</g>d in the Councel, ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>21</label> but of this one voice only that I cried ſta<g ref="char:cmbAbbrStroke">̄</g>ding among them,<note place="margin">Act. 23, 6.</note> That * of the reſurrection of the dead am I iudged this day of you. ✝ <label type="milestone" rend="rightJustify">
-                     <seg type="milestoneunit">verse </seg>22</label> And Felix differed them, knovving moſt certainely of this vvay, ſaying, Vvhen Lyſias the Tribune is come dovvne, I vvil heare you. ✝ <label type="milestone" rend="rightJustify">
+                     <seg type="milestoneunit">verse </seg>22</label> And Felix differred them, knovving moſt certainely of this vvay, ſaying, Vvhen Lyſias the Tribune is come dovvne, I vvil heare you. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>23</label> And he commaunded the Centurion to keepe him, and that he ſhould haue reſt, neither to prohibit any of his to miniſter vnto him.</p>
                <p> ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>24</label> And after ſome daies, Felix comming vvith Druſilla his vvife, vvhich vvas a Ievve, called Paul, and heard of him the faith that is in Chriſt IESVS. ✝ <label type="milestone" rend="rightJustify">
@@ -11471,7 +11470,7 @@
                   <label type="milestone">
                      <seg type="milestoneunit">verse </seg>1</label> 
                   <seg rend="decorInit">A</seg>ND after it vvas decreed that he ſhould ſaile into Italie, and that Paul vvith other priſoners ſhould be deliuered to a Cen<g ref="char:EOLhyphen"/>turion named Iulius, of the band Auguſta, ✝ <label type="milestone" rend="leftJustify">
-                     <seg type="milestoneunit">verse </seg>2</label> vve going vp into a ſhip of Adrumé<g ref="char:EOLhyphen"/>tum, beginning to ſail about the places of Aſia, looſed from the land, Ariſtarchus the Macedonian of Theſſalonica continuing vvith vs. ✝ <label type="milestone" rend="leftJustify">
+                     <seg type="milestoneunit">verse </seg>2</label> vve going vp into a ſhip of Adrumé<g ref="char:EOLhyphen"/>tum, beginning to ſaile about the places of Aſia, looſed from the land, Ariſtarchus the Macedonian of Theſſalonica continuing vvith vs. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>3</label> And the day folovving vve came to Sidon. And Iulius intreating Paul courteouſly, permitted him to goe to his frendes, and to take care of him ſelf. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>4</label> And vvhen vve had looſed the<g ref="char:cmbAbbrStroke">̄</g>ce, vve ſailed vnder Cypres: becauſe the vvindes vvere co<g ref="char:cmbAbbrStroke">̄</g>trarie. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>5</label> And ſailing the ſea of Cilicia and Pamphilia, vve came to
@@ -11486,7 +11485,7 @@
 <pb n="368" facs="tcp:2646:212"/> Centurion beleeued the gouernour and maiſter of the ſhip, more then thoſe things vvhich vvere ſaid of Paul. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>12</label> And vvhereas it vvas not a commodious hauen to vvinter in, very many taking counſel appointed to ſaile thence, if by any meanes they might comming to Phoeníce, vvinter there, a hauen of Crete looking tovvard the<note n="c" place="margin">names of vvin<g ref="char:EOLhyphen"/>dés.</note> Afrike and the Chore. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>13</label> And the ſouth vvinde blovving, they thinking that they had obteined their purpoſe, vvhen they had parted from Aſ<g ref="char:EOLhyphen"/>ſon, ſailed along by Crete. ✝ <label type="milestone" rend="rightJustify">
-                     <seg type="milestoneunit">verse </seg>14</label> But not long after, a tempeſtous vvinde that is called Euro-aquilo, droue againſt it. ✝ <label type="milestone" rend="rightJustify">
+                     <seg type="milestoneunit">verse </seg>14</label> But not long after, a tempeſtuous vvinde that is called Euro-aquilo, droue againſt it. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>15</label> And vvhen the ſhippe vvas caught and could not make vvay againſt the vvinde, giuing, vp the ſhip to the vvindes, vve vvere driuen. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>16</label> And running vpon a certaine iland, that is called<note n="c" place="margin">Graec. Clauda.</note> Cauda, vve could ſcarſe get the cock-boate. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>17</label> Vvhich being taken vp, they vſed helps, girding the ſhip, and fearing leſt they ſhould fall into<note n="c" place="margin">a place of quic<g ref="char:EOLhyphen"/>ke ſandes.</note> the Syrte, letting dovvne the veſſel, ſo vvere they caried. ✝ <label type="milestone" rend="rightJustify">
@@ -11506,12 +11505,10 @@
                         <desc>••</desc>
                      </gap>r in hea<g ref="char:EOLhyphen"/>uen.</note> giuen thee al that ſaile vvith thee. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>25</label> For the vvhich cauſe be of good cheere ye men: for I beleeue God, that it ſhal ſo be, as it hath been ſaid to me. ✝ <label type="milestone" rend="rightJustify">
-                     <seg type="milestoneunit">verse </seg>26</label> And vve muſt come vnto a certaine ilande. ✝ <label type="milestone" rend="rightJustify">
+                     <seg type="milestoneunit">verse </seg>26</label> And vve muſt come vnto a certaine iland. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>27</label> But after the fourtenth night vvas come on vs, as vve vvere ſailing in Adria about mid<g ref="char:EOLhyphen"/>night, the ſhipmen deemed that there appeared ſome coun<g ref="char:EOLhyphen"/>trie to them. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>28</label> Vvho alſo ſounding, found tvventie fadomes: and being parted a litle from thence, they found fiftene fa<g ref="char:EOLhyphen"/>domes, ✝ <label type="milestone" rend="rightJustify">
-                     <seg type="milestoneunit">verse </seg>29</label> And fearing leſt vve ſhould fall into rough pla<g ref="char:EOLhyphen"/>ces; caſting out of the ſterne foure anker<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>, they vviſhed
+                     <seg type="milestoneunit">verse </seg>29</label> And fearing leſt vve ſhould fall into rough pla<g ref="char:EOLhyphen"/>ces; caſting out of the ſterne foure ankers, they vviſhed
 <pb n="369" facs="tcp:2646:212"/> that day vvere come. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>30</label> But as the ſhipmen ſought to flee out of the ſhip, hauing let dovvne the cock-boate into the ſea, prete<g ref="char:cmbAbbrStroke">̄</g>ding as if they vvere about to caſt out ankers out of the fore part of the ſhip, ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>31</label> Paul ſaid to the Centurion and to the ſouldiars, ″ Vnles theſe tarie in the ſhip, you can not be ſaued. ✝ <label type="milestone" rend="leftJustify">
@@ -11595,7 +11592,7 @@
                <p>Men brethren, I doing nothing againſt the people, or the cuſtome of the fathers, vvas deliuered priſoner from Hie<g ref="char:EOLhyphen"/>ruſalem into the hands of the Romanes, ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>18</label> vvho vvhen they had examined me, vvould haue releaſed me, for that there vvas no cauſe of death in me. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>19</label> But the Ievves contradicting it, I vvas compelled to appeale vnto Caeſar, not as hauing any thing to accuſe my nation. ✝ <label type="milestone" rend="leftJustify">
-                     <seg type="milestoneunit">verse </seg>20</label> For this cauſe therefore I deſired to ſee you and to ſpeake to you for, becauſe of the hope of Iſraël, am I compaſſed vvith this ″ chaine.</p>
+                     <seg type="milestoneunit">verse </seg>20</label> For this cauſe therfore I deſired to ſee you and to ſpeake to you for, becauſe of the hope of Iſraël, am I compaſſed vvith this ″ chaine.</p>
                <p> ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>21</label> But they ſaid to him, Vve neither receiued letters con<g ref="char:EOLhyphen"/>cerning thee from Ievvrie, neither did any of the brethren that came hither, report or ſpeake any euil of thee. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>22</label> But vve deſire of thee to heare vvhat thou thinkeſt: for ″ concerning this<note n="c" place="margin">
@@ -11609,9 +11606,7 @@
                      <seg type="milestoneunit">verse </seg>25</label> And vvhereas they did not agree among them ſelues, they departed, Paul ſaying one vvord: That vvel did the holy Ghoſt ſpeake by Eſaie the prophet to our fathers,<note place="margin">Eſa 6, 9.</note> ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>26</label> ſaying,<note place="margin">Mat. 13, 14. Mr. 4, 12.</note> 
                   <hi>Goe to this people, and ſay to them, Vvith the eare you ſhal heare, and ſhal not vnderſtand: and ſeeing you ſhal ſee, and ſhal not perceiue. ✝ <label type="milestone" rend="rightJustify">
-                        <seg type="milestoneunit">verse </seg>27</label> For the hart of this people is vva<gap reason="illegible" resp="#TECH" extent="1 letter">
-                        <desc>•</desc>
-                     </gap>en groſſe,</hi>
+                        <seg type="milestoneunit">verse </seg>27</label> For the hart of this people is vvaxen groſſe,</hi>
                   <note place="margin">Lu. 8, 10<g ref="char:punc">▪</g>
                   </note> 
                   <hi>and vvith their eares haue they heauily heard, and their eies</hi>
