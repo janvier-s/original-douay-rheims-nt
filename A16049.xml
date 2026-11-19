@@ -96,6 +96,10 @@
       </profileDesc>
       <revisionDesc>
          <change when="2026-11-19">
+            <label>Critical audit: Gospel of John</label>
+            <name>Antigravity</name> Corrected 17 EEBO-TCP transcription errors in the Gospel of John against 1582 Rhemes facsimiles: fixed milestone verse 8 (was 18) and restored omitted "I", restored missing word "be" (12:31), and corrected 15 typist misreadings (including latchet, deſcending, vvater-pottes, ſate, rovved, raueneth, glorie, glorifie).
+         </change>
+         <change when="2026-11-19">
             <label>Editorial cleanup</label>
             <name>Antigravity</name> Removed 50 inline microfilm duplicate &lt;gap reason="duplicate"&gt; stubs from the text body, restored interrupted sentence flow, and established the EEBO Microfilm Duplicate Register in &lt;back&gt;.
          </change>
@@ -6394,7 +6398,7 @@
                      <seg type="milestoneunit">verse </seg>10</label> He vvas in the vvorld, and the vvorld vvas made by him, and the vvorld knevv him not. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>11</label> He came into his ovvne, and his ovvne receiued him not. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>12</label> But as many as receiued him, ″ he gaue them povver to be made the ſonnes of God, to thoſe that beleeue in his name. ✝ <label type="milestone" rend="rightJustify">
-                     <seg type="milestoneunit">verse </seg>13</label> Vvho, not of bloud, not of the vvil of fleſh, nor of the vvil of man, but of God are borne. ✝ <label type="milestone" rend="rightJustify">
+                     <seg type="milestoneunit">verse </seg>13</label> Vvho, not of bloud, nor of the vvil of fleſh, nor of the vvil of man, but of God are borne. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>14</label> <hi rend="smallcaps">And ″ the vvord vvas made flesh</hi>,<note place="margin"><hi rend="smallcaps">Et verbvm caro fac<g ref="char:EOLhyphen"/>tvm est</hi>.</note> and dvvelt in vs (and vve ſavv the glorie of him, glorie as it vvere of the only-begotten of the Father) ful of grace and
 <pb n="217" facs="tcp:2646:136"/> veritie. <g ref="char:halfcross">⊢</g> ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>15</label> Iohn giueth teſtimonie of him, and crieth ſaying, This vvas he of vvhom I ſpake, He that ſhal come after me,
@@ -6413,7 +6417,7 @@
                      <seg type="milestoneunit">verse </seg>25</label> And they aſked him, and ſaid to him, Vvhy then doeſt thou baptize, if thou be not Chriſt, nor
 <note place="margin">Mt. 3, 11.</note> Elias, nor the Prophet? ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>26</label> Iohn anſvvered them, ſaying, *<note n="⸬" place="margin">He doth ofte<g ref="char:cmbAbbrStroke">̄</g> here ſignifie the great difference of his baptiſ<g ref="char:EOLhyphen"/>me &amp; of Chri<g ref="char:EOLhyphen"/>ſts, as of his perſon &amp; Chri<g ref="char:EOLhyphen"/>ſts. See Annot. Mat. 3.</note> I baptize in vvater:<note place="margin">Mr. 1, 8.</note> but there hath ſtood in the middes of you vvhom you knovv not.<note place="margin">Lu. 3, 16.</note> ✝ <label type="milestone" rend="leftJustify">
-                     <seg type="milestoneunit">verse </seg>27</label> The ſame is he that ſhal come after me, that is made before me: vvhoſe latcher of his ſhoe I am not worthie to vnlooſe. ✝ <label type="milestone" rend="leftJustify">
+                     <seg type="milestoneunit">verse </seg>27</label> The ſame is he that ſhal come after me, that is made before me: vvhoſe latchet of his ſhoe I am not worthie to vnlooſe. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>28</label> Theſe things were done in Bethania beyond Iordan, vvhere Iohn vvas baptizing. <g ref="char:halfcross">⊢</g>
                </p>
                <p> ✝ <label type="milestone" rend="leftJustify">
@@ -6448,7 +6452,7 @@
                      <seg type="milestoneunit">verse </seg>48</label> Nathanael ſaith to him, Hovv knovveſt thou me? <hi rend="smallcaps">Iesvs</hi> anſvvered and ſaid to him, Before that Philippe did cal thee, vvhen thou waſt vnder the figtree, I ſaw thee. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>49</label> Nathanael anſvvered him, and ſaith, Rabbi, thou art the ſonne of God, thou art the king of Iſrael. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>50</label> <hi rend="smallcaps">Iesvs</hi> anſvvered, and ſaid to him, Becauſe I ſaid vnto thee, I ſavv thee vnder the figtree, thou beleeueſt: grea<g ref="char:EOLhyphen"/>ter then theſe things ſhalt thou ſee. ✝ <label type="milestone" rend="rightJustify">
-                     <seg type="milestoneunit">verse </seg>51</label> And he ſaith to him, Amen Amen I ſay to you, You ſhal ſee the heauen opened, and the * Angels of God aſcending and defcending, vpon the Sonne of man.<note place="margin">Gen. 28, 12.</note> 
+                     <seg type="milestoneunit">verse </seg>51</label> And he ſaith to him, Amen Amen I ſay to you, You ſhal ſee the heauen opened, and the * Angels of God aſcending and deſcending, vpon the Sonne of man.<note place="margin">Gen. 28, 12.</note> 
                   <g ref="char:halfcross">⊢</g>
                </p>
                <div type="annotations">
@@ -6497,7 +6501,7 @@
                      <seg type="milestoneunit">verse </seg>3</label> And the vvine failing, the mo<g ref="char:EOLhyphen"/>ther of <hi rend="smallcaps">Iesvs</hi> ſaith to him, ″ They haue no vvine. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>4</label> And <hi rend="smallcaps">Iesvs</hi> ſaith to her, Vvhat is to me and thee vvoman? my houre commeth not yet. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>5</label> His mother ſaith to the miniſters, ″ Vvhatſoeuer he ſhal ſay to you, doe ye. ✝ <label type="milestone" rend="rightJustify">
-                     <seg type="milestoneunit">verse </seg>6</label> And there were ſet there ſixe vva<g ref="char:EOLhyphen"/>ter-potters of ſtone, according to the purificatio<g ref="char:cmbAbbrStroke">̄</g> of the Ievves, holding euery one tvvo or three meaſures. ✝ <label type="milestone" rend="rightJustify">
+                     <seg type="milestoneunit">verse </seg>6</label> And there were ſet there ſixe vva<g ref="char:EOLhyphen"/>ter-pottes of ſtone, according to the purificatio<g ref="char:cmbAbbrStroke">̄</g> of the Ievves, holding euery one tvvo or three meaſures. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>7</label> <hi rend="smallcaps">Iesvs</hi> ſaith to them, Fil the vvater-pottes vvith vvater. And they filled them vp to the toppe. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>8</label> And <hi rend="smallcaps">Iesvs</hi> ſaith to them, Dravv novv, and carie to the cheefe ſtevvard. And they caried it. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>9</label> And after the cheefe ſtevvard taſted the<note n="⸬" place="margin">He that ſeeth water turned in to wine, nedeth not diſpute or doubt hovv Chriſt changed bread into his body.</note> vvater made vvine, and knevv not vvhence it vvas, but the miniſters knew that had dravvne the vvater: the cheefe ſtevvard calleth the bridegrome, ✝ <label type="milestone" rend="rightJustify">
@@ -6783,7 +6787,7 @@
                      <seg type="milestoneunit">verse </seg>1</label> 
                   <seg rend="decorInit">A</seg><hi rend="smallcaps">fter</hi> theſe things <hi rend="smallcaps">Iesvs</hi> vvent beyond the ſea of Galilee,<note place="margin">The Goſpel vpo<g ref="char:cmbAbbrStroke">̄</g> Midlent Su<g ref="char:cmbAbbrStroke">̄</g>day.</note> vvhich is of Tiberias:<note place="margin">Mt. 14, 13. Mar. 6, 32.</note> ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>2</label> and a great multitude folovved him, be<g ref="char:EOLhyphen"/>cauſe they ſavv the ſignes vvhich he did vpon thoſe that vvere ſicke.<note place="margin">Lu. 9, 10</note> ✝ <label type="milestone" rend="rightJustify">
-                     <seg type="milestoneunit">verse </seg>3</label> <hi rend="smallcaps">Iesvs</hi> ther<g ref="char:EOLhyphen"/>fore went vp into the mountaine, and there he ſare vvith his Diſciples. ✝ <label type="milestone" rend="rightJustify">
+                     <seg type="milestoneunit">verse </seg>3</label> <hi rend="smallcaps">Iesvs</hi> ther<g ref="char:EOLhyphen"/>fore went vp into the mountaine, and there he ſate vvith his Diſciples. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>4</label> And the Paſche vvas at hand, the feſtiual day of the Ievves. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>5</label> Vvhen <hi rend="smallcaps">Iesvs</hi> therfore had lifted vp his eies, and ſavv that a very great multitude com<g ref="char:EOLhyphen"/>meth to him, he ſaith to Philippe, Vvhence ſhal vve bie bread: that theſe may eate? ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>6</label> And this he ſaid, tempting him. for him ſelf knevv vvhat he vvould doe? ✝ <label type="milestone" rend="rightJustify">
@@ -6802,7 +6806,7 @@
                      <seg type="milestoneunit">verse </seg>16</label> And vvhen euen vvas come, his Diſciples vvent dovvne to the ſea. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>17</label> And vvhen they vvere gone vp into the ſhippe, they came beyond the ſea into Capharnáum. and novv it vvas darke, and <hi rend="smallcaps">Iesvs</hi> vvas not come vnto them ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>18</label> And the ſea aroſe, by reaſon of a great vvinde that blevv. ✝ <label type="milestone" rend="leftJustify">
-                     <seg type="milestoneunit">verse </seg>19</label> Vvhen they had to vved therfore about fiue and tvventie or thirtie furlonges, they ſee <hi rend="smallcaps">Iesvs</hi> vvalking vpon the ſea, and to dravv nigh to the ſhippe, and they feared. ✝ <label type="milestone" rend="leftJustify">
+                     <seg type="milestoneunit">verse </seg>19</label> Vvhen they had rovved therfore about fiue and tvventie or thirtie furlonges, they ſee <hi rend="smallcaps">Iesvs</hi> vvalking vpon the ſea, and to dravv nigh to the ſhippe, and they feared. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>20</label> But he ſaith to them, It is I, feare not. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>21</label> They vvould therfore haue taken him into the ſhippe: and forthvvith the ſhippe vvas at the land to vvhich they vvent.</p>
                <p> ✝ <label type="milestone" rend="leftJustify">
@@ -6831,10 +6835,10 @@
                </p>
                <p> ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>41</label> The Ievves therfore murmured at him, becauſe he had ſaid, I am the bread vvhich deſcended from heauen: ✝ <label type="milestone" rend="rightJustify">
-                     <seg type="milestoneunit">verse </seg>42</label> and they ſaid, is not this <hi rend="smallcaps">Iesvs</hi> the ſonne of Ioſeph, vvhoſe father and mother vve knovv? Hovv then faith he, That I deſcended from heauen? ✝ <label type="milestone" rend="rightJustify">
+                     <seg type="milestoneunit">verse </seg>42</label> and they ſaid, is not this <hi rend="smallcaps">Iesvs</hi> the ſonne of Ioſeph, vvhoſe father and mother vve knovv? Hovv then ſaith he, That I deſcended from heauen? ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>43</label> <hi rend="smallcaps">Iesvs</hi> therfore anſvvered and ſaid to them, Murmure not one to an other: ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>44</label> no man can come to me,<note place="margin">The Goſpel vpo<g ref="char:cmbAbbrStroke">̄</g> Imber vveneſ<g ref="char:EOLhyphen"/>day in vvhitſon-vveeke.</note> vnles the Father that ſent me, ″ dravv him: and I vvil raiſe him vp in the laſt day. ✝ <label type="milestone" rend="rightJustify">
-                     <seg type="milestoneunit">verse </seg>45</label> It is vvritten in the Pro<g ref="char:EOLhyphen"/>phers, <hi>And al ſhal be docible of God.</hi>
+                     <seg type="milestoneunit">verse </seg>45</label> It is vvritten in the Pro<g ref="char:EOLhyphen"/>phets, <hi>And al ſhal be docible of God.</hi>
                   <note place="margin">Eſa. 54, 13.</note> Euery one that hath heard of the Father, and hath learned, commeth to me. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>46</label> Not that any man hath ſeen the Father, but he vvhich is of God: this hath ſeen the Father. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>47</label> Amen, amen I ſay to you, he that be<g ref="char:EOLhyphen"/>leeueth in me, hath life euerlaſting. ✝ <label type="milestone" rend="rightJustify">
@@ -7197,7 +7201,7 @@
                   </note> 
                   <g ref="char:halfcross">⊢</g> ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>11</label> I am the good Paſtor.<note place="margin">Eſa. 40, 11. Ezec. 34, 23.</note> * The ″ good Pa<g ref="char:EOLhyphen"/>ſtor giueth his life for his ſheepe. ✝ <label type="milestone" rend="rightJustify">
-                     <seg type="milestoneunit">verse </seg>12</label> But the hireling and he that is not the Paſtor, vvhoſe ovvne the ſheepe are not, ſeeth the vvoulfe comming, and leaueth the ſheepe, and fleeth: and the vvoulfe reueneth, and diſperſeth the ſheepe. ✝ <label type="milestone" rend="rightJustify">
+                     <seg type="milestoneunit">verse </seg>12</label> But the hireling and he that is not the Paſtor, vvhoſe ovvne the ſheepe are not, ſeeth the vvoulfe comming, and leaueth the ſheepe, and fleeth: and the vvoulfe raueneth, and diſperſeth the ſheepe. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>13</label> And the hireling ″ fleeth becauſe he is a hireling: and he hath no care of the ſheepe. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>14</label> I am the good Paſtor: and I knovv mi<g ref="char:EOLhyphen"/>ne, and mine knovv me. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>15</label> As the Father knovveth me, and I knovv the Father: and<note n="⸬" place="margin">Chriſtes death was ſo neceſſa<g ref="char:EOLhyphen"/>rie for the floc<g ref="char:EOLhyphen"/>ke, that when he might haue eſcaped, he vo<g ref="char:EOLhyphen"/>luntarily offe<g ref="char:EOLhyphen"/>red him ſelf to death for his flocke.</note> I yeld my life for my ſheepe. ✝ <label type="milestone" rend="rightJustify">
@@ -7283,7 +7287,7 @@
                      <seg type="milestoneunit">verse </seg>10</label> but if he walke in the night, he ſtumbleth, becauſe the light is not in him. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>11</label> Theſe things he ſaid: and after this he ſaith to them, Lazarus our frende ſleepeth: but I goe that I may raiſe him from ſleepe. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>12</label> His Diſciples therfore ſaid, Lord, if he ſleepe, he ſhal be ſafe. ✝ <label type="milestone" rend="leftJustify">
-                     <seg type="milestoneunit">verse </seg>13</label> but <hi rend="smallcaps">Iesvs</hi> ſpake of his death: &amp; they though that he ſpake<note n="c" place="margin">de dor<g ref="char:EOLhyphen"/>mitione ſomni.</note> of the ſleeping of ſleepe. ✝ <label type="milestone" rend="leftJustify">
+                     <seg type="milestoneunit">verse </seg>13</label> but <hi rend="smallcaps">Iesvs</hi> ſpake of his death: &amp; they thought that he ſpake<note n="c" place="margin">de dor<g ref="char:EOLhyphen"/>mitione ſomni.</note> of the ſleeping of ſleepe. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>14</label> Then ther<g ref="char:EOLhyphen"/>fore <hi rend="smallcaps">Iesvs</hi> ſaid to them plainely, Lazarus is dead: ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>15</label> and I am glad for your ſake, that you may beleeue, becauſe I vvas not there. but let vs goe to him. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>16</label> Thomas therfore, vvho is called Didymus, ſaid to his condiſciples, Let vs alſo goe, to die vvith him.</p>
@@ -7319,7 +7323,7 @@
                      <seg type="milestoneunit">verse </seg>41</label> They tooke therfore the ſtone avvay. And <hi rend="smallcaps">Iesvs</hi> lifting his eies vpvvard, ſaid, Father, I giue thee thankes that thou haſt heard me. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>42</label> and I did knovv that thou doeſt alvvaies heare me, but for the people that ſtandeth about, haue I ſaid it, that they may beleeue that thou haſt ſent me. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>43</label> Vvhen he had ſaid theſe things, he cried vvith a loude voice, Lazarus, come forth. ✝ <label type="milestone" rend="rightJustify">
-                     <seg type="milestoneunit">verse </seg>44</label> And forthvvith he came forth that had been dead, bound feete and handes vvith vvinding bandes, and his face vvas tied vvith a napkin. <hi rend="smallcaps">Iesvs</hi> ſaid to them,<note n="⸬" place="margin">S. Cyril <hi>li. 76. vlt. in Io.</hi> and S. Auguſt. <hi>Tract. 49 in Io.</hi> apply this to the Apo<g ref="char:EOLhyphen"/>ſtles and Prieſts authoritie of ab<g ref="char:EOLunhyphen"/>ſoluing ſinners: affirming Chriſt to reuiue none fro<g ref="char:cmbAbbrStroke">̄</g> ſinne, but in the Church and by the Prieſts miniſterie.</note> Looſe him, and let him goe.</p>
+                     <seg type="milestoneunit">verse </seg>44</label> And forthvvith he came forth that had been dead, bound feete and handes vvith vvinding bandes, and his face vvas tied vvith a napkin. <hi rend="smallcaps">Iesvs</hi> ſaid to them,<note n="⸬" place="margin">S. Cyril <hi>li. 7. c. vlt. in Io.</hi> and S. Auguſt. <hi>Tract. 49 in Io.</hi> apply this to the Apo<g ref="char:EOLhyphen"/>ſtles and Prieſts authoritie of ab<g ref="char:EOLunhyphen"/>ſoluing ſinners: affirming Chriſt to reuiue none fro<g ref="char:cmbAbbrStroke">̄</g> ſinne, but in the Church and by the Prieſts miniſterie.</note> Looſe him, and let him goe.</p>
                <p> ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>45</label> Many therfore of the Ievves that vvere come to Marie and Martha, and had ſeen the things that <hi rend="smallcaps">Iesvs</hi> did, beleeued in him. <g ref="char:halfcross">⊢</g> ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>46</label> And certaine of them vvent to the Phariſees, and told them the things that <hi rend="smallcaps">Iesvs</hi> did.<note place="margin">The Goſpel vpo<g ref="char:cmbAbbrStroke">̄</g> friday in Paſ<g ref="char:EOLhyphen"/>ſion vveeke.</note> ✝ <label type="milestone" rend="rightJustify">
@@ -7395,7 +7399,7 @@
                      <seg type="milestoneunit">verse </seg>29</label> The multitude ther<g ref="char:EOLhyphen"/>fore that ſtoode and had heard, ſaid that it thundered. Others ſaid, An Angel ſpake to him. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>30</label> <hi rend="smallcaps">Iesvs</hi> anſvvered, and ſaid This voice came not for me,<note place="margin">The Goſpel vpo<g ref="char:cmbAbbrStroke">̄</g> Holy roode day <hi>Septemb. 14.</hi> in latin. <hi>Exalta<g ref="char:EOLhyphen"/>tio S. Crucis.</hi>
                   </note> but for your ſake. ✝ <label type="milestone" rend="leftJustify">
-                     <seg type="milestoneunit">verse </seg>31</label> Novv is the iudgeme<g ref="char:cmbAbbrStroke">̄</g>t of the vvorld: novv the Prince of this vvorld ſhal caſt forth.<note place="margin">Io. 3, 14.</note> ✝ <label type="milestone" rend="leftJustify">
+                     <seg type="milestoneunit">verse </seg>31</label> Novv is the iudgeme<g ref="char:cmbAbbrStroke">̄</g>t of the vvorld: novv the Prince of this vvorld ſhal be caſt forth.<note place="margin">Io. 3, 14.</note> ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>32</label> And I, * if I be exalted from the earth, vvil dravv al things to my ſelf. ( ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>33</label> and this he ſaid, ſigni<g ref="char:EOLhyphen"/>fying vvhat death he ſhould die.) ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>34</label> The multitude anſvve<g ref="char:EOLhyphen"/>red him, Vve haue heard out of the lavv, that <hi rend="smallcaps">Christ</hi> abideth for euer: and hovv ſaieſt thou, The Sonne of man muſt be exalted? Vvho is this Sonne of man? ✝ <label type="milestone" rend="leftJustify">
@@ -7414,7 +7418,7 @@
                   <hi>and indurated their hart: that they may not ſee vvith their eies, nor vnderſtand vvith their hart, and be conuerted, and I heale them.</hi> ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>41</label> Theſe things ſaid Eſaie, vvhen he ſavv his glorie, and ſpake of him.<note place="margin">Act. 28, 27.</note> ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>42</label> But yet of the Princes alſo many beleeued in him: but<note n="⸬" place="margin">This is the caſe of many princi<g ref="char:EOLhyphen"/>pal men in ſuch countries whe<g ref="char:EOLhyphen"/>re hereſie hath the vpperhand, who know and beleeue the Ca<g ref="char:EOLhyphen"/>tholike faith:</note> for the Phariſees they did not confeſſe, that they might not be caſt out of the Synagogue. ✝ <label type="milestone" rend="leftJustify">
-                     <seg type="milestoneunit">verse </seg>43</label> for they loued the glo<g ref="char:EOLhyphen"/>rie of men more, then the glore of God.</p>
+                     <seg type="milestoneunit">verse </seg>43</label> for they loued the glo<g ref="char:EOLhyphen"/>rie of men more, then the glorie of God.</p>
                <p> ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>44</label> But <hi rend="smallcaps">Iesvs</hi> cried, and ſaid, He that beleeueth in me, doth not beleeue in me, but in him that ſent me. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>45</label> And he that
@@ -7701,7 +7705,7 @@
                      <seg type="milestoneunit">verse </seg>2</label> As thou haſt giue<g ref="char:cmbAbbrStroke">̄</g> him povver ouer al fleſh that al vvhich thou haſt giuen him, to them he may giue life euerlaſting. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>3</label> And this is ″ life euerlaſting that they knovv thee, the only true God, and vvhom thou haſt ſent <hi rend="smallcaps">Iesvs Christ</hi>. <g ref="char:halfcross">⊢</g> ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>4</label> I haue glorified thee vpon the earth: I haue conſummated the vvorke vvhich thou gaueſt me to doe: ✝ <label type="milestone" rend="rightJustify">
-                     <seg type="milestoneunit">verse </seg>5</label> and novv glofie thou me O Father vvith thy ſelf, vvith the glorie vvhich I had before the vvorld vvas, vvith thee. ✝ <label type="milestone" rend="rightJustify">
+                     <seg type="milestoneunit">verse </seg>5</label> and novv glorifie thou me O Father vvith thy ſelf, vvith the glorie vvhich I had before the vvorld vvas, vvith thee. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>6</label> I haue manifeſted thy name to the men vvhom thou gaueſt me out of the vvorld. Thine they vvere, and to me thou ga<g ref="char:EOLhyphen"/>ueſt them: and they haue kept thy vvord. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>7</label> Novv they haue knovven that al things vvhich thou gaueſt me, are from thee: ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>8</label> becauſe the vvordes vvhich thou gaueſt me, I haue giuen them: and they haue receiued, and knovven in very deede that I came forth from thee, and haue beleeued that thou didſt ſend me. ✝ <label type="milestone" rend="rightJustify">
@@ -7756,7 +7760,7 @@
                      <seg type="milestoneunit">verse </seg>5</label> they anſvvered him, <hi rend="smallcaps">Iesvs</hi> of Nazareth. <hi rend="smallcaps">Iesvs</hi> ſaith to them, I am he. And Iudas alſo that betraied him, ſtoode vvith them. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>6</label> As ſone therfore as he ſaid to them, I am he: they vvent backvvard, and fel to the ground. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>7</label> Againe therfore he aſked them, Vvhom ſeeke ye? And they ſaid, <hi rend="smallcaps">Iesvs</hi> of Nazareth. ✝ <label type="milestone" rend="rightJustify">
-                     <seg type="milestoneunit">verse </seg>18</label> <hi rend="smallcaps">Iesvs</hi> anſvvered, haue told you, that I am he, if therfore you ſeeke me, let theſe goe their vvaies. ✝ <label type="milestone" rend="rightJustify">
+                     <seg type="milestoneunit">verse </seg>8</label> <hi rend="smallcaps">Iesvs</hi> anſvvered, I haue told you, that I am he, if therfore you ſeeke me, let theſe goe their vvaies. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>9</label> That the vvord might be fulfilled vvhich he ſaid,<note place="margin">Io. 17, 12<g ref="char:punc">▪</g>
                   </note> * That of them vvhom thou haſt giuen me, I haue not loſt any. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>10</label> Simon Peter therfore hauing a ſvvord, drevve it out: and ſmote the ſeruant of the high prieſt: &amp; cut of his right eare. And the name of the ſeruant vvas Malchus. ✝ <label type="milestone" rend="rightJustify">
@@ -7953,7 +7957,7 @@
                <p> ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>30</label> * Many other ſignes alſo did <hi rend="smallcaps">Iesvs</hi> in the ſight of his diſciples,<note place="margin">Io. 21, 25<g ref="char:punc">▪</g>
                   </note> vvhich are not vvritte<g ref="char:cmbAbbrStroke">̄</g> in this booke. ✝ <label type="milestone" rend="leftJustify">
-                     <seg type="milestoneunit">verse </seg>31</label> And theſe are vvritten, that you may beleeue tht <hi rend="smallcaps">Iesvs</hi> is <hi rend="smallcaps">Christ</hi> the ſonne of God: and that beleeuing, you may haue life in his name. <g ref="char:halfcross">⊢</g>
+                     <seg type="milestoneunit">verse </seg>31</label> And theſe are vvritten, that you may beleeue that <hi rend="smallcaps">Iesvs</hi> is <hi rend="smallcaps">Christ</hi> the ſonne of God: and that beleeuing, you may haue life in his name. <g ref="char:halfcross">⊢</g>
                </p>
                <div type="annotations">
                   <head>ANNOTATIONS CHAP. XX.</head>
@@ -8014,7 +8018,7 @@
                </p>
                <p> ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>15</label> Therfore vvhen they had dined, <hi rend="smallcaps">Iesvs</hi> ſaith to Simon 
-<pb n="279" facs="tcp:2646:167"/> Peter,<note place="margin">The Goſpel on the one of SS. Peter and Paul.</note> Simon of Iohn, loueſt thou me more then theſe? He ſaith to him, Yea Lord: thou knovveſt that I loue thee. he ſaith to him, <hi rend="smallcaps">Feede my lambes</hi>. ✝ <label type="milestone" rend="leftJustify">
+<pb n="279" facs="tcp:2646:167"/> Peter,<note place="margin">The Goſpel on the eue of SS. Peter and Paul.</note> Simon of Iohn, loueſt thou me more then theſe? He ſaith to him, Yea Lord: thou knovveſt that I loue thee. he ſaith to him, <hi rend="smallcaps">Feede my lambes</hi>. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>16</label> He ſaith to him againe, Simon of Iohn, loueſt thou me? he ſaith to him, Yea Lord, thou knovveſt that I loue thee. He ſaith to him,
 <note n="c" place="margin">
                      <foreign xml:lang="grc">ποίμαινε</foreign> feede &amp; rule</note> <hi rend="smallcaps">Feede my lambes</hi>. ✝ <label type="milestone" rend="leftJustify">
