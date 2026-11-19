@@ -33,6 +33,7 @@ The entire front matter—including the Censure and Approbation, the landmark 22
 ## 🛠️ XML Structure & Encoding Standards
 
 - **Standard**: TEI P5 XML (Text Encoding Initiative).
+- **Rules & Editorial Conventions**: See [RULES.md](RULES.md) for full transcription, small caps, polytonic Greek, and pagination rules.
 - **Foreign Alphabets**: Encoded with `<foreign xml:lang="...">` (e.g., `xml:lang="grc"` for polytonic Greek).
 - **Early Modern Typography**:
   - Long-s (`ſ`) and typographical ligatures faithfully represented.
