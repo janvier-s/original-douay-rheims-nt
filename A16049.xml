@@ -78,6 +78,7 @@
             <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
             <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
             <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+                     <p>Editorial note on duplicate microfilm exposures: In EEBO microfilm reel 2646, 50 frames represent inadvertent duplicate exposures of physical pages already transcribed. These redundant &lt;pb&gt; and &lt;gap reason="duplicate"&gt; stubs have been removed from the body text to restore uninterrupted textual flow, and are indexed in full in the Appendix in &lt;back&gt;.</p>
          </editorialDecl>
          <listPrefixDef>
             <prefixDef ident="tcp"
@@ -94,6 +95,11 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-11-19">
+            <label>Editorial cleanup</label>
+            <name>Antigravity</name> Removed 50 inline microfilm duplicate &lt;gap reason="duplicate"&gt; stubs from the text body, restored interrupted sentence flow, and established the EEBO Microfilm Duplicate Register in &lt;back&gt;.
+         </change>
+
          <change>
             <date>2005-12</date>
             <label>TCP</label>Assigned for keying and markup</change>
@@ -1186,30 +1192,6 @@
                      <seg type="milestoneunit">verse </seg>13</label> And if ſo be that houſe be vvorthie, your peace ſhal come vpon it. but if it be not vvorthie: your peace ſhal returne to you. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>14</label> And vvhoſoeuer ſhal not receiue you, nor heare your vvordes: going forth out of the houſe or the citie ″ ſhake of the duſt from your feete. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>15</label> Amen I ſay to you, it ſhal be ″ more tolerable for the land of the Sodomites and Gomorrheans in the day of iudgement, then for that citie.
-<pb n="20" facs="tcp:2646:28"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
-                  <pb n="21" facs="tcp:2646:28"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
-                  <pb n="22" facs="tcp:2646:29"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
-                  <pb n="23" facs="tcp:2646:29"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
-                  <pb n="24" facs="tcp:2646:30"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
-                  <pb n="25" facs="tcp:2646:30"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
                </p>
                <p>
                   <pb n="26" facs="tcp:2646:31"/> ✝ <label type="milestone" rend="rightJustify">
@@ -1673,30 +1655,6 @@
                <argument>
                   <p>The obſtinate Phariſees and Sadducees, as though his foreſaid miracles were not ſufficient to proue him to be Chriſt, require to ſee ſome one from heauen, 5 Wherevpon forſaking them, he warneth his diſciples to beware of the leauen of their doctrine: 13 and Peter (the time now approching for him to goe into lewrie to his Paſsion) for confeſsing him to be Chriſt, he maketh the Rocke of his Churche, geuing fulnes of Eccleſiaſtical power accordingly. 21 And after, he ſo rebuketh him for<g ref="char:EOLhyphen"/>diſſuading his Croſſe and Paſsion, that he alſo affirmeth the like ſuffering in euery one to be neceſſarie to ſaluation.</p>
                </argument>
-               <pb n="38" facs="tcp:2646:40"/>
-               <gap reason="duplicate" extent="1 page">
-                  <desc>〈1 page duplicate〉</desc>
-               </gap>
-               <pb n="39" facs="tcp:2646:40"/>
-               <gap reason="duplicate" extent="1 page">
-                  <desc>〈1 page duplicate〉</desc>
-               </gap>
-               <pb n="40" facs="tcp:2646:41"/>
-               <gap reason="duplicate" extent="1 page">
-                  <desc>〈1 page duplicate〉</desc>
-               </gap>
-               <pb n="41" facs="tcp:2646:41"/>
-               <gap reason="duplicate" extent="1 page">
-                  <desc>〈1 page duplicate〉</desc>
-               </gap>
-               <pb n="42" facs="tcp:2646:42"/>
-               <gap reason="duplicate" extent="1 page">
-                  <desc>〈1 page duplicate〉</desc>
-               </gap>
-               <pb n="43" facs="tcp:2646:42"/>
-               <gap reason="duplicate" extent="1 page">
-                  <desc>〈1 page duplicate〉</desc>
-               </gap>
                <p>
                   <pb n="44" facs="tcp:2646:43"/> 
                   <label type="milestone">
@@ -2677,38 +2635,6 @@
                   <p>
                      <hi>75. Wept bitterly.)</hi>
                      <note place="margin">Peters teares and repentance.</note> S. Ambroſe in his Hymne that the Church vſeth at Laudes, ſpeaking of this, ſaith, <hi>Hoc ipſa Petra eccleſia canente, culpam diluit.</hi> When the Cocke crewe, the Rocke of the Church him ſelf waſhed away his fault. <hi>S. Auguſt. 1 Retract. c. 21.</hi>
-                     <pb n="72" facs="tcp:2646:61"/> 
-                     <gap reason="duplicate" extent="1 page">
-                        <desc>〈1 page duplicate〉</desc>
-                     </gap>
-                     <pb n="73" facs="tcp:2646:61"/> 
-                     <gap reason="duplicate" extent="1 page">
-                        <desc>〈1 page duplicate〉</desc>
-                     </gap>
-                     <pb n="74" facs="tcp:2646:62"/> 
-                     <gap reason="duplicate" extent="1 page">
-                        <desc>〈1 page duplicate〉</desc>
-                     </gap>
-                     <pb n="75" facs="tcp:2646:62"/> 
-                     <gap reason="duplicate" extent="1 page">
-                        <desc>〈1 page duplicate〉</desc>
-                     </gap>
-                     <pb n="76" facs="tcp:2646:63"/> 
-                     <gap reason="duplicate" extent="1 page">
-                        <desc>〈1 page duplicate〉</desc>
-                     </gap>
-                     <pb n="77" facs="tcp:2646:63"/> 
-                     <gap reason="duplicate" extent="1 page">
-                        <desc>〈1 page duplicate〉</desc>
-                     </gap>
-                     <pb n="78" facs="tcp:2646:64"/> 
-                     <gap reason="duplicate" extent="1 page">
-                        <desc>〈1 page duplicate〉</desc>
-                     </gap>
-                     <pb n="79" facs="tcp:2646:64"/> 
-                     <gap reason="duplicate" extent="1 page">
-                        <desc>〈1 page duplicate〉</desc>
-                     </gap>
                   </p>
                </div>
             </div>
@@ -5034,22 +4960,6 @@
                      <seg type="milestoneunit">verse </seg>53</label> And they derided him, knovving that ſhe vvas dead. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>54</label> But he holding her hand cried ſaying, Maide ariſe. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>55</label> And ″ her ſpirit returned, and ſhe roſe
-<pb n="158" facs="tcp:2646:106"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
-                  <pb n="159" facs="tcp:2646:106"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
-                  <pb n="160" facs="tcp:2646:107"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
-                  <pb n="161" facs="tcp:2646:107"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
                   <pb n="162" facs="tcp:2646:108"/> incontinent. And he bade them giue her to eate. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>56</label> And her parentes vvere aſtonied, vvhom he commaunded to tel no man that vvhich vvas done.</p>
                <div type="annotations">
@@ -5104,14 +5014,6 @@
                      <seg type="milestoneunit">verse </seg>20</label> And he ſaid to the<g ref="char:cmbAbbrStroke">̄</g>, But vvhom ſay ye that I am? Simon Peter anſvvering, ſaid, The CHRIST of God. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>21</label> But he rebuki<g ref="char:cmbAbbrStroke">̄</g>g them, co<g ref="char:cmbAbbrStroke">̄</g>maunded that they ſhould tell this to no man, ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>22</label> ſaying, That the ſonne of man muſt ſuffer many things, and be reiected of the Aun<g ref="char:EOLhyphen"/>cients and cheefe Prieſts and Scribes, and be killed, and the
-<pb n="162" facs="tcp:2646:109"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
-                  <pb n="163" facs="tcp:2646:109"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
                   <pb n="164" facs="tcp:2646:110"/> third day riſe againe.</p>
                <p> ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>23</label> And he ſaid to al, If any man vvil come after me, let him denie him ſelf, and take vp his croſſe daily, and folovv me. ✝ <label type="milestone" rend="rightJustify">
@@ -12787,30 +12689,6 @@
                      <seg type="milestoneunit">verse </seg>2</label> For vve knovv that the iudgement of God is according to veritie vpon them that doe ſuch things. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>3</label> And doeſt thou ſuppoſe this ô man that iudgeſt them which doe ſuch things, and doeſt the ſame, that thou ſhalt eſcape the iudgement of God? ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>4</label> Or ″ doeſt
-<pb n="380" facs="tcp:2646:221"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
-                  <pb n="381" facs="tcp:2646:221"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
-                  <pb n="382" facs="tcp:2646:222"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
-                  <pb n="383" facs="tcp:2646:222"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
-                  <pb n="384" facs="tcp:2646:223"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
-                  <pb n="385" facs="tcp:2646:223"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
                   <pb n="386" facs="tcp:2646:224"/> thou contemne the riches of his goodnes, and patience, and longanimity, not knovving that the benignity of God brin<g ref="char:EOLhyphen"/>geth thee to penance? ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>5</label> But according to thy hardnes and impenitent hart, thou heapeſt to thy ſelf vvrath, in the day of vvrath and of the reuelation of the iuſt iudgement of God, ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>6</label> vvho vvil * render to euery man ″ according to his vvorkes.<note place="margin">Good men alſo according to the merits of their good vvil ſhal haue their reward. <hi>Aug. <gap reason="illegible" resp="#TECH" extent="1 letter">
@@ -13651,30 +13529,6 @@
                      <seg type="milestoneunit">verse </seg>3</label> For, not knovving ″ the iu<g ref="char:EOLhyphen"/>ſtice of God, &amp; ſeeking to eſtabliſh their ovvne, they haue not been ſubiect to the iuſtice of God. ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>4</label> For,
 <note n="⸬" place="margin">The Lavv vvas not giue<g ref="char:cmbAbbrStroke">̄</g> to make a ma<g ref="char:cmbAbbrStroke">̄</g> iuſt or perfect by it ſelf, but to bri<g ref="char:cmbAbbrStroke">̄</g>g vs to Chriſt to be iuſtified by him.</note> the end of the Law is Chriſt: vnto iuſtice to euery one that
-<pb n="402" facs="tcp:2646:235"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
-                  <pb n="403" facs="tcp:2646:235"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
-                  <pb n="404" facs="tcp:2646:236"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
-                  <pb n="405" facs="tcp:2646:236"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
-                  <pb n="406" facs="tcp:2646:237"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
-                  <pb n="407" facs="tcp:2646:237"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
                   <pb n="408" facs="tcp:2646:238"/> beleeueth. ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>5</label> for Moyſes vvrote,<note n="⸬" place="margin">The iuſtice of the Law of Moyſes went no further of it ſelf, but to ſaue a man from the temporal death and puniſhme<g ref="char:cmbAbbrStroke">̄</g>t preſcribed to the tra<g ref="char:cmbAbbrStroke">̄</g>ſgreſſors of the ſame.</note> that, the iuſtice vvhich is of the Lavv,<note place="margin">Leu. 18, 5.</note> 
                   <hi>the man that hath done it, ſhal liue in it.</hi> ✝ <label type="milestone" rend="rightJustify">
@@ -19589,30 +19443,6 @@
                   </p>
                   <p>
                      <hi>13. Proſper.]</hi> Though hereſies and the authors of them be after a while diſcouered &amp; by litle and litle forſaken generally of the honeſt, diſcrete, and men careful of their owne
-<pb n="586" facs="tcp:2646:330"/> 
-                     <gap reason="duplicate" extent="1 page">
-                        <desc>〈1 page duplicate〉</desc>
-                     </gap>
-                     <pb n="587" facs="tcp:2646:330"/> 
-                     <gap reason="duplicate" extent="1 page">
-                        <desc>〈1 page duplicate〉</desc>
-                     </gap>
-                     <pb n="588" facs="tcp:2646:331"/> 
-                     <gap reason="duplicate" extent="1 page">
-                        <desc>〈1 page duplicate〉</desc>
-                     </gap>
-                     <pb n="589" facs="tcp:2646:331"/> 
-                     <gap reason="duplicate" extent="1 page">
-                        <desc>〈1 page duplicate〉</desc>
-                     </gap>
-                     <pb n="590" facs="tcp:2646:332"/> 
-                     <gap reason="duplicate" extent="1 page">
-                        <desc>〈1 page duplicate〉</desc>
-                     </gap>
-                     <pb n="591" facs="tcp:2646:332"/> 
-                     <gap reason="duplicate" extent="1 page">
-                        <desc>〈1 page duplicate〉</desc>
-                     </gap>
                      <pb n="592" facs="tcp:2646:333"/> ſaluation, yet their authors and other great ſinners proceede from one errour and hereſie to an other, and finally to plaine Atheiſme and al Diueliſh diſorder.</p>
                   <p>
                      <hi>16. Al Scripture.]</hi> Beſides the Apoſtles teaching and tradition, the reading of holy Scriptures is a great defenſe and helpe of the faithful, aud ſpecially of a Biſhop, not onely to auoid and condemne al hereſies,<note place="margin">The great profit of reading the Scriptures.</note> but to the guiding of a man in al iuſtice, good life and vvorkes. Vvhich commendation is not here giuen to the bookes of the new Teſtament onely (vvhereof he here ſpeaketh not, as being yet for a great part not vvritten) but to the Scripture of the old Teſtament alſo, yea and to euery booke of it. For there is not one of them, nor any part of them, but it is profitable to the end aforeſaid, if it be read and vnderſtood according to the ſame Spirit vvherewith it vvas vvritten.</p>
@@ -20282,30 +20112,6 @@
                      <seg type="milestoneunit">verse </seg>1</label> 
                   <seg rend="decorInit">F</seg>OR this ″ Melchiſedec, the king of Salem, Prieſt of the God moſt high,<note place="margin">Gen. 14, 18.</note> * vvho mette Abraham returning from the ſlaughter of the kings, and bleſſed him: ✝ <label type="milestone" rend="leftJustify">
                      <seg type="milestoneunit">verse </seg>2</label> to vvhom alſo A<g ref="char:EOLhyphen"/>braha<g ref="char:cmbAbbrStroke">̄</g> deuided tithes of al: firſt in deede by in<g ref="char:EOLhyphen"/>terpretation,
-<pb facs="tcp:2646:344"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
-                  <pb facs="tcp:2646:344"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
-                  <pb n="610" facs="tcp:2646:345"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
-                  <pb n="611" facs="tcp:2646:345"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
-                  <pb n="612" facs="tcp:2646:346"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
-                  <pb n="613" facs="tcp:2646:346"/> 
-                  <gap reason="duplicate" extent="1 page">
-                     <desc>〈1 page duplicate〉</desc>
-                  </gap>
                   <pb n="614" facs="tcp:2646:347"/> 
                   <note n="⸬" place="margin">When the fa<g ref="char:EOLhyphen"/>thers &amp; catho<g ref="char:EOLhyphen"/>like expoſi<g ref="char:EOLhyphen"/>tours pike out allegories and myſteries out of the names of me<g ref="char:cmbAbbrStroke">̄</g>, the Pro<g ref="char:EOLhyphen"/>teſta<g ref="char:cmbAbbrStroke">̄</g>ts not en<g ref="char:EOLhyphen"/>dued vvith the Spirit vvherby the ſcriptures vvere giue<g ref="char:cmbAbbrStroke">̄</g>, de<g ref="char:EOLhyphen"/>ride their holy labours in the ſearch of the ſame: but the Apoſtle findeth high myſterie in the very na<g ref="char:EOLhyphen"/>mes of perſons and places, as you ſee.</note> the king of iuſtice: &amp; then alſo king of Salem, vvhich is to ſay, king of peace, ✝ <label type="milestone" rend="rightJustify">
                      <seg type="milestoneunit">verse </seg>3</label> ″ vvithout father, without mother, vvithout genealogie, hauing neither beginning of daies nor end of life, but likened to the ſonne of God, con<g ref="char:EOLhyphen"/>tinueth a prieſt for euer.</p>
@@ -25324,5 +25130,93 @@
             <pb facs="tcp:2646:426"/>
          </div>
       </body>
+      <back>
+         <div type="appendix" subtype="microfilm_duplicates">
+            <head>EEBO Microfilm Duplicate Exposures Register (Reel 2646)</head>
+            <p>During the 20th-century microfilming of EEBO reel 2646 (ProQuest STC 2884 / British Library copy), 50 microfilm frames were photographed as redundant re-take exposures of physical pages already transcribed in this edition. In the original EEBO-TCP keying, these were marked with empty <gi>gap reason="duplicate"</gi> tags in the body text, which broke sentences mid-phrase. In this critical edition, those inline stubs have been removed to restore uninterrupted reading flow, and all 50 duplicate exposures are cataloged in the register below.</p>
+            <table>
+               <row role="label">
+                  <cell>Cluster</cell>
+                  <cell>Book &amp; Context</cell>
+                  <cell>Printed Pages</cell>
+                  <cell>Primary Microfilm Frames</cell>
+                  <cell>Duplicate Microfilm Frames</cell>
+                  <cell>Page Count</cell>
+               </row>
+               <row>
+                  <cell>1</cell>
+                  <cell>Matthew 8–10</cell>
+                  <cell>20–25</cell>
+                  <cell>tcp:2646:25–27</cell>
+                  <cell>tcp:2646:28–30</cell>
+                  <cell>6 pages</cell>
+               </row>
+               <row>
+                  <cell>2</cell>
+                  <cell>Matthew 16–17</cell>
+                  <cell>38–43</cell>
+                  <cell>tcp:2646:37–39</cell>
+                  <cell>tcp:2646:40–42</cell>
+                  <cell>6 pages</cell>
+               </row>
+               <row>
+                  <cell>3</cell>
+                  <cell>Matthew 26</cell>
+                  <cell>72–79</cell>
+                  <cell>tcp:2646:57–60</cell>
+                  <cell>tcp:2646:61–64</cell>
+                  <cell>8 pages</cell>
+               </row>
+               <row>
+                  <cell>4</cell>
+                  <cell>Luke 7–8</cell>
+                  <cell>158–161</cell>
+                  <cell>tcp:2646:104–105</cell>
+                  <cell>tcp:2646:106–107</cell>
+                  <cell>4 pages</cell>
+               </row>
+               <row>
+                  <cell>5</cell>
+                  <cell>Luke 9</cell>
+                  <cell>162–163</cell>
+                  <cell>tcp:2646:108</cell>
+                  <cell>tcp:2646:109</cell>
+                  <cell>2 pages</cell>
+               </row>
+               <row>
+                  <cell>6</cell>
+                  <cell>Romans 1–2</cell>
+                  <cell>380–385</cell>
+                  <cell>tcp:2646:218–220</cell>
+                  <cell>tcp:2646:221–223</cell>
+                  <cell>6 pages</cell>
+               </row>
+               <row>
+                  <cell>7</cell>
+                  <cell>Romans 9–10</cell>
+                  <cell>402–407</cell>
+                  <cell>tcp:2646:232–234</cell>
+                  <cell>tcp:2646:235–237</cell>
+                  <cell>6 pages</cell>
+               </row>
+               <row>
+                  <cell>8</cell>
+                  <cell>Hebrews 3–4</cell>
+                  <cell>586–591</cell>
+                  <cell>tcp:2646:327–329</cell>
+                  <cell>tcp:2646:330–332</cell>
+                  <cell>6 pages</cell>
+               </row>
+               <row>
+                  <cell>9</cell>
+                  <cell>Hebrews 7</cell>
+                  <cell>608–613</cell>
+                  <cell>tcp:2646:341–343</cell>
+                  <cell>tcp:2646:344–346</cell>
+                  <cell>6 pages</cell>
+               </row>
+            </table>
+         </div>
+      </back>
    </text>
 </TEI>

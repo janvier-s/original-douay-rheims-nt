@@ -224,3 +224,12 @@ All automated publishing via `scripts/wikisource/wikipost.py` must adhere strict
    - Include specific descriptions of changes made (e.g. `audit against 1582 print: restore margin notes, polytonic Greek, fix hws title, NFC`).
 5. **Manifest Tracking**:
    - Every published page must have its SHA1, live `revid`, and status `posted` updated in `wikisource/1582-rhemes-nt/manifest.json`.
+
+---
+
+## 11. Microfilm Duplicate Exposures Policy
+
+In the EEBO microfilm reel 2646, 50 frames represent accidental duplicate or re-take photographs of 1582 print pages. 
+1. **Body Text Cleanliness**: Inline `<pb .../><gap reason="duplicate" extent="1 page"/>` stubs must **not** be left in the body text, as they break sentences and create false gap counts.
+2. **Archival Traceability**: All 50 duplicate frames are permanently recorded in the TEI `<back>` Appendix of `A16049.xml` (`<div type="appendix" subtype="microfilm_duplicates">`) and documented in `README.md`.
+3. **No Missing Content**: These duplicate frames contain no missing text; all text is fully transcribed from the primary microfilm exposures.

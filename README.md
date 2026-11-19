@@ -23,7 +23,7 @@ The entire Gospel of Matthew—including the Argument of S. Matthewes Gospel, th
 - **267 Gaps Restored**:
   - **17 Polytonic Greek Passages**: Restored using standard TEI `<foreign xml:lang="grc">...</foreign>` elements with full polytonic accents (e.g. `Μετανοεῖν`, `Μετάνοια`, `μετάνοιαν`, `λατρεύσεις`, `Μισθὸς`, `τὸν ἐπιούσιον`, `μετάνοια`, `οἱ ἐν μετανοίᾳ ὄντες`, `τοὺς μετανοοῦντας`, `χωροῦσι`, `εὐλογεῖν`, `εὐλόγησεν αὐτοὺς`, `τὸν ἄρτον εὐχαριστηθέντα`, `ἐκχυνόμενον`, `κλώμενον`, `διδόμενον`).
   - **250 Faint/Illegible Gaps & Print Markers**: Accurately supplied based on 1582 print facsimiles, including annotation catchword markers (`″`), gloss markers (`⸬`), reading ends (`<g ref="char:halfcross">⊢</g>`), verse daggers (`✝`), citation numerals, and missing word fragments (`de cuſtod.`, `c. 51. to. 7.`, `Few are elect.]`, etc.).
-  - **Facsimile Duplicates Preserved**: Preserved 20 microfilm duplicate page shots as structural facsimile metadata (`<gap reason="duplicate" extent="1 page"/>`).
+  - **Microfilm Duplicate Exposures**: Removed 20 redundant inline duplicate stubs from body text; cataloged in the `<back>` Appendix register.
 - **Unicode NFC Normalization**: Fully normalized to Unicode Canonical Composition (NFC).
 - **Small Capitals Tagged**: Explicitly encoded small-caps typography across all 28 chapters of Matthew (`<hi rend="smallcaps">`), covering sacred names (`IESVS`, `IESV`, `MARIE`, `CHRIST`), chapter drop-cap continuations (`<seg rend="decorInit">...</seg><hi rend="smallcaps">...</hi>`), Words of Institution (Matt 26:26–28), titulus (Matt 27:37), baptismal formula (Matt 28:19), and liturgical marginal rubrics.
 - **Wikisource Alignment**: Synchronized 1:1 with the page-by-page critical transcription on [English Wikisource](https://en.wikisource.org/wiki/Index:The_New_Testament_of_Iesus_Christ_(1582).djvu).
@@ -42,10 +42,26 @@ The entire Gospel of Luke—including the Argument of S. Luke, all 24 chapters o
 - **111 Gaps Restored**:
   - **25 Polytonic Greek Passages**: Restored using standard TEI `<foreign xml:lang="grc">...</foreign>` elements with full polytonic accents (e.g. `ἀπογράψασθαι`, `ἀπογραφὴ`, `ἐνεβριμῶντο`, `σπλαγχνίζομαι`, `πῦρ ἦλθον βαλεῖν εἰς τὴν γῆν`, `οἰκονόμον τῆς ἀδικίας`, `ἐπιούσιον`, `ἀναπεσεῖν`, `ἐπιπεσεῖν`, `ἐξουσία`, `χάρις`, `παρακαλέσαι`, `ἐπισκοπή`, etc.).
   - **86 Faint/Illegible Gaps & Print Markers**: Accurately supplied based on 1582 print facsimiles, including annotation catchword markers (`″`), quote anchors (`` ` ``), variant readings, chapter arguments, and missing word fragments (`Zacharie`, `Herod`, `the Lord`, `his kinred`, `the holie Ghost`, `he saith`, `deceitful`, `the Son of man`, `remission of sinnes`, `faith`, etc.).
-  - **Facsimile Duplicates Preserved**: Preserved 6 microfilm duplicate page shots as structural facsimile metadata (`<gap reason="duplicate" extent="1 page"/>`).
+  - **Microfilm Duplicate Exposures**: Removed 6 redundant inline duplicate stubs from body text; cataloged in the `<back>` Appendix register.
 - **Unicode NFC Normalization**: Fully normalized to Unicode Canonical Composition (NFC).
 - **Small Capitals Tagged**: Explicitly encoded small-caps typography across all 24 chapters of Luke (`<hi rend="smallcaps">`), covering sacred names (`IESVS`, `IESV`, `MARIE`, `CHRIST`), chapter drop-cap continuations (`<seg rend="decorInit">...</seg><hi rend="smallcaps">...</hi>`), Words of Institution (Luke 22:19, 20), titulus (Luke 23:38), and liturgical/division marginal rubrics.
 - **Wikisource Alignment**: Synchronized 1:1 with the page-by-page critical transcription on [English Wikisource](https://en.wikisource.org/wiki/Index:1582_Rhemes_New_Testament.pdf).
+
+### EEBO Microfilm Duplicate Exposures Register — **Archived to TEI Appendix**
+During the 20th-century microfilming of EEBO reel 2646 (ProQuest STC 2884), 50 frames represent accidental duplicate re-take exposures of pages already transcribed in the main text. To prevent broken sentences and false gap counts, all 50 inline `<gap reason="duplicate"/>` stubs have been removed from the body text and cataloged in a dedicated `<back>` Appendix (`<div type="appendix" subtype="microfilm_duplicates">`) in `A16049.xml`:
+
+| Cluster | Section / Book | Printed Pages | Primary Microfilm Frames | Duplicate Microfilm Frames | Page Count |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **1** | Matthew 8–10 | pp. 20–25 | `tcp:2646:25–27` | `tcp:2646:28–30` | 6 pages |
+| **2** | Matthew 16–17 | pp. 38–43 | `tcp:2646:37–39` | `tcp:2646:40–42` | 6 pages |
+| **3** | Matthew 26 | pp. 72–79 | `tcp:2646:57–60` | `tcp:2646:61–64` | 8 pages |
+| **4** | Luke 7–8 | pp. 158–161 | `tcp:2646:104–105` | `tcp:2646:106–107` | 4 pages |
+| **5** | Luke 9 | pp. 162–163 | `tcp:2646:108` | `tcp:2646:109` | 2 pages |
+| **6** | Romans 1–2 | pp. 380–385 | `tcp:2646:218–220` | `tcp:2646:221–223` | 6 pages |
+| **7** | Romans 9–10 | pp. 402–407 | `tcp:2646:232–234` | `tcp:2646:235–237` | 6 pages |
+| **8** | Hebrews 3–4 | pp. 586–591 | `tcp:2646:327–329` | `tcp:2646:330–332` | 6 pages |
+| **9** | Hebrews 7 | pp. 608–613 | `tcp:2646:341–343` | `tcp:2646:344–346` | 6 pages |
+| **Total** | | | | | **50 pages** |
 
 ### Biblical Text & Annotations (John through Apocalypse) — **In Progress**
 - Gaps in the biblical chapters, arguments, and marginal notes are being audited and backfilled book by book against original scans and the Peters facsimile edition.
