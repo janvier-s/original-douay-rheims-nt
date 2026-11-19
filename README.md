@@ -47,6 +47,15 @@ The entire Gospel of Luke—including the Argument of S. Luke, all 24 chapters o
 - **Small Capitals Tagged**: Explicitly encoded small-caps typography across all 24 chapters of Luke (`<hi rend="smallcaps">`), covering sacred names (`IESVS`, `IESV`, `MARIE`, `CHRIST`), chapter drop-cap continuations (`<seg rend="decorInit">...</seg><hi rend="smallcaps">...</hi>`), Words of Institution (Luke 22:19, 20), titulus (Luke 23:38), and liturgical/division marginal rubrics.
 - **Wikisource Alignment**: Synchronized 1:1 with the page-by-page critical transcription on [English Wikisource](https://en.wikisource.org/wiki/Index:1582_Rhemes_New_Testament.pdf).
 
+### Gospel of John (Pages 242–308 / Printed Pages 214–280) — **100% Complete**
+The entire Gospel of John—including the two-page Argument of S. Iohns Gospel, all 21 chapters of biblical text, chapter arguments, annotations, and marginal notes—has been audited against original print facsimiles:
+- **116 Gaps Restored**:
+  - **4 Polytonic Greek Passages**: Restored using standard TEI `<foreign xml:lang="grc">...</foreign>` elements with full polytonic accents (`σκηνῶν ἑορτὴ` at John 7:2, `Ἀμὴν, ἀμὴν` at John 8:34 annot, and `ποίμαινε` at John 21:16 and 21:17 annot).
+  - **112 Faint/Illegible Gaps & Print Markers**: Accurately supplied based on 1582 print facsimiles, including patristic citations (`Irenæus`, `Ec.`, `cœna`, `fuga`, `3 to. 2`), lectionary rubrics (`Maij 3.`, `Saturday in Eaſter weeke.`, `Thurſday in Eaſter weeke.`), chapter summary verse numbers, and word fragments (`marchantes`, `tarie`, `bedred`, `Woulfe,`, `expreſſe`, `ſhipvvracke`, etc.).
+- **Unicode NFC Normalization**: Fully normalized to Unicode Canonical Composition (NFC).
+- **Small Capitals Tagged**: Explicitly encoded small-caps typography across the Argument and all 21 chapters of John (`<hi rend="smallcaps">`), covering sacred names (`IESVS`, `CHRIST`, `MARIE`, `WORD`/`VVORD`, `MESSIAS`), chapter drop-cap continuations (`<seg rend="decorInit">...</seg><hi rend="smallcaps">...</hi>`), the Incarnation declaration (`AND THE VVORD VVAS MADE FLESH`, John 1:14), Titulus Crucis (`IESVS OF NAZARETH THE KING OF THE IEVVES`, John 19:19), Words of Forgiveness (John 20:23), the pastoral commission (`FEEDE MY LAMBES` / `FEEDE MY SHEEPE`, John 21:15–17), and liturgical/division marginal rubrics.
+- **Wikisource Alignment**: Synchronized 1:1 with the page-by-page critical transcription on [English Wikisource](https://en.wikisource.org/wiki/Index:1582_Rhemes_New_Testament.pdf).
+
 ### EEBO Microfilm Duplicate Exposures Register — **Archived to TEI Appendix**
 During the 20th-century microfilming of EEBO reel 2646 (ProQuest STC 2884), 50 frames represent accidental duplicate re-take exposures of pages already transcribed in the main text. To prevent broken sentences and false gap counts, all 50 inline `<gap reason="duplicate"/>` stubs have been removed from the body text and cataloged in a dedicated `<back>` Appendix (`<div type="appendix" subtype="microfilm_duplicates">`) in `A16049.xml`:
 
@@ -63,7 +72,7 @@ During the 20th-century microfilming of EEBO reel 2646 (ProQuest STC 2884), 50 f
 | **9** | Hebrews 7 | pp. 608–613 | `tcp:2646:341–343` | `tcp:2646:344–346` | 6 pages |
 | **Total** | | | | | **50 pages** |
 
-### Biblical Text & Annotations (John through Apocalypse) — **In Progress**
+### Biblical Text & Annotations (Acts through Apocalypse) — **In Progress**
 - Gaps in the biblical chapters, arguments, and marginal notes are being audited and backfilled book by book against original scans and the Peters facsimile edition.
 
 ---
@@ -1222,8 +1231,8 @@ A MORE AMPLE DECLARATION OF THE ſenſe of this 14 Chapter.
   * There are 6 **verse** lines!
   * Oh, Mr. Jourdain, there is **prose** in there!
 
-There are 2058 **ommitted** fragments! 
- @__reason__ (2058) : illegible (1742), foreign (266), duplicate (50)  •  @__resp__ (1729) : #TECH (1729)  •  @__extent__ (1792) : 1 letter (1387), 1 word (188), 2 letters (118), 1 page (50), 1 span (30), 3 letters (12), 4 letters (4), 2 words (2), 5 letters (1)
+There are 1710 **ommitted** fragments! 
+ @__reason__ (1710) : illegible (1474), foreign (236)  •  @__resp__ (1463) : #TECH (1463)  •  @__extent__ (1474) : 1 letter (1173), 1 word (153), 2 letters (100), 1 span (29), 3 letters (12), 4 letters (4), 2 words (2), 5 letters (1)
 
 **Character listing**
 
@@ -1253,14 +1262,14 @@ There are 2058 **ommitted** fragments!
 |1.|__author__|1||
 |2.|__availability__|1||
 |3.|__biblFull__|1||
-|4.|__change__|7||
-|5.|__date__|10| @__when__ (1) : 2006-06 (1)|
+|4.|__change__|13| @__when__ (1) : 2026-11-19 (1)|
+|5.|__date__|15| @__when__ (1) : 2006-06 (1)|
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
 |9.|__extent__|2||
 |11.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|12.|__label__|7||
+|12.|__label__|13||
 |13.|__langUsage__|1||
 |14.|__language__|1| @__ident__ (1) : eng (1)|
 |15.|__listPrefixDef__|1||
@@ -1288,15 +1297,15 @@ There are 2058 **ommitted** fragments!
 |3.|__bibl__|17||
 |4.|__cell__|848| @__role__ (22) : label (22)|
 |5.|__closer__|2||
-|6.|__desc__|1987||
-|7.|__div__|559| @__type__ (559) : title_page (1), approbation (1), preface (1), key_to_sigla (1), list_of_New_Testament_books (1), part (9), summary_of_New_Testament (1), argument (24), gospel (4), chapter (256), annotations (232), gospel_harmony (1), book (2), summary (1), epistle (20), section (1), list_of_lectionary_readings (1), index (1), glossary (1)  •  @__n__ (287) : 1 (24), 2 (24), 3 (24), 4 (21), 5 (18), Matthew (1), 6 (13), 7 (10), 8 (10), 9 (10), 10 (10), 11 (10), 12 (10), 13 (10), 14 (8), 15 (8), 16 (8), 17 (5), 18 (5), 19 (5), 20 (5), 21 (5), 22 (4), 23 (3), 24 (3), 25 (2), 26 (2), 27 (2), 28 (2), Mark (1), Luke (1), John (1), Acts of the Apostles (1), Romans (1), 1 Corinthians (1), 2 Corinthians (1), Galatians (1), Ephesians (1), Philippians (1), Colossians (1), 1 Thessalonians (1), 2 Thessalonians (1), 1 Timothy (1), 2 Timothy (1), Titus (1), Hebrews (1), James (1), 1 Peter (1), 2 Peter (1), 1 John (1), 2 John (1), 3 John (1), Jude (1), Apocalypse (1)|
+|6.|__desc__|1710||
+|7.|__div__|560| @__type__ (560) : title_page (1), approbation (1), preface (1), key_to_sigla (1), list_of_New_Testament_books (1), part (9), summary_of_New_Testament (1), argument (24), gospel (4), chapter (256), annotations (232), gospel_harmony (1), book (2), summary (1), epistle (20), section (1), list_of_lectionary_readings (1), index (1), glossary (1), appendix (1)  •  @__subtype__ (1) : microfilm_duplicates (1)  •  @__n__ (287) : 1 (24), 2 (24), 3 (24), 4 (21), 5 (18), Matthew (1), 6 (13), 7 (10), 8 (10), 9 (10), 10 (10), 11 (10), 12 (10), 13 (10), 14 (8), 15 (8), 16 (8), 17 (5), 18 (5), 19 (5), 20 (5), 21 (5), 22 (4), 23 (3), 24 (3), 25 (2), 26 (2), 27 (2), 28 (2), Mark (1), Luke (1), John (1), Acts of the Apostles (1), Romans (1), 1 Corinthians (1), 2 Corinthians (1), Galatians (1), Ephesians (1), Philippians (1), Colossians (1), 1 Thessalonians (1), 2 Thessalonians (1), 1 Timothy (1), 2 Timothy (1), Titus (1), Hebrews (1), James (1), 1 Peter (1), 2 Peter (1), 1 John (1), 2 John (1), 3 John (1), Jude (1), Apocalypse (1)|
 |8.|__epigraph__|1||
 |9.|__figure__|1||
-|11.|__foreign__|62| @__xml:lang__ (62) : grc (62)|
+|11.|__foreign__|91| @__xml:lang__ (91) : grc (91)|
 |11.|__g__|12158| @__ref__ (12158) : char:EOLhyphen (8708), char:cmbAbbrStroke (2436), char:punc (623), char:halfcross (290), char:EOLunhyphen (91), char:leaf (9), char:dtristar (1)|
-|12.|__gap__|1987| @__reason__ (1987) : illegible (1672), foreign (265), duplicate (50)  •  @__resp__ (1659) : #TECH (1659)  •  @__extent__ (1722) : 1 letter (1329), 1 word (182), 2 letters (113), 1 page (50), 1 span (29), 3 letters (12), 4 letters (4), 2 words (2), 5 letters (1)|
-|13.|__head__|603||
-|14.|__hi__|5916| @__rend__ (380) : smallcaps (377), sup (3)|
+|12.|__gap__|1710| @__reason__ (1710) : illegible (1474), foreign (236)  •  @__resp__ (1463) : #TECH (1463)  •  @__extent__ (1474) : 1 letter (1173), 1 word (153), 2 letters (100), 1 span (29), 3 letters (12), 4 letters (4), 2 words (2), 5 letters (1)|
+|13.|__head__|604||
+|14.|__hi__|6398| @__rend__ (862) : smallcaps (859), sup (3)|
 |15.|__item__|489||
 |16.|__l__|6||
 |17.|__label__|7951| @__type__ (7951) : milestone (7951)  •  @__rend__ (7688) : leftJustify (3950), rightJustify (3738)|
