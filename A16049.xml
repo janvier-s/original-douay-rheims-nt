@@ -158,6 +158,9 @@
          <change>
             <date>2026-11</date>
             <label>Janvier</label>Audited Acts of the Apostles (pp. 317-404 / print pp. 289-376); corrected 13 EEBO-TCP typist transcription errors against the 1582 print (7:25 vnderſtoode, 16:33 vvoundes, 19:31 ſelf, 20:4 Soſipater, 21:3 vvere, 21:39 Ievve, 24:22 differred, 27:2 ſaile, 27:14 tempeſtuous, 27:26 iland, 27:29 ankers, 28:20 therfore, 28:27 vvaxen); normalized to Unicode NFC</change>
+         <change>
+            <date>2026-11</date>
+            <label>Janvier</label>Audited Acts End-Matter (Sum of Acts, Tables of SS. Peter &amp; Paul, Of the Other Apostles, Creed, pp. 402-404 / print pp. 374-376); corrected EEBO-TCP typist errors and gaps against the 1582 print (p. 374: restored "ſo far as", corrected is/it, prociſe/preciſe, no•/yet, restored plat, corrected bit/hit, restored Simon Magus, Pontus, Nicepho, Tiberij 23, Euseb. li. 2 c. 16, Suidas, Catalo, pag. 656, ep. 19, Neronis 14; p. 375: restored Prudentius "Hic nempe iam regnant duo", Act. 7, conuerteth, Act. 18, c. 1, viſite, S. Ambroſ. ſer. 66. 68.; p. 376: restored Eccleſiaſtical, teſtifie, Achaia, Phrygia, Thaddæus, ſer. 38, the ſame, corrected "he roſe")</change>
       </revisionDesc>
    </teiHeader>
    <text xml:lang="eng">
@@ -11671,15 +11674,9 @@
          </div>
          <div type="summary">
             <pb n="374" facs="tcp:2646:215"/>
-            <head>THE SVMME OF THE ACTES OF THE APOSTLES, CONTEINING SPECIALLY THE GESTES OF THE TVVO PRINCIPAL Apoſtles, SS. Peter and Paul, in ſuch order of time and yeres of the Emperours, and from Chriſts Natiuitia, and Aſcenſion, as they vvere done: ſo <gap reason="illegible" resp="#TECH" extent="2 letters">
-                  <desc>••</desc>
-               </gap>r as by holy Scriptures or Eccleſiaſtical vvriters may be gathered.</head>
+            <head>THE SVMME OF THE ACTES OF THE APOSTLES, CONTEINING SPECIALLY THE GESTES OF THE TVVO PRINCIPAL Apoſtles, SS. Peter and Paul, in ſuch order of time and yeres of the Emperours, and from Chriſts Natiuitia, and Aſcenſion, as they vvere done: ſo far as by holy Scriptures or Eccleſiaſtical vvriters may be gathered.</head>
             <argument>
-               <p>Wherein though is be not poſsible to ſet dovvne the prociſe and vndoubted time or yere of euery thing, becauſe neither S. Luke nor others do note particularly and orderly the moments of euery action of the ſaid Apoſtles: no<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap> vve folovv the moſt probable and plaine <gap reason="illegible" resp="#TECH" extent="1 word">
-                     <desc>〈◊〉</desc>
-                  </gap> that vve finde in holy Scripture and auncient vvriters.<note place="margin">See the annot.</note> Whereby the ſtudious reader may eaſily diſcouer the folly of the Proteſtants,<note place="margin">Rom. 16, 15.</note> that can finde no time when * Peter might poſsibly come to Rome, be Biſhop. and die there<g ref="char:punc">▪</g> diuers things in S. Paules actes being no leſſe hard to reconcile to the courſe of S. Lukes narration.<note place="margin">Gal. 1.</note> then any thing touching the hiſtorie of S. Peter namely his * three yeres preaching in Arabia: al vvhich muſt needes be true, vvhether vve bit the very iuſt time or no, and hovv ſo euer authors differ about the ſame.</p>
+               <p>Wherein though it be not poſsible to ſet dovvne the preciſe and vndoubted time or yere of euery thing, becauſe neither S. Luke nor others do note particularly and orderly the moments of euery action of the ſaid Apoſtles: yet vve folovv the moſt probable and plaine plat that vve finde in holy Scripture and auncient vvriters.<note place="margin">See the annot.</note> Whereby the ſtudious reader may eaſily diſcouer the folly of the Proteſtants,<note place="margin">Rom. 16, 15.</note> that can finde no time when * Peter might poſsibly come to Rome, be Biſhop. and die there<g ref="char:punc">▪</g> diuers things in S. Paules actes being no leſſe hard to reconcile to the courſe of S. Lukes narration.<note place="margin">Gal. 1.</note> then any thing touching the hiſtorie of S. Peter namely his * three yeres preaching in Arabia: al vvhich muſt needes be true, vvhether vve hit the very iuſt time or no, and hovv ſo euer authors differ about the ſame.</p>
             </argument>
             <p>
                <table>
@@ -11702,12 +11699,8 @@
                      <cell> </cell>
                      <cell> </cell>
                      <cell> </cell>
-                     <cell>Receiuing vvith the reſt the gifts of the Holy Ghoſt on Vvhit-ſunday,<note place="margin">Tiberij 18</note> he made the firſt Sermon,<note place="margin">Nat. <gap reason="illegible" resp="#TECH" extent="1 word">
-                              <desc>〈◊〉</desc>
-                           </gap>. 34</note> and conuerted 3000. <hi>Act. 2.</hi>
-                        <note place="margin">Aſce<gap reason="illegible" resp="#TECH" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>. 1</note>
+                     <cell>Receiuing vvith the reſt the gifts of the Holy Ghoſt on Vvhit-ſunday,<note place="margin">Tiberij 18</note> he made the firſt Sermon,<note place="margin">Nat. Dn<g ref="char:cmbAbbrStroke">̄</g>i. 34</note> and conuerted 3000. <hi>Act. 2.</hi>
+                        <note place="margin">Aſcen. 1</note>
                      </cell>
                   </row>
                   <row>
@@ -11735,22 +11728,16 @@
                      <cell> </cell>
                      <cell> </cell>
                      <cell> </cell>
-                     <cell>He is ſent vvith Iohn to Samaria, to confirme the nevvly baptized, vvhere he reproueth Simon Magu<gap reason="illegible" resp="#TECH" extent="1 letter">
-                           <desc>•</desc>
-                        </gap>. <hi>Act. 8.</hi>
+                     <cell>He is ſent vvith Iohn to Samaria, to confirme the nevvly baptized, vvhere he reproueth Simon Magus. <hi>Act. 8.</hi>
                      </cell>
                   </row>
                   <row>
                      <cell>19</cell>
                      <cell>35</cell>
                      <cell>2</cell>
-                     <cell>He healeth Aeneas at Lydda,<note place="margin">Tiberij 19</note> and raiſeth Tabitha from death at Ioppè.<note place="margin">Nat. <gap reason="illegible" resp="#TECH" extent="1 word">
-                              <desc>〈◊〉</desc>
-                           </gap>. 35</note> 
+                     <cell>He healeth Aeneas at Lydda,<note place="margin">Tiberij 19</note> and raiſeth Tabitha from death at Ioppè.<note place="margin">Nat. Dn<g ref="char:cmbAbbrStroke">̄</g>i. 35</note> 
                         <hi>Act. 9.</hi>
-                        <note place="margin">Aſce<gap reason="illegible" resp="#TECH" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>. 2</note>
+                        <note place="margin">Aſcen. 2</note>
                      </cell>
                   </row>
                   <row>
@@ -11764,11 +11751,7 @@
                      <cell>20</cell>
                      <cell>36</cell>
                      <cell>3</cell>
-                     <cell>He continueth preaching in diuers partes of Iurie and the prouinces adioyning.<note place="margin">Tiberij 20</note> About tvvo yeres after this,<note place="margin">Nat. <gap reason="illegible" resp="#TECH" extent="1 word">
-                              <desc>〈◊〉</desc>
-                           </gap>. 36</note> S. Paul viſiteth him at Hieruſalem.<note place="margin">Aſce<gap reason="illegible" resp="#TECH" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>. 3</note> 
+                     <cell>He continueth preaching in diuers partes of Iurie and the prouinces adioyning.<note place="margin">Tiberij 20</note> About tvvo yeres after this,<note place="margin">Nat. Dn<g ref="char:cmbAbbrStroke">̄</g>i. 36</note> S. Paul viſiteth him at Hieruſalem.<note place="margin">Aſcen. 3</note> 
                         <hi>Gal. 1.</hi>
                      </cell>
                   </row>
@@ -11776,18 +11759,14 @@
                      <cell> </cell>
                      <cell> </cell>
                      <cell> </cell>
-                     <cell>He preacheth in Syria and the Prouinces of Aſia minor, Bythynia, Poutus, Galatia, Cappodocia, ordaining Biſhops and Prieſts in diuers places. <hi>1 Pet. 1. Nacepho. li. 2 c. 35. Platina in Petro.</hi>
+                     <cell>He preacheth in Syria and the Prouinces of Aſia minor, Bythynia, Pontus, Galatia, Cappodocia, ordaining Biſhops and Prieſts in diuers places. <hi>1 Pet. 1. Nicepho. li. 2 c. 35. Platina in Petro.</hi>
                      </cell>
                   </row>
                   <row>
                      <cell>23</cell>
                      <cell>39</cell>
                      <cell>6</cell>
-                     <cell>He goeth to Antioche,<note place="margin">Tiberij 29</note> preaching there,<note place="margin">Nat. <gap reason="illegible" resp="#TECH" extent="1 word">
-                              <desc>〈◊〉</desc>
-                           </gap>. 39</note> and making that his Seate,<note place="margin">Aſce<gap reason="illegible" resp="#TECH" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>. 6</note> yet not remaining there conti<g ref="char:EOLhyphen"/>nually, but for the affaires of the Church, departing thence, ſometime to Hieruſalem, ſome<g ref="char:EOLhyphen"/>time to other places. <hi>Hiero. in Catalogo. Ignat. ad Magneſianos.</hi>
+                     <cell>He goeth to Antioche,<note place="margin">Tiberij 23</note> preaching there,<note place="margin">Nat. Dn<g ref="char:cmbAbbrStroke">̄</g>i. 39</note> and making that his Seate,<note place="margin">Aſcen. 6</note> yet not remaining there conti<g ref="char:EOLhyphen"/>nually, but for the affaires of the Church, departing thence, ſometime to Hieruſalem, ſome<g ref="char:EOLhyphen"/>time to other places. <hi>Hiero. in Catalogo. Ignat. ad Magneſianos.</hi>
                      </cell>
                   </row>
                   <row>
@@ -11811,18 +11790,10 @@
                      <cell>11</cell>
                      <cell>Auoiding the furie of Herod, he leaueth Iurie againe. He appointeth Euodius Biſhop in Antioche, <hi>Euſeb. in Chron.</hi>
                         <note place="margin">Claudij 2</note> 
-                        <hi>&amp; li. <gap reason="illegible" resp="#TECH" extent="1 letter">
-                              <desc>•</desc>
-                           </gap> c. 16. Suid<gap reason="illegible" resp="#TECH" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>s,</hi>
-                        <note place="margin">Nat. <gap reason="illegible" resp="#TECH" extent="1 word">
-                              <desc>〈◊〉</desc>
-                           </gap>. 44</note> 
+                        <hi>&amp; li. 2 c. 16. Suidas,</hi>
+                        <note place="margin">Nat. Dn<g ref="char:cmbAbbrStroke">̄</g>i. 44</note> 
                         <hi>Ignat,</hi>
-                        <note place="margin">Aſce<gap reason="illegible" resp="#TECH" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>. 11</note> 
+                        <note place="margin">Aſcen. 11</note> 
                         <hi>ad Antiochen.</hi> And paſſing by Corinth, HE CAME TO ROME, to conuince Simon Magus. <hi>Hiero. in Catalogo. Euſeb. li. 2 c. 12. 13. 24. Concil. to. 1.</hi>
                      </cell>
                   </row>
@@ -11830,18 +11801,14 @@
                      <cell> </cell>
                      <cell> </cell>
                      <cell> </cell>
-                     <cell>He approueth &amp; declareth the Goſpel of S. Marke to be Canonical. <hi>Hiero. in Catal<gap reason="illegible" resp="#TECH" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>. Euſeb. li. 2 c. 14.</hi>
+                     <cell>He approueth &amp; declareth the Goſpel of S. Marke to be Canonical. <hi>Hiero. in Catalo. Euſeb. li. 2 c. 14.</hi>
                      </cell>
                   </row>
                   <row>
                      <cell> </cell>
                      <cell> </cell>
                      <cell> </cell>
-                     <cell>Hauing founded the Church at Rome, and planted his Apoſtolical Seate there, aftervvard abſent from the citie (either expelled thence vvith other Ievves, <hi>Cornel. Tacit, in Claudio:</hi> or rather according to the office of his Apoſtleſhip) leauing it for a time, he viſited other Churches, and came to Hieruſalem againe, vſing both in his abſence and preſence, Linus and Cletus for his coadiutors. <hi>To. 2 Concil. pag. <gap reason="illegible" resp="#TECH" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>56, Epiph, to. 2. Haereſ. 27.</hi>
+                     <cell>Hauing founded the Church at Rome, and planted his Apoſtolical Seate there, aftervvard abſent from the citie (either expelled thence vvith other Ievves, <hi>Cornel. Tacit, in Claudio:</hi> or rather according to the office of his Apoſtleſhip) leauing it for a time, he viſited other Churches, and came to Hieruſalem againe, vſing both in his abſence and preſence, Linus and Cletus for his coadiutors. <hi>To. 2 Concil. pag. 656, Epiph, to. 2. Haereſ. 27.</hi>
                      </cell>
                   </row>
                   <row>
@@ -11850,14 +11817,8 @@
                      <cell>18</cell>
                      <cell>He holdeth the firſt Councel.<note place="margin">Claudij 9</note> 
                         <hi>Act. 15.</hi>
-                        <note place="margin">Nat. <gap reason="illegible" resp="#TECH" extent="1 word">
-                              <desc>〈◊〉</desc>
-                           </gap>. 52</note> He is reprehended at Antioche by S. Paul.<note place="margin">Aſce<gap reason="illegible" resp="#TECH" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>. 18</note> 
-                        <hi>Galat. 1.</hi> except that difference fell before the Councel, as ſome thinke. <hi>Auguſt. <gap reason="illegible" resp="#TECH" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>p. 19.</hi>
+                        <note place="margin">Nat. Dn<g ref="char:cmbAbbrStroke">̄</g>i. 52</note> He is reprehended at Antioche by S. Paul.<note place="margin">Aſcen. 18</note> 
+                        <hi>Galat. 1.</hi> except that difference fell before the Councel, as ſome thinke. <hi>Auguſt. ep. 19.</hi>
                      </cell>
                   </row>
                   <row>
@@ -11871,9 +11832,7 @@
                      <cell> </cell>
                      <cell> </cell>
                      <cell> </cell>
-                     <cell>He ſendeth S. Marke to Alexandria, and others to plant the faith in diuers partes of the vvorld. <hi>Grego. li. 5 ep. 60. &amp; li. 6 ep. 37. Ni<gap reason="illegible" resp="#TECH" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>opho. li. 2 c. 35.</hi>
+                     <cell>He ſendeth S. Marke to Alexandria, and others to plant the faith in diuers partes of the vvorld. <hi>Grego. li. 5 ep. 60. &amp; li. 6 ep. 37. Nicepho. li. 2 c. 35.</hi>
                      </cell>
                   </row>
                   <row>
@@ -11894,18 +11853,11 @@
                      <cell>14</cell>
                      <cell>70</cell>
                      <cell>37</cell>
-                     <cell>He vvas finally crucified at Rome.<note place="margin">Neronis <gap reason="illegible" resp="#TECH" extent="1 word">
-                              <desc>〈◊〉</desc>
-                           </gap>
-                        </note> 
+                     <cell>He vvas finally crucified at Rome.<note place="margin">Neronis 14</note> 
                         <hi>See the laſt Annot.</hi>
-                        <note place="margin">Nat. <gap reason="illegible" resp="#TECH" extent="1 word">
-                              <desc>〈◊〉</desc>
-                           </gap>. 70</note> 
+                        <note place="margin">Nat. Dn<g ref="char:cmbAbbrStroke">̄</g>i. 70</note> 
                         <hi>Ioan. c. 21.</hi>
-                        <note place="margin">Aſce<gap reason="illegible" resp="#TECH" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>. 37</note>
+                        <note place="margin">Aſcen. 37</note>
                      </cell>
                   </row>
                </table>
@@ -11918,12 +11870,7 @@
             </q>
             <q>
                <bibl>Prudent in Hymno de S. Laurent.</bibl>
-               <l>Hi<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap> nempe iam regnant du<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>
-               </l>
+               <l>Hic nempe iam regnant duo</l>
                <l>Apoſtolorum principes:</l>
                <l>Alter vocator Gentium,</l>
                <l>Alter cathédram poſsidens</l>
@@ -11955,9 +11902,7 @@
                      <cell> </cell>
                      <cell> </cell>
                      <cell>Steuen the principal of them maketh a bleſſed ſermon,<note place="margin">Tiberij 18</note> for vvhich he vvas ſtoned to death,<note place="margin">Natiuit. 34</note> Saul (aftervvard Paul) conſenting and aiding therevnto.<note place="margin">Aſcen. 1</note> 
-                        <hi>Act. <gap reason="illegible" resp="#TECH" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>.</hi>
+                        <hi>Act. 7.</hi>
                      </cell>
                   </row>
                   <row>
@@ -12053,16 +11998,14 @@
                      <cell> </cell>
                      <cell> </cell>
                      <cell> </cell>
-                     <cell>He returneth from Macedonia by Theſſalonica to Athens, vvhere he conuetteth many, namely S. Denys Areopagita. <hi>Act. 17.</hi>
+                     <cell>He returneth from Macedonia by Theſſalonica to Athens, vvhere he conuerteth many, namely S. Denys Areopagita. <hi>Act. 17.</hi>
                      </cell>
                   </row>
                   <row>
                      <cell> </cell>
                      <cell> </cell>
                      <cell> </cell>
-                     <cell>From Athens he commeth to Corinth, vvhere he remaineth 18 moneths. <hi>Act. 1<gap reason="illegible" resp="#TECH" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>.</hi> and hauing vi<g ref="char:EOLhyphen"/>ſited the Churches of Aſia <hi>Act. 19)</hi> he commeth backe to Corinth <hi>Act. 20.</hi> Vvhence he vvri<g ref="char:EOLhyphen"/>teth his epiſtle to the Romanes. <hi>Ro. 15.</hi>
+                     <cell>From Athens he commeth to Corinth, vvhere he remaineth 18 moneths. <hi>Act. 18.</hi> and hauing vi<g ref="char:EOLhyphen"/>ſited the Churches of Aſia <hi>Act. 19)</hi> he commeth backe to Corinth <hi>Act. 20.</hi> Vvhence he vvri<g ref="char:EOLhyphen"/>teth his epiſtle to the Romanes. <hi>Ro. 15.</hi>
                      </cell>
                   </row>
                   <row>
@@ -12108,11 +12051,7 @@
                      <cell> </cell>
                      <cell> </cell>
                      <cell> </cell>
-                     <cell>In his Epiſtle to the Philippians (c. <gap reason="illegible" resp="#TECH" extent="1 letter">
-                           <desc>•</desc>
-                        </gap>) he minded to viſ<gap reason="illegible" resp="#TECH" extent="1 letter">
-                           <desc>•</desc>
-                        </gap>e the Churches of Aſia, vvhich alſo he did. <hi>Genebrard. in Chron.</hi>
+                     <cell>In his Epiſtle to the Philippians (c. 1) he minded to viſite the Churches of Aſia, vvhich alſo he did. <hi>Genebrard. in Chron.</hi>
                      </cell>
                   </row>
                   <row>
@@ -12127,9 +12066,7 @@
                      <cell>70</cell>
                      <cell>37</cell>
                      <cell>He vvas beheaded at Rome,<note place="margin">Neronis 14</note> the ſame day that Peter vvas crucified.<note place="margin">Natiuit. 70</note> 
-                        <hi>S. Ambroſ. ſer. <gap reason="illegible" resp="#TECH" extent="1 word">
-                              <desc>〈◊〉</desc>
-                           </gap>. 68. S Maximus.</hi>
+                        <hi>S. Ambroſ. ſer. 66. 68. S Maximus.</hi>
                         <note place="margin">Aſcen. 37</note>
                      </cell>
                   </row>
@@ -12138,19 +12075,7 @@
             <div type="part">
                <pb n="376" facs="tcp:2646:216"/>
                <head>OF THE OTHER APOSTLES.</head>
-               <p>THE Actes of the reſt of the tvvelue Apoſtles be not much vvritten of in this booke:<note place="margin">Genebr. out of diuers authors.</note> but as * other Eccleſ<gap reason="illegible" resp="#TECH" extent="2 letters">
-                     <desc>••</desc>
-                  </gap>ſtical writers do te<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>tifie, they preached ſpecially in theſe nations, as fo<g ref="char:EOLhyphen"/>lovveth. <hi>Andrevv in A<gap reason="illegible" resp="#TECH" extent="1 letter">
-                        <desc>•</desc>
-                     </gap>haia, Iohn in Aſia. Philip in Pbrygia, Iames in Ievvrie, Bartholomevv in Scythia, Thomas in India, Matthevv in Aethiopia, Simon in Perſia, Thadd<gap reason="illegible" resp="#TECH" extent="1 letter">
-                        <desc>•</desc>
-                     </gap>us in Meſopotamia, the other Iames in Spaine, Matthias in Paleſtine.</hi> So diſtributing them ſelues through out the vvorld, to gather one Catholike Church of al Nations, according as Chriſt gaue them commiſſion <hi>Mat. 28, 19:</hi> and as it vvas prophecied of them before Pſal. 18. <hi>Their ſound is gone forth into euery countrie, and their wordes into the endes of the whole world.</hi> But before they departed one from an other (the time vvhereof is not certainely knovven) * al Tvvelue aſſembling together,<note place="margin">Ruffi. in expoſ. Symb. Apoſt. Ambr. <gap reason="illegible" resp="#TECH" extent="1 letter">
-                        <desc>•</desc>
-                     </gap>er. 38. Hiero. ep. 61<g ref="char:punc">▪</g> c. 9. aduerſ erro. Io. Hieroſ.</note> &amp; ful of the Holy Ghoſt, eche laying dovvne his ſentence, agreed vpon tvvelue principal articles of the Chriſtian faith, and appointed them for a rule to al beleeuers: Vvhich is therfore called and is THE APOSTLES CREDE: <hi>Not vvritten in paper,</hi> as the Scrip<g ref="char:EOLhyphen"/>ture, <hi>but from the Apoſtles deliuered by tradition.</hi> Ruff. &amp; Hiero. locis citatis. Vvhich, as of old <hi>(Hiero. cont. Lucifer)</hi> ſo at this day al ſolemnely pro<g ref="char:EOLhyphen"/>feſſe in their Baptiſme, either by them ſelues or by others: and al that be of age and capacitie, are bound to know and beleeue euery article of the <gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>ame. Vvhich are theſe that folovv.</p>
+               <p>THE Actes of the reſt of the tvvelue Apoſtles be not much vvritten of in this booke:<note place="margin">Genebr. out of diuers authors.</note> but as * other Eccleſiaſtical writers do teſtifie, they preached ſpecially in theſe nations, as fo<g ref="char:EOLhyphen"/>lovveth. <hi>Andrevv in Achaia, Iohn in Aſia. Philip in Phrygia, Iames in Ievvrie, Bartholomevv in Scythia, Thomas in India, Matthevv in Aethiopia, Simon in Perſia, Thaddæus in Meſopotamia, the other Iames in Spaine, Matthias in Paleſtine.</hi> So diſtributing them ſelues through out the vvorld, to gather one Catholike Church of al Nations, according as Chriſt gaue them commiſſion <hi>Mat. 28, 19:</hi> and as it vvas prophecied of them before Pſal. 18. <hi>Their ſound is gone forth into euery countrie, and their wordes into the endes of the whole world.</hi> But before they departed one from an other (the time vvhereof is not certainely knovven) * al Tvvelue aſſembling together,<note place="margin">Ruffi. in expoſ. Symb. Apoſt. Ambr. ſer. 38. Hiero. ep. 61<g ref="char:punc">▪</g> c. 9. aduerſ erro. Io. Hieroſ.</note> &amp; ful of the Holy Ghoſt, eche laying dovvne his ſentence, agreed vpon tvvelue principal articles of the Chriſtian faith, and appointed them for a rule to al beleeuers: Vvhich is therfore called and is THE APOSTLES CREDE: <hi>Not vvritten in paper,</hi> as the Scrip<g ref="char:EOLhyphen"/>ture, <hi>but from the Apoſtles deliuered by tradition.</hi> Ruff. &amp; Hiero. locis citatis. Vvhich, as of old <hi>(Hiero. cont. Lucifer)</hi> ſo at this day al ſolemnely pro<g ref="char:EOLhyphen"/>feſſe in their Baptiſme, either by them ſelues or by others: and al that be of age and capacitie, are bound to know and beleeue euery article of the ſame. Vvhich are theſe that folovv.</p>
                <list>
                   <head>THE APOSTLES CREDE, or SYMBOLVM APOSTOLORVM.</head>
                   <item>1 I Beleeue <hi>in God the Father,</hi> al<g ref="char:EOLhyphen"/>mightie, creator of heauen and earth.</item>
@@ -12158,7 +12083,7 @@
                   <item>3 Vvho vvas conceiued by the Holy Ghoſt, borne of the Virgin <hi>MARIE.</hi>
                   </item>
                   <item>4 Suffered vnder Pontius Pilate, was crucified, dead, and buried: Deſ<g ref="char:EOLhyphen"/>cended into Hel.</item>
-                  <item>5 The third day be roſe againe from death:</item>
+                  <item>5 The third day he roſe againe from death:</item>
                   <item>6 Aſcended into heauen: Sitteth at the right ha<g ref="char:cmbAbbrStroke">̄</g>d of God the Father almightie.</item>
                   <item>7 From thence he ſhal come to iudge the quicke and the dead.</item>
                   <item>8 <hi>I beleeue</hi> in the Holy Ghoſt.</item>
