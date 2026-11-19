@@ -115,6 +115,9 @@
          <change>
             <date>2026-11</date>
             <label>Janvier</label>Audited Gospel of Matthew (pp. 31-113); backfilled all 267 content gaps (17 polytonic Greek passages in &lt;foreign xml:lang="grc"&gt;, 250 illegible words, letters, and print markers supplied); preserved 20 microfilm duplicate page placeholders; normalized to Unicode NFC</change>
+         <change>
+            <date>2026-11</date>
+            <label>Janvier</label>Add drop-initial decorInit markup to Page 25 preliminaries (&lt;seg rend="decorInit"&gt;T&lt;/seg&gt;He)</change>
       </revisionDesc>
    </teiHeader>
    <text xml:lang="eng">
@@ -371,7 +374,7 @@
          <div type="key_to_sigla">
             <pb facs="tcp:2646:13"/>
             <head>THE SIGNIFICATION OR MEANING OF THE NVMBERS AND MARKES vſed in this Nevv Teſtament.</head>
-            <p>THe numbers in the inner margent of the text, ſhevv the num<g ref="char:EOLhyphen"/>ber of verſes in euery Chapter.</p>
+            <p><seg rend="decorInit">T</seg>He numbers in the inner margent of the text, ſhevv the num<g ref="char:EOLhyphen"/>ber of verſes in euery Chapter.</p>
             <p>The numbers in the Arguments before euery Chapter, point to the ſame numbers of verſes in the text, treating of the ſame matter.</p>
             <p>The numbers in the beginning of the Annotatio<g ref="char:cmbAbbrStroke">̄</g>s, ſignifie, that the Annotation is vpon ſuch a verſe of the text.</p>
             <p>The numbers in the inner margent, or els vvhere, ioyned to the ci<g ref="char:EOLhyphen"/>tations of Scripture, if they be vvritten thus, Gen. 4, 16. the firſt is the chapter, the ſecond is the verſe. If thus, Gen. 4. 16. both are the Chapters. If thus, Gen. 4, 16. 17. 18. the firſt is the chapter, al the reſt, the verſes. If thus, Gen. 4, 16. 5, 7. it ſignifieth, chap. 4. verſ. 16. and chap. 5. verſ. 7.</p>
