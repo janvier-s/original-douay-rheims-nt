@@ -37,7 +37,17 @@ The entire Gospel of Mark—including the 16 chapters of biblical text, chapter 
 - **Small Capitals Tagged**: Explicitly encoded small-caps typography across all 16 chapters of Mark (`<hi rend="smallcaps">`), covering sacred names (`IESVS`, `MARIE`, `CHRIST`), chapter drop-cap continuations (`<seg rend="decorInit">...</seg><hi rend="smallcaps">...</hi>`), Words of Institution (Mark 14:22, 24), titulus (Mark 15:26), and liturgical/division marginal rubrics.
 - **Wikisource Alignment**: Synchronized 1:1 with the page-by-page critical transcription on [English Wikisource](https://en.wikisource.org/wiki/Index:1582_Rhemes_New_Testament.pdf).
 
-### Biblical Text & Annotations (Luke through Apocalypse) — **In Progress**
+### Gospel of Luke (Pages 161–241) — **100% Complete**
+The entire Gospel of Luke—including the Argument of S. Luke, all 24 chapters of biblical text, chapter annotations, and marginal notes—has been audited against original print facsimiles:
+- **111 Gaps Restored**:
+  - **25 Polytonic Greek Passages**: Restored using standard TEI `<foreign xml:lang="grc">...</foreign>` elements with full polytonic accents (e.g. `ἀπογράψασθαι`, `ἀπογραφὴ`, `ἐνεβριμῶντο`, `σπλαγχνίζομαι`, `πῦρ ἦλθον βαλεῖν εἰς τὴν γῆν`, `οἰκονόμον τῆς ἀδικίας`, `ἐπιούσιον`, `ἀναπεσεῖν`, `ἐπιπεσεῖν`, `ἐξουσία`, `χάρις`, `παρακαλέσαι`, `ἐπισκοπή`, etc.).
+  - **86 Faint/Illegible Gaps & Print Markers**: Accurately supplied based on 1582 print facsimiles, including annotation catchword markers (`″`), quote anchors (`` ` ``), variant readings, chapter arguments, and missing word fragments (`Zacharie`, `Herod`, `the Lord`, `his kinred`, `the holie Ghost`, `he saith`, `deceitful`, `the Son of man`, `remission of sinnes`, `faith`, etc.).
+  - **Facsimile Duplicates Preserved**: Preserved 6 microfilm duplicate page shots as structural facsimile metadata (`<gap reason="duplicate" extent="1 page"/>`).
+- **Unicode NFC Normalization**: Fully normalized to Unicode Canonical Composition (NFC).
+- **Small Capitals Tagged**: Explicitly encoded small-caps typography across all 24 chapters of Luke (`<hi rend="smallcaps">`), covering sacred names (`IESVS`, `IESV`, `MARIE`, `CHRIST`), chapter drop-cap continuations (`<seg rend="decorInit">...</seg><hi rend="smallcaps">...</hi>`), Words of Institution (Luke 22:19, 20), titulus (Luke 23:38), and liturgical/division marginal rubrics.
+- **Wikisource Alignment**: Synchronized 1:1 with the page-by-page critical transcription on [English Wikisource](https://en.wikisource.org/wiki/Index:1582_Rhemes_New_Testament.pdf).
+
+### Biblical Text & Annotations (John through Apocalypse) — **In Progress**
 - Gaps in the biblical chapters, arguments, and marginal notes are being audited and backfilled book by book against original scans and the Peters facsimile edition.
 
 ---
