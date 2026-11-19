@@ -152,6 +152,9 @@
          <change>
             <date>2026-11</date>
             <label>Janvier</label>Audited Gospel of John (pp. 242-308 / print pp. 214-280); backfilled all 116 content gaps (4 polytonic Greek readings in &lt;foreign xml:lang="grc"&gt;, 112 illegible words, letters, citation numbers, and print markers supplied); tagged small-caps typography (&lt;hi rend="smallcaps"&gt;) across sacred names, drop-cap continuations, Incarnation prologue, Titulus Crucis, Words of Forgiveness, pastoral commission, and liturgical rubrics; normalized to Unicode NFC</change>
+         <change>
+            <date>2026-11</date>
+            <label>Janvier</label>Audited Evangelical History table (pp. 309-313 / print pp. 281-285); corrected 10 EEBO-TCP typist transcription errors in chapter numbers and narrative text against the 1582 print (restored Mt. 19, 20, 26, 28, Lk. 18, Io. 2, 12, 20, corrected Poter to Peter, and tho to the)</change>
       </revisionDesc>
    </teiHeader>
    <text xml:lang="eng">
@@ -8197,7 +8200,7 @@
                      <cell> </cell>
                      <cell> </cell>
                      <cell> </cell>
-                     <cell>1</cell>
+                     <cell>2</cell>
                      <cell>In the feaſt of Paſche he caſteth out the biers and ſellers in the Temple, inſinuating to the Iewes his death and reſurrectio<g ref="char:cmbAbbrStroke">̄</g>.<note place="margin">THE 1. PASCHE.</note>
                      </cell>
                   </row>
@@ -8521,7 +8524,7 @@
                      <cell>9</cell>
                      <cell> </cell>
                      <cell> </cell>
-                     <cell>He paieth the didrachmes for him and Poter, after that Peter had found a ſtater in the fiſhes mouth.</cell>
+                     <cell>He paieth the didrachmes for him and Peter, after that Peter had found a ſtater in the fiſhes mouth.</cell>
                   </row>
                   <row>
                      <cell>18</cell>
@@ -8545,7 +8548,7 @@
                      <cell>He teacheth vs to forgiue our brother ſinning againſt vs.</cell>
                   </row>
                   <row>
-                     <cell>10</cell>
+                     <cell>19</cell>
                      <cell>10</cell>
                      <cell>9</cell>
                      <cell>7</cell>
@@ -8681,7 +8684,7 @@
                      <cell>He impoſeth or laieth his handes vpon litle children, and ex<g ref="char:EOLhyphen"/>horteth a yong riche man to forſake al and become perfect.</cell>
                   </row>
                   <row>
-                     <cell>10</cell>
+                     <cell>20</cell>
                      <cell> </cell>
                      <cell> </cell>
                      <cell> </cell>
@@ -8695,7 +8698,7 @@
                      <cell>He raiſeth Lazarus, and the Iewes co<g ref="char:cmbAbbrStroke">̄</g>ſult hovv to deſtroy him.</cell>
                   </row>
                   <row>
-                     <cell>10</cell>
+                     <cell>20</cell>
                      <cell>10</cell>
                      <cell>19</cell>
                      <cell> </cell>
@@ -8713,20 +8716,20 @@
                      <cell> </cell>
                      <cell>19</cell>
                      <cell> </cell>
-                     <cell>Zachaeus the Publicane entertaineth Chriſt. The parable of tho ten poundes deliuered to ten ſeruants.</cell>
+                     <cell>Zachaeus the Publicane entertaineth Chriſt. The parable of the ten poundes deliuered to ten ſeruants.</cell>
                   </row>
                   <row>
-                     <cell>10</cell>
+                     <cell>20</cell>
                      <cell> </cell>
-                     <cell>10</cell>
+                     <cell>18</cell>
                      <cell> </cell>
                      <cell>He healeth tvvo blinde men as he goeth out of Iericho.</cell>
                   </row>
                   <row>
-                     <cell>16</cell>
+                     <cell>26</cell>
                      <cell>14</cell>
-                     <cell>12</cell>
                      <cell> </cell>
+                     <cell>12</cell>
                      <cell>At a ſupper in Bethánia, Marie povvred ointment vpon him.<note place="margin">PALME ſunday.</note>
                      </cell>
                   </row>
@@ -8909,7 +8912,7 @@
                      <cell> </cell>
                      <cell>16</cell>
                      <cell>24</cell>
-                     <cell>10</cell>
+                     <cell>20</cell>
                      <cell>Then to the diſciples gathered together in a houſe at Hieruſa<g ref="char:EOLhyphen"/>lem, vvhen he entred the doores being ſhut, and gaue them povver to remit and reteine ſinnes.</cell>
                   </row>
                   <row>
@@ -8927,7 +8930,7 @@
                      <cell>Then, at the ſea of Tiberias, to Peter &amp; the reſt that were fiſh<g ref="char:EOLhyphen"/>ing. vvhere he committeth his ſheepe to Peter.</cell>
                   </row>
                   <row>
-                     <cell>18</cell>
+                     <cell>28</cell>
                      <cell>16</cell>
                      <cell> </cell>
                      <cell> </cell>
