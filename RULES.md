@@ -188,7 +188,7 @@ All text saved to Wikisource is automatically normalized by MediaWiki to **NFC**
 
 ## 9. EEBO-TCP XML Maintenance & README Numbers
 
-The source XML (`sources/eebo-tcp/A16049.xml`) and its upstream repository [original-douay-rheims-nt](https://github.com/janvier-s/original-douay-rheims-nt) serve as the digital transcription foundation.
+The source XML (`A16049.xml`) and its upstream repository [original-douay-rheims-nt](https://github.com/janvier-s/original-douay-rheims-nt) serve as the digital transcription foundation.
 
 ### When Backfilling Gaps or Correcting Text:
 1. **Restore Gaps**: Replace `<gap .../>` elements with the verified reading (wrapped in `<foreign xml:lang="grc">` for Greek, or supplied text).
@@ -199,7 +199,7 @@ The source XML (`sources/eebo-tcp/A16049.xml`) and its upstream repository [orig
    - `<foreign>`
    - `<note>`
 4. **Update README.md**:
-   - Update the tag count tables in the README to reflect the exact new numbers (e.g. decreasing `gap` count, increasing `foreign` count).
+   - Update the "Current counts" table and the "Audit status" table in the README to reflect the exact new numbers (e.g. decreasing `gap` count, increasing `foreign` count).
 5. **Update `<teiHeader>`**:
    - Add a `<change>` entry inside `<revisionDesc>` documenting the date, editor, and scope of corrections.
 6. **XML Well-Formedness Check**:
@@ -207,23 +207,9 @@ The source XML (`sources/eebo-tcp/A16049.xml`) and its upstream repository [orig
 
 ---
 
-## 10. Wikisource Bot Publishing Protocol
+## 10. Wikisource Publishing
 
-All automated publishing via `scripts/wikisource/wikipost.py` must adhere strictly to Wikimedia bot and proofreading policies:
-
-1. **Pre-Publish Linting**:
-   - Always run `python3 scripts/wikisource/lint.py <pages_dir>` first.
-   - Zero errors (`0 error(s)`) is required. Warnings should be reviewed.
-2. **Protection of Human Edits**:
-   - The bot checks `last_author` on every page.
-   - If another user edited the page, the bot will skip it.
-   - Inspect their edits manually against the 1582 scans. If their improvements are valid or our audit encompasses them, pass `--adopt-others <page_numbers>` explicitly.
-3. **Rate Limiting**:
-   - Use `--delay 12` (minimum 12 seconds between page edits) to prevent HTTP 429 throttling and respect Wikimedia API guidelines.
-4. **Descriptive Edit Summaries**:
-   - Include specific descriptions of changes made (e.g. `audit against 1582 print: restore margin notes, polytonic Greek, fix hws title, NFC`).
-5. **Manifest Tracking**:
-   - Every published page must have its SHA1, live `revid`, and status `posted` updated in `wikisource/1582-rhemes-nt/manifest.json`.
+Publishing to English Wikisource is done with scripts that live in the [douayrheimsbible](https://github.com/janvier-s/douayrheimsbible) repository, not here. See `docs/wikisource-publishing.md` there for the bot protocol.
 
 ---
 
