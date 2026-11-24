@@ -97,7 +97,7 @@
       <revisionDesc>
          <change when="2026-11-19">
             <label>Critical audit: General Argument of the Epistles and Romans 1:1-27 (scan pp. 405-411 / print pp. 377-383)</label>
-            <name>Antigravity</name> Corrected EEBO-TCP transcription errors and filled all gaps in the General Argument of the Epistles, Romans Argument, and Romans 1:1–27 against 1582 Rhemes facsimiles and Transkribus OCR: corrected typist misreadings and errors (ſucceeded -> ſucceded, Cannonical -> Canonical, Euſeb. li 2. -> li. 2., alſo, that -> alſo. That, of the -> of thē, Moyſes, for -> Moyſes. For, lift euerlaſting -> life euerlaſting, be exhorteth -> he exhorteth, ſaith -> faith, vntil be came -> vntil he came, at then -> as then, Iudais -> Iudæis, connectis -> connectit, arguments. -> argument., Martins -> Mattins, in their ſaith -> faith, imputatilue -> imputatiue, vertitie -> veritie); filled content gaps in 1. Cor. 13., tvvo, Romans 1 summary (verses 8, 18, and Idols:), Idols, and ſcripture; and supplied polytonic Greek readings in Romans 1:5 (εἰς ὑπακοὴν πίστεως), 1:9 (ᾧ λατρεύω), and 1:25 (ἐλάτρευσαν).
+            <name>Antigravity</name> Corrected EEBO-TCP transcription errors and filled all gaps in the General Argument of the Epistles, Romans Argument, and Romans 1:1–27 against 1582 Rhemes facsimiles and Transkribus OCR: corrected typist misreadings and errors (ſucceeded -> ſucceded, Cannonical -> Canonical, Euſeb. li 2. -> li. 2., alſo, that -> alſo. That, of the -> of thē, Moyſes, for -> Moyſes. For, lift euerlaſting -> life euerlaſting, be exhorteth -> he exhorteth, ſaith -> faith, vntil be came -> vntil he came, at then -> as then, Iudais -> Iudæis, connectis -> connectit, arguments. -> argument., Martins -> Mattins, in their ſaith -> faith, imputatilue -> imputatiue, vertitie -> veritie); filled content gaps in 1. Cor. 13., tvvo, Romans 1 summary (verses 8, 18, and Idols:), Idols, and ſcripture; and supplied polytonic Greek readings in Romans 1:5 (εἰς ὑπακοὴν πίστεως), 1:9 (ᾧ λατρεύω), and 1:25 (ἐλάτρευσαν).
          </change>
          <change when="2026-11-19">
             <label>Critical audit: Acts of the Apostles</label>
@@ -165,6 +165,9 @@
          <change>
             <date>2026-11</date>
             <label>Janvier</label>Audited Acts End-Matter (Sum of Acts, Tables of SS. Peter &amp; Paul, Of the Other Apostles, Creed, pp. 402-404 / print pp. 374-376); corrected EEBO-TCP typist errors and gaps against the 1582 print (p. 374: restored "ſo far as", corrected is/it, prociſe/preciſe, no•/yet, restored plat, corrected bit/hit, restored Simon Magus, Pontus, Nicepho, Tiberij 23, Euseb. li. 2 c. 16, Suidas, Catalo, pag. 656, ep. 19, Neronis 14; p. 375: restored Prudentius "Hic nempe iam regnant duo", Act. 7, conuerteth, Act. 18, c. 1, viſite, S. Ambroſ. ſer. 66. 68.; p. 376: restored Eccleſiaſtical, teſtifie, Achaia, Phrygia, Thaddæus, ſer. 38, the ſame, corrected "he roſe")</change>
+         <change>
+            <date>2026-11-24</date>
+            <label>Janvier</label>Audited Back Matter (Table of Epistles and Gospels, Table of Controversies, Explication of Hard Words, and Errata, pp. 774-800); restored all 41 EEBO-TCP &lt;gap&gt; elements (including 4 Greek &lt;foreign xml:lang="grc"&gt; readings: μετάνοια, μετανοεῖν, ἃ ἐυλογοῦμεν, ὃ ἐυλογοῦμεν) and corrected 44 EEBO-TCP typist errors against the 1582 print scans</change>
       </revisionDesc>
    </teiHeader>
    <text xml:lang="eng">
@@ -23590,18 +23593,12 @@
                <item>
                   <seg rend="decorInit">T</seg>HE 1. SVNDAY in Aduent, Epiſtle pag. 415. Goſpel pag. 199.</item>
                <item>The 2. Sunday in Aduent, Ep. 419. Goſp. 18.</item>
-               <item>The 3 Sunday in Adue<g ref="char:cmbAbbrStroke">̄</g>t, Ep. 533. Goſ. <gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>17.</item>
-               <item>Vveneſday Imber in Aduent,<note n="*" place="margin">The E<g ref="char:EOLhyphen"/>piſtles o<g ref="char:EOLhyphen"/>mitted are taken out of the Old Teſtame<g ref="char:cmbAbbrStroke">̄</g>t.</note> Goſ<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap> 135.</item>
-               <item>Fridday Imber in Aduent, Goſp. 136.</item>
+               <item>The 3 Sunday in Adue<g ref="char:cmbAbbrStroke">̄</g>t, Ep. 533. Goſ. 217.</item>
+               <item>Vveneſday Imber in Aduent,<note n="*" place="margin">The E<g ref="char:EOLhyphen"/>piſtles o<g ref="char:EOLhyphen"/>mitted are taken out of the Old Teſtame<g ref="char:cmbAbbrStroke">̄</g>t.</note> Goſp. 135.</item>
+               <item>Friday Imber in Aduent, Goſp. 136.</item>
                <item>Saturday Imber in Aduent, Ep. 554. Goſ. 143.</item>
                <item>The 4 Sunday in Aduent, Ep. 432. Goſp. 143.</item>
-               <item>Chriſtmas eue, Ep. 38<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>. Goſp. 4.</item>
+               <item>Chriſtmas eue, Ep. 382. Goſp. 4.</item>
             </list>
             <list>
                <item>
@@ -23620,14 +23617,10 @@
                <item>S. Thomas of Canterburie, Ep. 608. Goſ. 248.</item>
                <item>The Su<g ref="char:cmbAbbrStroke">̄</g>day within the Octaue of Chriſt<g ref="char:EOLhyphen"/>mas, Ep. 504. as on Twelfth eue. Goſp. 14. verſe 33 vnto 41.</item>
                <item>The CIRCVMCISION of our Lord, Ep. 597. Goſp. 140.</item>
-               <item>Tvvel<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>th Eue, Ep. 504. Goſp. 6.</item>
+               <item>Tvvelfth Eue, Ep. 504. Goſp. 6.</item>
                <item>The EPIPHANIE of our Lord called Tvvelfth day, Goſp. 5.</item>
                <item>The 1 Sunday after the Epiphanie. Ep. 412. Goſp. 141.</item>
-               <item>The 2 Sunday after the Epiphanie, Ep. <gap reason="illegible" resp="#TECH" extent="2 letters">
-                     <desc>••</desc>
-                  </gap>3. Goſp. 220.</item>
+               <item>The 2 Sunday after the Epiphanie, Ep. 413. Goſp. 220.</item>
                <item>The 3 Sunday after the Epiphanie, Epiſ. 413. Goſp. 19.</item>
                <item>The 4 Sunday after the Epiph. Ep. 414. Goſp. 20.</item>
                <item>The 5 Sunday after the Epiph. Ep. 542. Goſp. 35.</item>
@@ -23636,7 +23629,7 @@
                <item>The Sunday of Sexageſme. Ep. 489. Goſp. 159.</item>
                <item>The Sunday of Quinquageſme, Epiſt. 456. Goſp. 191.</item>
                <item>Vpon Aſh weneſday, Goſp. 15.</item>
-               <item>Thurſday after Aſhweneſday, Goſp. 10.</item>
+               <item>Thurſday after Aſhweneſday, Goſp. 20.</item>
                <item>
                   <pb facs="tcp:2646:413"/> Friday after Aſh weneſday, Goſp. 13.</item>
                <item>Saturday after Aſhweneſday, Goſp. 103.</item>
@@ -23695,14 +23688,10 @@
                <item>The 2 Sunday after Eaſter, Ep. 658. Goſp. 248.</item>
                <item>The 3 Sunday after Eaſter, Ep. 657. Goſp. 264.</item>
                <item>The 4 Sunday after Eaſter, Ep. 642. goſp. 264.</item>
-               <item>The 5 Sund. after Eaſter, Ep. 642. go<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>. 265<g ref="char:punc">▪</g>
+               <item>The 5 Sund. after Eaſter, Ep. 642. goſp. 265<g ref="char:punc">▪</g>
                </item>
                <item>The Rogation daies, Ep 651. Goſp. 170.</item>
-               <item>The Aſcenſion <gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>ue, Ep. 518. Goſp. 266.</item>
+               <item>The Aſcenſion eue, Ep. 518. Goſp. 266.</item>
                <item>The ASCENSION day, Ep. 289. Goſp. 132.</item>
                <item>The Sunday vvithin the Octaue of the Aſcenſion, Ep. 662. Goſp. 263.</item>
                <item>Vvhitſun-eue, Ep. 347. Goſp. 260.</item>
@@ -23757,9 +23746,7 @@
                <item>
                   <hi>In Cathedra S. Petri Romae,</hi> Ep 655. goſp. 44.</item>
                <item>The Conuerſion of S. Paule, Ep. 315. Goſp. 54.</item>
-               <item>CANDL<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>NAS day, Goſp. 140.</item>
+               <item>CANDLEMAS day, Goſp. 140.</item>
                <item>S. Matthias, Ep. 290. Goſp. 29.</item>
                <item>The ANNVNCIATION of our Lady, Goſp. 135.</item>
                <item>S. George, Ep. 588<g ref="char:punc">▪</g> v. 8 to the 11. &amp; p. 591. v. 10 to the 13. Goſp. 262.</item>
@@ -23767,15 +23754,11 @@
                <item>
                   <hi>In maioribus Litaniis</hi> vpon S. Markes day, Ep. 651. Goſp 170.</item>
                <item>SS. Philip. &amp; Iacob. Goſp. 259.</item>
-               <item>HOLY ROOD<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap> day in Maie, or the Inuentio<g ref="char:cmbAbbrStroke">̄</g> of the holy Croſſe, Epiſt, 528. Goſp. 222.</item>
+               <item>HOLY ROODE day in Maie, or the Inuentio<g ref="char:cmbAbbrStroke">̄</g> of the holy Croſſe, Epiſt, 528. Goſp. 222.</item>
                <item>S. Barnabas day, Ep. 322. Goſp. 262.</item>
                <item>S. Iohn Baptiſts Eue, Goſp. 134.</item>
                <item>S. Iohn Baptiſts Day called <hi>Midſomer,</hi> Goſp. 137.</item>
-               <item>SS. Peters &amp; Paules eu<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>, Ep. 296. Go. 279.</item>
+               <item>SS. Peters &amp; Paules eue, Ep. 296. Go. 279.</item>
                <item>SS. Peter and Paules day, Ep. 324. goſ. 44.</item>
                <item>The Co<g ref="char:cmbAbbrStroke">̄</g>memoration of S. Paul, Ep. 495. Goſp. 26.</item>
                <item>The VISITATION of our Lady, goſp. 136.</item>
@@ -23789,7 +23772,7 @@
                <item>S. Bartholomew, Ep. 456. verſ. 26 to the 30. Goſp. 152.</item>
                <item>S. Levvis king of France, Goſp. 193.</item>
                <item>The Decoll. of S. Iohn Bapt. Goſp, 101.</item>
-               <item>The NATIVITIS of our Lady, Goſp. 3.</item>
+               <item>The NATIVITIE of our Lady, Goſp. 3.</item>
                <item>HOLY ROODE day in September, or the Exaltation of the holy CROSSE, Ep. 528. Goſp. 255.</item>
                <item>S. Matthevves eue, Goſp. 149.</item>
                <item>S. Matthevves day, Goſp. 22.</item>
@@ -23800,9 +23783,7 @@
                <item>SS. Simon and Iude, Ep. 518. Goſp. 262.</item>
                <item>Alhalovves eue. Ep. 708. Goſp. 152.</item>
                <item>ALHALOVVES day, Ep. 712. Goſp. 11.</item>
-               <item>Al-<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>oules day, Ep. 466. Goſp. 230.</item>
+               <item>Al-ſoules day, Ep. 466. Goſp. 230.</item>
                <item>S. Martin, Goſp. 171. verſe 33 to the 37.</item>
                <item>S. Clement, Ep. 531. Goſp. 70.</item>
                <item>S. Catharine, Goſp. 71. verſe 1 to the 14. vvhich is the Goſpel for holy virgins.</item>
@@ -23861,25 +23842,19 @@
                   <hi>Adoration</hi> of God, <hi>Latrîa:</hi> and adoration of creatures, <hi>Dulia.</hi> pag. 11. nu. 11. pa. 321. nu. 25. pa. 332. nu. 12. p. 633. nu. 21. Adoratio<g ref="char:cmbAbbrStroke">̄</g> of the Arke, Crucifixe, Ima<g ref="char:EOLhyphen"/>ges, Relikes, and the like. pag. 633. nu. 21. of Angels, Saincts, and holy per<g ref="char:EOLhyphen"/>ſons. pag. 706. 737 at large. 744 marg. S. Iohns adoring of the Angel, expli<g ref="char:EOLhyphen"/>cated. 736. 737. Vvhat is, to adore in
 <pb facs="tcp:2646:415"/> ſpirit &amp; truth, 218. Reuerence to holy perſons, euen to the kiſſing of their feete, 300.</item>
                <item>
-                  <hi>Alleluia. 735</hi> and 736 at large. Not to be tranſlated. ibid. The ſong both of the Chruch militant and triu<g ref="char:cmbAbbrStroke">̄</g>phant. ibid. 734 marg. A word of maruelous ioy, and ſo vſed in the Churches ſeruice, euen in the primitiue Church. 736. Sung in our countrie at our firſt con<g ref="char:EOLhyphen"/>uerſio<g ref="char:cmbAbbrStroke">̄</g>. ib. Sung in al Chriſtian Natio<g ref="char:cmbAbbrStroke">̄</g>s. ib. The Proteſtants had rather ſay, <hi>Praiſe ye the Lord.</hi> ib. In tranſlating ſixe Pſalmes they haue leſt it out nine times. ibidem.</item>
+                  <hi>Alleluia. 735</hi> and 736 at large. Not to be tranſlated. ibid. The ſong both of the Church militant and triu<g ref="char:cmbAbbrStroke">̄</g>phant. ibid. 734 marg. A word of maruelous ioy, and ſo vſed in the Churches ſeruice, euen in the primitiue Church. 736. Sung in our countrie at our firſt con<g ref="char:EOLhyphen"/>uerſio<g ref="char:cmbAbbrStroke">̄</g>. ib. Sung in al Chriſtian Natio<g ref="char:cmbAbbrStroke">̄</g>s. ib. The Proteſtants had rather ſay, <hi>Praiſe ye the Lord.</hi> ib. In tranſlating ſixe Pſalmes they haue leſt it out nine times. ibidem.</item>
                <item>
-                  <hi>Almes</hi> redeeme ſinnes &amp;c. pa. 143. marg. 173. nu. 41. They procure vs patrones in heauen,<note place="margin">☞</note> pag. 186. nu. 9. releaſe of paines after our death. 317 marg. in<g ref="char:EOLhyphen"/>creaſe grace. 486 marg. Great Almeſ<g ref="char:EOLhyphen"/>men happie. pag. 353. nu. 35. pa. 486. nu. 6. 174 marg. 317 marg. Almes and hoſpitalitie to Preiſts and other holy men. 28. 163. marg. 186. 485. 486. 487. 511. 534. 588. 637. to Catholike pri<g ref="char:EOLhyphen"/>ſoners. 341 marg. 600 m. See, <hi>Vvorkes.</hi> The more able, the greater muſt our almes be. 121 marg. Vvhen a man is bound to giue almes. 681 marg.</item>
+                  <hi>Almes</hi> redeeme ſinnes &amp;c. pa. 143. marg. 173. nu. 41. They procure vs patrones in heauen,<note place="margin">☞</note> pag. 186. nu. 9. releaſe of paines after our death. 317 marg. in<g ref="char:EOLhyphen"/>creaſe grace. 486 marg. Great Almeſ<g ref="char:EOLhyphen"/>men happie. pag. 353. nu. 35. pa. 486. nu. 6. 174 marg. 317 marg. Almes and hoſpitalitie to Prieſts and other holy men. 28. 163. marg. 186. 485. 486. 487. 511. 534. 588. 637. to Catholike pri<g ref="char:EOLhyphen"/>ſoners. 341 marg. 600 m. See, <hi>Vvorkes.</hi> The more able, the greater muſt our almes be. 121 marg. Vvhen a man is bound to giue almes. 681 marg.</item>
                <item>
                   <hi>Altars.</hi> pag. 638. nu. 10. Altars ſanctified by the ſacrifice of Chriſts body.<note place="margin">☞</note> pag. 67. Altar vvhy called table ſometime. pa. 638. Dedication or conſecration of altars vvith Saincts Relikes. 711.</item>
                <item>
                   <hi>Amen amen</hi> doubled, vvhat it ſignifieth. pa. 244. nu. 34. Amen not to be tranſ<g ref="char:EOLhyphen"/>lated &amp; ib. 234 marg. 735. 736.</item>
                <item>
-                  <hi>Angels,</hi> Protectors of men. pag. 52. nu. 10. pag. 326. nu. 15. 679. of countries, 701. of Chruches, ibidem. The Pro<g ref="char:EOLhyphen"/>teſtants alſo hold this againſt the Pu<g ref="char:EOLhyphen"/>ritanes. 679. They helpe vs. pag. 604. marg. 541. S. Paules place of the religio<g ref="char:cmbAbbrStroke">̄</g> of Angels explicated. pag. 14. nu. 18. Praying to Angels. ibid. Peace from God and the holy Angels. 700. Nine orders of Angels. pag. 514. nu. 21. S. Michael patrone of the Church. 721. fighting vvith the dragon. ibid.</item>
-               <item>Anoiling. <hi>See E.</hi> Entrem<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap> V<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>cti<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>.</item>
+                  <hi>Angels,</hi> Protectors of men. pag. 52. nu. 10. pag. 326. nu. 15. 679. of countries, 701. of Churches, ibidem. The Pro<g ref="char:EOLhyphen"/>teſtants alſo hold this againſt the Pu<g ref="char:EOLhyphen"/>ritanes. 679. They helpe vs. pag. 604. marg. 541. S. Paules place of the religio<g ref="char:cmbAbbrStroke">̄</g> of Angels explicated. pag. 14. nu. 18. Praying to Angels. ibid. Peace from God and the holy Angels. 700. Nine orders of Angels. pag. 514. nu. 21. S. Michael patrone of the Church. 721. fighting vvith the dragon. ibid.</item>
+               <item><hi>Anoiling.</hi> See E. <hi>Extreme Vnction.</hi></item>
                <item>
                   <hi>Antichriſt.</hi>
-                  <note place="margin">☞</note> pag. 556. 557. 558. 718. 723 at large. vvhy ſo called pa. 558. He ſhal be one ſingular man. 556. nu. 3. p. 724. He ſhal come neere the vvorldes end. 557. nu. 4. His reigne three yeres and a halfe. p. 71. nu. 22. 29. 123 marg. 718 marg. 711 marg. 740. He ſhal aboliſh the Maſſe. p. 558. ſuffer no worſhip but of him ſelf only. p. 557. nu. 4. Al framing letters to expneſſe his name, vncertaine. 724. Heretikes his fore<g ref="char:EOLhyphen"/>runners, ſpecially theſe of our daies. pa. 556. 558. 722 marg. 723. 741. The apoſtaſie of him &amp; his from the Cath. Church. p. 556. His perſecution of the ſame. 720 marg. 721. 723. 741. His attempts to dravv from the true faith. 721. Many Antichriſtes, 556. The Pope can not be Antichriſt. p. 554 marg. pa. 557. p. 231 marg. 721 marg. 724. 740. The Proteſtants make S. Leo and S. Gregorie furtherers of Antichriſt. pa. 557. They place Antichriſt in the See of Rome in S. Paules daies. p. 557. 240 marg. Not to be vvith the See of Ro<g ref="char:EOLhyphen"/>me, is to be with Antichriſt. p. 323. 556. nu. 3.</item>
+                  <note place="margin">☞</note> pag. 556. 557. 558. 718. 723 at large. vvhy ſo called pa. 558. He ſhal be one ſingular man. 556. nu. 3. p. 724. He ſhal come neere the vvorldes end. 557. nu. 4. His reigne three yeres and a halfe. p. 71. nu. 22. 29. 123 marg. 718 marg. 711 marg. 740. He ſhal aboliſh the Maſſe. p. 558. ſuffer no worſhip but of him ſelf only. p. 557. nu. 4. Al framing letters to expreſſe his name, vncertaine. 724. Heretikes his fore<g ref="char:EOLhyphen"/>runners, ſpecially theſe of our daies. pa. 556. 558. 722 marg. 723. 741. The apoſtaſie of him &amp; his from the Cath. Church. p. 556. His perſecution of the ſame. 720 marg. 721. 723. 741. His attempts to dravv from the true faith. 721. Many Antichriſtes, 556. The Pope can not be Antichriſt. p. 554 marg. pa. 557. p. 231 marg. 721 marg. 724. 740. The Proteſtants make S. Leo and S. Gregorie furtherers of Antichriſt. pa. 557. They place Antichriſt in the See of Rome in S. Paules daies. p. 557. 240 marg. Not to be vvith the See of Ro<g ref="char:EOLhyphen"/>me, is to be with Antichriſt. p. 323. 556. nu. 3.</item>
                <item>
                   <hi>Apoſtles.</hi> their name, dignitie, authoritie.<note place="margin">☞</note> pag. 154. nu. 13. p. 37. nu. 11. p. 53. nu. 18. p. 488. Their number of Tvvelue myſtical. p. 94. nu. 14. p. 290 marg. Some of them more principal Apo<g ref="char:EOLhyphen"/>ſtles. p. 492. The actes of SS. Peter and Paul in two ſeueral tables. 374. 375. They left their vviues. p. 21. nu. 14. p. 55 marg. 191 marg. p. 148. nu. 38. So did S. Philip the <hi>Deacon. 354</hi> marg. See <hi>Prieſts.</hi> They vovved pouertie. 55. nu. 27. p. 481. They made the <hi>Creede. 376.</hi> Their <hi>Creede.</hi> ibidem. Their learning, vviſedom, conſtancie, after they re<g ref="char:EOLhyphen"/>ceiued the holy Ghoſt. 299. m. Their honour &amp; dreade among the firſt Chriſtians. 300 and 301 marg. The Apoſtles precepts. 336 ma<g ref="char:punc">▪</g> 440. Apo<g ref="char:EOLhyphen"/>ſtolical traditions. See, <hi>Tradition.</hi> The ſtile of Apoſtolical ſalutation. 384. Heretikes vſurpe it to ſeeme Apoſtles. ibid<g ref="char:punc">▪</g> To be ſaluted only of them giueth grace <g ref="char:punc">▪</g> 421 marg. The
 <pb facs="tcp:2646:415"/> Popes office is called his Apoſtleſhip. pa. 520. The Apoſtles of diuers coun<g ref="char:EOLhyphen"/>tries. 154. nu. 13. Their glorie in Hea<g ref="char:EOLhyphen"/>uen that conuert ſoules. 471. 529. m. 548 m. S. Auguſtine our Apoſtle. 432 marg.</item>
@@ -23890,11 +23865,7 @@
                   <hi>BAbylon,</hi>
                   <note place="margin">☞</note> vvhat it ſignifieth. 725 marg. 728 and 729 marg. 730. 732.</item>
                <item>
-                  <hi>Baptiſme</hi> healeth the ſoule.<note place="margin">☞</note> pa. 231. nu. 2. taketh away ſinne. 357. marg. it iuſti<g ref="char:EOLhyphen"/>fieth. pag. 395 marg. p. 397. nu. 3 and marg. Neceſſarie to ſaluation except ſome caſes. p. 89. 224. nu. 5. Baptiſme of infants neceſſarie. p. 395. nu<g ref="char:punc">▪</g> 12. p. 440 nu. 14. The effectes thereof and of Confirmation differ pag. 313 nu. 17. Exorciſmes and other ceremonies of Baptiſme pa. 107. nu. 34 p. 314. nu. 38. pag. 661. nu. 21. <hi>Ephetha. 107 Abre<g ref="char:EOLhyphen"/>nuntio. 661.</hi> The character thereof pa. 471 nu. 22 Baptiſme receiued of He<g ref="char:EOLhyphen"/>retikes and Schiſmatikes p. 661. nu. 21. Iohns baptiſme inferiour to Chriſts. pa. 8. nu. 11. p 87 marg. p. 89. nu. 8 p. 224 nu. 3<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>. p. 143 marg. 2<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>7 marg. 289 marg 347 marg The Proteſtants make them equal: and vvhy. 8. nu. 11. Names giuen in baptiſme, and vvhat maner of names. pa. 139. nu. 63. Vvhe<g ref="char:EOLhyphen"/>ther Chriſt him ſelf baptized. 225 mar. Figures of Baptiſme. 231. 245 marg. 225 marg. 661. The ſending of the holy Ghoſt on vvhitſunday, called baptiſme 289 marg.</item>
+                  <hi>Baptiſme</hi> healeth the ſoule.<note place="margin">☞</note> pa. 231. nu. 2. taketh away ſinne. 357. marg. it iuſti<g ref="char:EOLhyphen"/>fieth. pag. 395 marg. p. 397. nu. 3 and marg. Neceſſarie to ſaluation except ſome caſes. p. 89. 224. nu. 5. Baptiſme of infants neceſſarie. p. 395. nu<g ref="char:punc">▪</g> 12. p. 440 nu. 14. The effectes thereof and of Confirmation differ pag. 313 nu. 17. Exorciſmes and other ceremonies of Baptiſme pa. 107. nu. 34 p. 314. nu. 38. pag. 661. nu. 21. <hi>Ephetha. 107 Abre<g ref="char:EOLhyphen"/>nuntio. 661.</hi> The character thereof pa. 471 nu. 22 Baptiſme receiued of He<g ref="char:EOLhyphen"/>retikes and Schiſmatikes p. 661. nu. 21. Iohns baptiſme inferiour to Chriſts. pa. 8. nu. 11. p 87 marg. p. 89. nu. 8 p. 224. nu. 31. p. 143 marg. 217 marg. 289 marg 347 marg The Proteſtants make them equal: and vvhy. 8. nu. 11. Names giuen in baptiſme, and vvhat maner of names. pa. 139. nu. 63. Vvhe<g ref="char:EOLhyphen"/>ther Chriſt him ſelf baptized. 225 mar. Figures of Baptiſme. 231. 245 marg. 225 marg. 661. The ſending of the holy Ghoſt on vvhitſunday, called baptiſme 289 marg.</item>
                <item>
                   <hi>Beatitudes</hi> eight. pag<g ref="char:punc">▪</g> 11. marg.</item>
                <item>
@@ -23902,38 +23873,26 @@
                </item>
                <item>
                   <hi>Biſhops.</hi>
-                  <note place="margin">☞</note> their ſpiritual povver. p. 53. nu. 18 pa <gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>88. to puniſh Heretikes. ibid. Caluin confeſſeth the ſaid power ib. Their conſiſtories 739. They muſt be obeied pa. 43 nu 9 pa. 322 marg. <gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>98. marg. (See CHVRCH.) honoured &amp; feared. 301 marg. their bleſsing. p. 27. p. 55. p. 616. They may deale in vvorld<g ref="char:EOLhyphen"/>ly affaires, and vvhen<g ref="char:punc">▪</g> pag. 177. 589. Superior to Prieſts and diſtinct in of<g ref="char:EOLhyphen"/>fice. 166 marg. pag. 312. nu. 17. 332 marg pag. 528. pag. 596. though the names of Biſhop and Prieſt vvere at the firſt indifferently vſed. 352 marg. They only can conſecrate Biſhops, Prieſts, &amp;c pa. 596. nu. 5. p. 332 marg. Biſhoping vvhy ſo called. pag 314. Biſhops viſitations 335 marg. Many vvorthie Biſhops that can not prea<g ref="char:EOLhyphen"/>che. 582. Special vertues required in a Biſhop. 703</item>
+                  <note place="margin">☞</note> their ſpiritual povver. p. 53. nu. 18 pa. 488. to puniſh Heretikes. ibid. Caluin confeſſeth the ſaid power ib. Their conſiſtories 739. They muſt be obeied pa. 43 nu 9 pa. 322 marg. 598. marg. (See CHVRCH.) honoured &amp; feared. 301 marg. their bleſsing. p. 27. p. 55. p. 616. They may deale in vvorld<g ref="char:EOLhyphen"/>ly affaires, and vvhen<g ref="char:punc">▪</g> pag. 177. 589. Superior to Prieſts and diſtinct in of<g ref="char:EOLhyphen"/>fice. 166 marg. pag. 312. nu. 17. 332 marg pag. 528. pag. 596. though the names of Biſhop and Prieſt vvere at the firſt indifferently vſed. 352 marg. They only can conſecrate Biſhops, Prieſts, &amp;c pa. 596. nu. 5. p. 332 marg. Biſhoping vvhy ſo called. pag 314. Biſhops viſitations 335 marg. Many vvorthie Biſhops that can not prea<g ref="char:EOLhyphen"/>che. 582. Special vertues required in a Biſhop. 703</item>
                <item>
-                  <hi>Bleſsing</hi> of creatures effectual and opera<g ref="char:EOLhyphen"/>tiue pa. 79.<note place="margin">☞</note> 233 marg. 109. 163 marg. 575 576. Bleſſing the table. pag. 575. Bleſſing a preeminence of the better perſon. p. 5<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>5 616 Biſhops &amp; Prieſts belſsing ibid The fathers &amp; mothers bleſsing pa 616. nu. 6. Bleſsing with the ſigne of the Croſſe, pa. 213. 576. Chriſt bleſſed the children, 113 mar. &amp; his Apoſtles. 275 marg.</item>
+                  <hi>Bleſsing</hi> of creatures effectual and opera<g ref="char:EOLhyphen"/>tiue pa. 79.<note place="margin">☞</note> 233 marg. 109. 163 marg. 575 576. Bleſſing the table. pag. 575. Bleſſing a preeminence of the better perſon. p. 55. p. 616. Biſhops &amp; Prieſts bleſsing ibid The fathers &amp; mothers bleſsing pa 616. nu. 6. Bleſsing with the ſigne of the Croſſe, pa. 213. 576. Chriſt bleſſed the children, 113 mar. &amp; his Apoſtles. 275 marg.</item>
             </list>
             <list>
                <head>C</head>
                <item>
-                  <hi>CAluins</hi> blaſphemie againſt the diui<g ref="char:EOLhyphen"/>nitie of Chriſt. pag 219 nu. <gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap> p. 250. Againſt Chriſts ovvne merites pag. 529. 708. 605 marg. Againſt the ſaincts in heauen. pa. 187. that God is author of ſinne pa. 37. Concerning Chriſts ſuffering the paines of the damned &amp; that he vvas abandoned of his father. 83 130 marg. Againſt remiſsion of ſinnes. 612 marg. 613<g ref="char:punc">▪</g>
+                  <hi>CAluins</hi> blaſphemie againſt the diui<g ref="char:EOLhyphen"/>nitie of Chriſt. pag. 219. nu. 1. p. 250. Againſt Chriſts ovvne merites pag. 529. 708. 605 marg. Againſt the ſaincts in heauen. pa. 187. that God is author of ſinne pa. 37. Concerning Chriſts ſuffering the paines of the damned &amp; that he vvas abandoned of his father. 83 130 marg. Againſt remiſsion of ſinnes. 612 marg. 613<g ref="char:punc">▪</g>
                </item>
                <item>
                   <hi>Caluiniſme</hi> tendeth to the abomination of deſolation 124.</item>
                <item>
-                  <hi>Canonical houres</hi> pa. 320 pag. 296 marg. 55<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap> marg. They anſvver to the time of Chriſts Paſ<gap reason="illegible" resp="#TECH" extent="2 letters">
-                     <desc>••</desc>
-                  </gap>ion and agonies pag<g ref="char:punc">▪</g> 76 marg. 78. 80<g ref="char:punc">▪</g> 81<g ref="char:punc">▪</g> 82. 83. pag. 190 ma. See <hi>Praier.</hi>
+                  <hi>Canonical houres</hi> pa. 320 pag. 296 marg. 551 marg. They anſvver to the time of Chriſts Paſsion and agonies pag<g ref="char:punc">▪</g> 76 marg. 78. 80<g ref="char:punc">▪</g> 81<g ref="char:punc">▪</g> 82. 83. pag. 190 ma. See <hi>Praier.</hi>
                </item>
                <item>
                   <hi>Catholike.</hi> This name diſcerneth true be<g ref="char:EOLhyphen"/>leeuers from Heretikes it is the ſur<g ref="char:EOLhyphen"/>name of true Chriſtia<g ref="char:cmbAbbrStroke">̄</g>s By this name. Heretikes them ſelues vnderſta<g ref="char:cmbAbbrStroke">̄</g>d them of the Romane faith. pa. 324. S. Augu<g ref="char:EOLhyphen"/>ſtines
 <pb facs="tcp:2646:416"/> high eſtimation of this name<g ref="char:punc">▪</g> ibid. The Proteſtants mocke at this name pag. 324. So did the Donatiſtes. ibid. Some leaue it out in the Creede, pag. 324. Some in the titles of the Ca<g ref="char:EOLhyphen"/>tholike Epiſtles. pag. 641. The Catho<g ref="char:EOLhyphen"/>like Epiſtles why ſo called. ib. &amp; 377. Catholike termes &amp; ſpeaches 584. 585. 588. To haue Catholike parents is a great bleſſing 587. Catholike Church. See <hi>Church.</hi> Catholike faith. See <hi>faith.</hi> The Catholike faith is taken from countries for ſinne. 703 The Catho<g ref="char:EOLhyphen"/>like ſimple man is ſufficiently learned. 169. 177. 680. Catholike mens obedi<g ref="char:EOLhyphen"/>ence to their Paſtors 322 m. to Coun<g ref="char:EOLhyphen"/>cels. 339 Catholike aſſemblies to Gods ſeruice in time of perſecution. See <hi>perſecution.</hi>
                </item>
                <item>
-                  <hi>Cenſures</hi> of the Church. See <hi>Eccleſiaſtical. Ceremonies</hi> vſed in the Church by Chriſts example.<note place="margin">☞</note> pa. 247. External elements in the Sacraments pa. 506. S. Auguſtines eſtimation of the Catho. Churches ce<g ref="char:EOLhyphen"/>remonies. pag. 506. he is falſely allea<g ref="char:EOLhyphen"/>ged againſt them. ibid. They are not burdenous, but ſvveete and to edifica<g ref="char:EOLhyphen"/>tion. p. 506. They are neither Heathe<g ref="char:EOLhyphen"/>niſh nor Iudacial. pag. 506. 507. The Apoſtles borovved ſome ceremonios of the Ievves law. 677. nu. 14.</item>
+                  <hi>Cenſures</hi> of the Church. See <hi>Eccleſiaſtical. Ceremonies</hi> vſed in the Church by Chriſts example.<note place="margin">☞</note> pa. 247. External elements in the Sacraments pa. 506. S. Auguſtines eſtimation of the Catho. Churches ce<g ref="char:EOLhyphen"/>remonies. pag. 506. he is falſely allea<g ref="char:EOLhyphen"/>ged againſt them. ibid. They are not burdenous, but ſvveete and to edifica<g ref="char:EOLhyphen"/>tion. p. 506. They are neither Heathe<g ref="char:EOLhyphen"/>niſh nor Iudacial. pag. 506. 507. The Apoſtles borovved ſome ceremonies of the Ievves law. 677. nu. 14.</item>
                <item>
                   <hi>Charitie</hi> the greateſt vertue, &amp; more prin<g ref="char:EOLhyphen"/>cipal in our iuſtification then faith. 457. See <hi>Iuſtification.</hi> How faith wor<g ref="char:EOLhyphen"/>keth by charitie. 510.</item>
                <item>
@@ -24020,13 +23979,13 @@
                <item>
                   <hi>Faith only</hi> doth not iuſtifie.<note place="margin">☞</note> pag. 19. 25. nu. 28. 54. marg. 64. nu. 11. 40. pag. 42 m 67. 74. nu. 1. 42. pa. 67. 88. marg. 118. and 119 marg. 120 marg. pag. 132. 138. nu. 6. pag. 397. 504. 611. nu. 9. pa. 633. 157 marg. 178 ma. 230 marg. 243. 663. 679. 681 marg. 682. 703 marg. 725. ma. 319 marg. 341. marg. 362. marg. 158. 169. nu. 28. pag. 263. 385. 388. nu. 26. pag. 456. marg. 457 marg. 483. marg. 517. and 524 marg. 551 marg. 564. marg. S. Auguſtines vvhole booke <hi>de fide &amp; operibus,</hi> againſt <hi>only faith.</hi> 646. Only faith an old hereſie. pag. 314. nu. 18. pag 379. 646. 654. S. Iames calleth ſuch Heretikes, vaine men, and compareth the<g ref="char:cmbAbbrStroke">̄</g> to diuels. 645. m. S. Paules doctrine co<g ref="char:cmbAbbrStroke">̄</g>cerning faith &amp; good vvorkes. 378. He often ioyneth faith and charitie. 587 marg. 600 marg. His vvordes of faith, miſconſtrued by old Heretikes and nevv. pag. 379. 389. 390. other Scriptures falſely alleaged for faith onely. 100. 188 marg. The Proteſtants <hi>ſpecial faith</hi> or vaine ſecuritie of ſal<g ref="char:EOLhyphen"/>uation. pag. 403. 444. 445 marg. p. 632. pag. 393. nu. 24. p. 173 marg. 663. 684. 410 marg. 531. marg. See <hi>Saluation.</hi> The 7 Catholike Epiſtles vvritten a<g ref="char:EOLhyphen"/>gainſt the hereſie of only faith. pag. 379. 640. 646. 674. Vvhy faith is ſo often named in the caſe of iuſtifica<g ref="char:EOLhyphen"/>tion. 502. See <hi>Iuſtification.</hi>
                </item>
-               <item>In vvhat ſenſe ſome fathers ſay, <hi>Only faith,</hi> pag. 646. Hovv it is ſaid, <hi>Beleeue only.</hi> pag. 100. 161. marg. Vvhat maner of faith doth iuſtifie. pag. 334. marg. 385. 393. 509. 632. nu. 1. 6. pag. 646. nu. 24. pag. 389 m. 502 m. Faith may be had and loſt againe, vvhich the Proteſtants deny. 159. 410. marg. 565. marg. 606. ma. So may grace and cha<g ref="char:EOLhyphen"/>ritie. 702. The Apoſtles analogie or preſcript rule of faith. pag. 413. 612. To hold faſt the firſt receiued ſaith of
+               <item>In vvhat ſenſe ſome fathers ſay, <hi>Only faith,</hi> pag. 646. Hovv it is ſaid, <hi>Beleeue only.</hi> pag. 100. 161. marg. Vvhat maner of faith doth iuſtifie. pag. 334. marg. 385. 393. 509. 632. nu. 1. 6. pag. 646. nu. 24. pag. 389 m. 502 m. Faith may be had and loſt againe, vvhich the Proteſtants deny. 159. 410. marg. 565. marg. 606. ma. So may grace and cha<g ref="char:EOLhyphen"/>ritie. 702. The Apoſtles analogie or preſcript rule of faith. pag. 413. 612. To hold faſt the firſt receiued faith of
 <pb facs="tcp:2646:418"/> our Apoſtles and fathers. p. 37. nu. 25. p. 397. 423. nu. 17. p<g ref="char:punc">▪</g> 492. 496. nu 8. p. 584. 587. 591 to. 678 m. 689. ma. and. nu. 5. 10. 464 marg. 489 m. 495 m. 502 m. 636 m. External profeſsion of euery point &amp; article of faith. p. 27. 28. nu. 37. pa. 109. nu. 35. 36. p. 176. 409. 630. nu. 34. <hi>Neuters</hi> or indifferent men, of no faith. pa. 33. 706. One mans faith obtaineth for an other. 22 marg. 150. nu. 20. The more deuotion the greater faith. See <hi>Deuotion.</hi> To beleeue vvithout ſenſi<g ref="char:EOLhyphen"/>ble argume<g ref="char:cmbAbbrStroke">̄</g>t or reaſon, is a more bleſ<g ref="char:EOLhyphen"/>ſed thing. 275 marg. 382 marg.</item>
                <item>
                   <hi>Faſtes</hi> or <hi>Faſting.</hi>
                   <note place="margin">☞</note> An acte of religion. p. 135 marg. 142. Meritorious. pag. 43. 466. A worke of iuſtice. p. 15 marg. The force thereof. 111 marg. Preſcript daies of faſting. 43. 330. 507. Imber daies. p. 25. nu. 38. p. 154. nu. 12. p. 330. Aërius the Heretike. p. 330. Faſting from certaine kindes of meates. p. 43. nu. 11. 18. pag. 106. 135 marg. 330. nu. 3. p. 417. 418. 574. 575. 582. nu. 23. S. Iohn Baptiſt and the Nazarates. 135 marg. Scriptures groſly abuſed by the pro<g ref="char:EOLhyphen"/>teſtants againſt the Churches faſtes. p. 43. 106. 417. 418. 441. 442. 540. 541. 573. m. 574. marg. and nu. 3. p. 575. 596. m. Heretical faſting. p. 142. nu. 37. pa. 541. 574. The Lent faſt, &amp; the origin there<g ref="char:EOLhyphen"/>of. pag. 10. 90, nu. 12. It is ſinne not to faſt the lent. p. 10. It is an Apoſto<g ref="char:EOLhyphen"/>lical tradition. ibidem, and 145 marg. It is the imitation of our Sauiours fa<g ref="char:EOLhyphen"/>ſting. p. 10. By keeping thereof, true Chriſtians (ſaith S. Aug.) are knowen from infidels. ibid. The Doctors ſer<g ref="char:EOLhyphen"/>mons of Lent faſt. ib. Publike faſtes. 17. The Churches faſtes foreſignified by Chriſt him ſelf. 23 mar. S. Iohn Baptiſts and his Diſciples faſting. 24.</item>
                <item>
-                  <hi>Feare.</hi> Many kindes of feare. 685. The iuſtent men doe feare. 685. See in F <hi>ſpecial faith.</hi> and the vvord. <hi>Saluation.</hi> Seruile feare not il, though not ſuffi<g ref="char:EOLhyphen"/>cient. 685. 362 marg. feare of hel pro<g ref="char:EOLhyphen"/>fitable. 173 marg.</item>
+                  <hi>Feare.</hi> Many kindes of feare. 685. The iuſteſt men doe feare. 685. See in F <hi>ſpecial faith.</hi> and the vvord. <hi>Saluation.</hi> Seruile feare not il, though not ſuffi<g ref="char:EOLhyphen"/>cient. 685. 362 marg. feare of hel pro<g ref="char:EOLhyphen"/>fitable. 173 marg.</item>
                <item>
                   <hi>Feaſtes</hi> or <hi>feſtiual daies.</hi>
                   <note place="margin">☞</note> pag. 7. nu. 16. pag. 250. nu. 22. p. 295. 335. 507. 638. 668. 700. prefigurated by the Iewes Feaſtes 239. marg. Scriptures groſly abuſed by the Proteſtants againſt the Churches Feſtiuities and Holidaies, pa. 418. 507. 540. <hi>Eaſter, vvhit-ſuntide.</hi> 295. 353. 467 marg. 507. 700. <hi>Sunday.</hi> 353. 467 marg. 507. 700. 250. 211 marg. called <hi>dies Dominica,</hi> becauſe of our Lordes reſurrctio<g ref="char:cmbAbbrStroke">̄</g>. 274 m. 700. 701. Greater grace giuen vpo<g ref="char:cmbAbbrStroke">̄</g> theſe ſolemne daies. 701.</item>
@@ -24085,7 +24044,7 @@
                   <note place="margin">☞</note> or <hi>to be iuſtified,</hi> vvhat it ſigni<g ref="char:EOLhyphen"/>fieth. 387. nu. 13. The firſt and ſecond iuſtification. 387. The firſt iuſtifica<g ref="char:EOLhyphen"/>tion, of mere grace vvithout vvorkes. 392. 409. 412. nu. 32. 516. 389. marg. Iuſtification by vvorkes, pag. 16. 138.
 <pb facs="tcp:2646:419"/> 387. pag. 645. 646. 647. 682. 736. Not by faith only. See <hi>faith.</hi>
                </item>
-               <item>Vvhat vvorkes iuſtifie not. pag. 390. nu. 20. 28. p. 392. 411. 632. nu. 6. 633. 499. marg. Iuſtification attributed to hope, charitie, &amp;c. 402. 633. nu. 33. Charitie the principal vertue in iuſtification. 509. 566. Hovv the Proteſtants admit charitie &amp; good workes to iuſtificatio<g ref="char:cmbAbbrStroke">̄</g>. 509. Vvhy it îs ſo often attributed to ſaith. 394. 632. 502<g ref="char:punc">▪</g> marg. 606. marg. S. Paules meaning vvhen he commen<g ref="char:EOLhyphen"/>deth faith. 633. The iuſtice of faith. 408. True inherent iuſtice, not impu<g ref="char:EOLhyphen"/>tatiue. 14. 138. 139. 387. 390. 394. marg. 395. nu. 5. pag. 427. nu. 30. pag. 511. 513<g ref="char:punc">▪</g> marg. 517. mar. 519. mar. 524<g ref="char:punc">▪</g> marg. 543. 682. 398 marg. Hovv it is ſaid, <hi>None iuſt.</hi> 390. Hovv it is ſaid, <hi>Reputed to iuſtice.</hi> 391<g ref="char:punc">▪</g> marg. Increaſe of iuſtice. 744 marg. 396 marg. 550 marg. Hovv it is called Gods iuſtice. 383 marg. 390 nu. 22. pag. 480. 481. 531. Hovv Chriſt is our iuſtice. 427. The Proteſtants auoid the vvord, <hi>Iuſtifications.</hi> 138. nu. 6. p. 736. nu. 8. The iuſtice of Moyſes Lavv, vvhat, 408 marg.</item>
+               <item>Vvhat vvorkes iuſtifie not. pag. 390. nu. 20. 28. p. 392. 411. 632. nu. 6. 633. 499. marg. Iuſtification attributed to hope, charitie, &amp;c. 402. 633. nu. 33. Charitie the principal vertue in iuſtification. 509. 566. Hovv the Proteſtants admit charitie &amp; good workes to iuſtificatio<g ref="char:cmbAbbrStroke">̄</g>. 509. Vvhy it is ſo often attributed to faith. 394. 632. 502<g ref="char:punc">▪</g> marg. 606. marg. S. Paules meaning vvhen he commen<g ref="char:EOLhyphen"/>deth faith. 633. The iuſtice of faith. 408. True inherent iuſtice, not impu<g ref="char:EOLhyphen"/>tatiue. 14. 138. 139. 387. 390. 394. marg. 395. nu. 5. pag. 427. nu. 30. pag. 511. 513<g ref="char:punc">▪</g> marg. 517. mar. 519. mar. 524<g ref="char:punc">▪</g> marg. 543. 682. 398 marg. Hovv it is ſaid, <hi>None iuſt.</hi> 390. Hovv it is ſaid, <hi>Reputed to iuſtice.</hi> 391<g ref="char:punc">▪</g> marg. Increaſe of iuſtice. 744 marg. 396 marg. 550 marg. Hovv it is called Gods iuſtice. 383 marg. 390 nu. 22. pag. 480. 481. 531. Hovv Chriſt is our iuſtice. 427. The Proteſtants auoid the vvord, <hi>Iuſtifications.</hi> 138. nu. 6. p. 736. nu. 8. The iuſtice of Moyſes Lavv, vvhat, 408 marg.</item>
             </list>
             <list>
                <head>L</head>
@@ -24120,15 +24079,13 @@
                   <hi>Merite</hi> and <hi>Meritorious. 72</hi> marg. It hath correſponde<g ref="char:cmbAbbrStroke">̄</g>ce and relation to <hi>merces,</hi> hire, or revvard. 13. 16. 112 marg. 430. 719 mar. 744 marg. 543 marg. Both the meaning and word are in the ſcriptu<g ref="char:EOLhyphen"/>res. 197 m. 198. 430. 639 m. 537 m. 705 m. 553 m. Vvhe<g ref="char:cmbAbbrStroke">̄</g>ce the merite of workes riſeth. 72 marg. 402. 411. 430. 594. 470. Difference of merites. 58. 37. 486. 430. 193 m. Vve merite not our firſt iuſtifi<g ref="char:EOLhyphen"/>cation. See <hi>Iuſtification.</hi> To be wor<g ref="char:EOLhyphen"/>thie, &amp; to merite, is al one. 198. 197 m. 705. marg. 537 marg. 553 mar. The time of meriting is in this life only. 245 m. See <hi>vvorkes.</hi> The Proteſtants auoid the word merite. 639. The Caluiniſts de<g ref="char:EOLhyphen"/>ny Chriſts owne merites 529. 708 m.</item>
                <item>
                   <hi>Miracles,</hi>
-                  <note place="margin">☞</note> neceſſarie to cofirme new do<g ref="char:EOLhyphen"/>ctrine. 27. nu. 1. p. 263. nu. 24. p. 298. nu. 82. p. 492. nu. 12. True miracles only in the Cath. Church. 50. nu. 19. 20. p. 124. nu. 22. Vvhen Heretikes may worke true miracles. p. 112. nu. 38. Forged or lying miracles. 7<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>. nu. 84. p. 559. nu. 9. p. 722 marg.</item>
+                  <note place="margin">☞</note> neceſſarie to cofirme new do<g ref="char:EOLhyphen"/>ctrine. 27. nu. 1. p. 263. nu. 24. p. 298. nu. 82. p. 492. nu. 12. True miracles only in the Cath. Church. 50. nu. 19. 20. p. 124. nu. 22. Vvhen Heretikes may worke true miracles. p. 112. nu. 38. Forged or lying miracles. 71. nu. 24. p. 559. nu. 9. p. 722 marg.</item>
                <item>
                   <hi>Miracles</hi> vvrought by application of creatures, by the name of IESVS, of the Apoſtles &amp; other holy men, by Saincts and their relikes, S. Peters ſhadovv, S. Paules napkin. 112. 104. nu. 13 231. 261 298. 304. 312. 326. 350. 372. By touching Chriſt and vvhatſoeuer belonged to him. 93 marg. 106. 108.</item>
                <item>
                   <hi>Miracles</hi> in one place and at one time more then in other. 147. 231. 456 marg. Peculiar to certaine countries. 370 m. 372. The Proteſtants as faithles to be<g ref="char:EOLhyphen"/>leeue ſuch miracles, as the old Pagans. 261. They attribute them to the Diuel as the heathen did. p. 24 in marg. They pretend Phariſaically Gods honour in derogating from the miracles of Saincts. 246 marg. The gift of mira<g ref="char:EOLhyphen"/>cles in the Church for edification. 132. Chriſts miracles ſignificatiue. 247 m.</item>
                <item>
-                  <hi>Monkes</hi> &amp; <hi>Monaſtical</hi> life. Vvhether they ſhould worke with their handes. 561. 562. They were ſhauen în the primi<g ref="char:EOLhyphen"/>tiue Church: and Nunnes clipped of their heare, 562. See <hi>Exemites. Religious.</hi>
+                  <hi>Monkes</hi> &amp; <hi>Monaſtical</hi> life. Vvhether they ſhould worke with their handes. 561. 562. They were ſhauen in the primi<g ref="char:EOLhyphen"/>tiue Church: and Nunnes clipped of their heare, 562. See <hi>Eremites. Religious.</hi>
                </item>
             </list>
             <list>
@@ -24162,15 +24119,7 @@
                   <hi>Parents.</hi> The duety tovvard them. 142. 106. Carnal parents &amp; frendes in what caſes leſſe eſteemed. 159 marg. 176 mar. 181 marg. duty tovvard our ſpiritual parents. 600 marg. See <hi>Prieſts.</hi>
                </item>
                <item>
-                  <hi>Penance,</hi> is perfect repentance,<note place="margin">☞</note> that is, not only amendeme<g ref="char:cmbAbbrStroke">̄</g>t of life, but implying alſo confeſſion, ſorowful contrition, and paineful ſatisfaction. pag. 8. 30. 167 marg. That the Greeke <gap reason="foreign">
-                     <desc>〈 in non-Latin alphabet 〉</desc>
-                  </gap> &amp; <gap reason="foreign">
-                     <desc>〈 in non-Latin alphabet 〉</desc>
-                  </gap> ſignifie this pena<g ref="char:cmbAbbrStroke">̄</g>ce. p. <gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>. 30. 171 marg 177 marg. 716 marg. 492 m. S Iohn Baptiſt firſt, then Chriſt, and his Apoſtles preached penance. 7. 8. 88 marg 143 marg. 295 marg. 352 marg. 366 marg. S. Iohn Baptiſts penance. 8. 156 marg. Marie Magdalens penance. 157 marg. The great penance in the primitiue Church. 475. 492 marg. The old Canonical diſcipline. ib. S. Pau<g ref="char:EOLhyphen"/>les chaſtening of his body by penance. 444. Temporal paine remaineth due, vvhen the ſinne is remitted. 635. Satiſ<g ref="char:EOLhyphen"/>faction or workes of Penance. pag. 8. nu. 8. 143 marg. 195. 314. 454. 473. 482. 630. 645. nu. <gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>3. 717 marg. They de<g ref="char:EOLhyphen"/>rogat nothing from Chriſts ſatisfa<g ref="char:EOLhyphen"/>ction, but are requiſite becauſe of the ſame. 402. 473. 538. 611. The body cha<g ref="char:EOLhyphen"/>ſtiſed by penance, is a grateful ſacri<g ref="char:EOLhyphen"/>fice to God. 413.</item>
+                  <hi>Penance,</hi> is perfect repentance,<note place="margin">☞</note> that is, not only amendeme<g ref="char:cmbAbbrStroke">̄</g>t of life, but implying alſo confeſſion, ſorowful contrition, and paineful ſatisfaction. pag. 8. 30. 167 marg. That the Greeke <foreign xml:lang="grc">μετάνοια</foreign> &amp; <foreign xml:lang="grc">μετανοεῖν</foreign> ſignifie this pena<g ref="char:cmbAbbrStroke">̄</g>ce. p. 8. 30. 171 marg 177 marg. 716 marg. 492 m. S Iohn Baptiſt firſt, then Chriſt, and his Apoſtles preached penance. 7. 8. 88 marg 143 marg. 295 marg. 352 marg. 366 marg. S. Iohn Baptiſts penance. 8. 156 marg. Marie Magdalens penance. 157 marg. The great penance in the primitiue Church. 475. 492 marg. The old Canonical diſcipline. ib. S. Pau<g ref="char:EOLhyphen"/>les chaſtening of his body by penance. 444. Temporal paine remaineth due, vvhen the ſinne is remitted. 635. Satiſ<g ref="char:EOLhyphen"/>faction or workes of Penance. pag. 8. nu. 8. 143 marg. 195. 314. 454. 473. 482. 630. 645. nu. 13. 717 marg. They de<g ref="char:EOLhyphen"/>rogat nothing from Chriſts ſatisfa<g ref="char:EOLhyphen"/>ction, but are requiſite becauſe of the ſame. 402. 473. 538. 611. The body cha<g ref="char:EOLhyphen"/>ſtiſed by penance, is a grateful ſacri<g ref="char:EOLhyphen"/>fice to God. 413.</item>
                <item>The Sacrament of <hi>Penance.</hi> handled at large. 276. The neceſſitie thereof, as of Baptiſme. pag. 277. it is <hi>ſecunda tabula poſt naufragium. 277.</hi> The con<g ref="char:EOLhyphen"/>tempt thereof a ſinne againſt the holy Ghoſt. 33. nu. 31. The partes thereof, <hi>Contrition, Confeſsion, Satisfaction. 276.</hi> Vvhat is <hi>Contrition. 483. 294</hi> marg. Luthers hereſie of Contrition. 483. It worketh ſaluation. ibidem. Vve are bound to confeſſe. 276. See <hi>Confeſsion.</hi> Al ſinnes may be remitted by this Sa<g ref="char:EOLhyphen"/>crament. 613. 629. It is the old hereſie of the Nouatians to deny that Con<g ref="char:EOLhyphen"/>feſſion to a Prieſt is neceſſarie, and his Abſolution 276. 277. See <hi>Abſolution. Prieſts.</hi> Gods wo<g ref="char:cmbAbbrStroke">̄</g>derful mercy toward penitent ſinners. 183 marg. Penance before Baptiſme. 295 marg.</item>
                <item>
                   <hi>Perfection</hi> double: one in this life, an other in the life to come. 532. The ſtate of perfection. See <hi>Monaſtical life. Religious.</hi>
@@ -24201,14 +24150,10 @@
                   <hi>Predeſtination</hi> and <hi>reprobation</hi> declared at large. pag. 406. 407. They conſiſt vvith free vvil. 370. 403. 406. 407. The myſterie of predeſtination and reprobatio<g ref="char:cmbAbbrStroke">̄</g> is humbly to be reuere<g ref="char:cmbAbbrStroke">̄</g>ced, not curiouſly ſearched. 402. 403. 407. nu. 20. 21. 412. No man muſt by occa<g ref="char:EOLhyphen"/>ſion thereof be reachleſſe and deſpe<g ref="char:EOLhyphen"/>rate in neglecting his ſaluation. 403. 406. 359 marg. Good vvorkes muſt concurre vvith Gods predeſtination. 668. Vvhat and how far we may and ſhould learne herein. 403. 412. He<g ref="char:EOLunhyphen"/>retical and preſumptuous bookes of Predeſtination. 407. 412.</item>
                <item>
                   <hi>Prieſt.</hi> The name in al languages almoſt the ſame. 333. heretically changed into <hi>Elder.</hi> ibidem. The vvord <hi>Senior, Aun<g ref="char:EOLhyphen"/>cient,</hi> in the vulgar Latine tranſlation, is alvvaies in the Greeke, <hi>Presbyter,</hi> Prieſt. 334 marg. 664. 351 marg. His of<g ref="char:EOLhyphen"/>fice and vocation. 609. 610. His digni<g ref="char:EOLhyphen"/>tie. 609. They are called Angels. 701. They are coadiutors vvith, and vnder Chriſt, and worke in his name 92. 190. 444. 474. 480. 482. 429 marg. Their authoritie to remit ſinnes. 21<g ref="char:punc">▪</g> 24. 53. nu. 18. p. 92. 151. 162 m 190. 276. 480. 252 marg. The Proteſtants carpe at this au<g ref="char:EOLhyphen"/>thoritie, as the Iewes did at Chriſt for the ſame. 158 marg. They (and not lay
-<pb facs="tcp:2646:422"/> men) are the diſpenſers of Chriſts my<g ref="char:EOLhyphen"/>ſteries. 40. nu. 19. 42 marg. pag. 109. nu. 6. pag. 321. nu. 40. pag. 463. nu. 34. pag. 4<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>0. He that deſpiſeth them, deſ<g ref="char:EOLhyphen"/>piſeth Chriſt. 167 ma. The honour of Prieſthod. 67. 89 marg. 360. 578 m. Pre<g ref="char:EOLhyphen"/>eminence before other. 571. nu. 4 pag. 616. 566. nu. 20. pag. 484 marg. Hoſ<g ref="char:EOLhyphen"/>pitalitie and almes tovvard them. 163. marg. 533 marg. See <hi>Almes. Hoſpitalitie.</hi> The Proteſtants make it an odious and reprochful name. 67. nu. 13. pag. 130. They auoid the word in their Engliſh tranſlations of the nevv Teſtament. 333. Their perpetual continencie re<g ref="char:EOLhyphen"/>quiſite. 138. 570. nu. 2. pag. 579. 580. 589. nu. 4. 596. 437 marg. 569 marg. Mariage of Prieſts vnlavvful. 21. 570. at large. 575. contrarie to the auncient Canons. 571. to the Councel of Nice. 570. None euer lawfully maried after holy orders. 21. 570. <hi>Paphnutius</hi> and the <hi>Nicene Councel</hi> concerning this matter. 21. 570. Maried men being made Prieſts, muſt no more companie vvith their vviues: and that according to the example of the Apoſtles. 21. 290 marg. 444. nu. 5. according to the cuſtom of the primitiue Church. 570. 571. The Church may annexe perpetual chaſtitie to holy orders. 580. nu. 4. in the marg. The forbidding of ſuch perſons to marie, is no condem<g ref="char:EOLhyphen"/>nation of Mariage. 575. <hi>Iouinians</hi> old hereſie could neuer induce any one Prieſt. to marie. 582. <hi>Vigilantius</hi> and his follovvers much like to the Prote<g ref="char:EOLhyphen"/>ſtants in this point. 570. See <hi>Vovv.</hi> Prieſts crovvnes. 665. Prieſts garments. 701. Prieſts ſome properly ſo called, ſome vnproperly. 740. Al Chriſtians are no more Prieſts, then they are alſo kings, that is, vnproperly: 657 marg. 700. 709. Their ſpiritual hoſtes. 658.</item>
+<pb facs="tcp:2646:422"/> men) are the diſpenſers of Chriſts my<g ref="char:EOLhyphen"/>ſteries. 40. nu. 19. 42 marg. pag. 109. nu. 6. pag. 321. nu. 40. pag. 463. nu. 34. pag. 480. He that deſpiſeth them, deſ<g ref="char:EOLhyphen"/>piſeth Chriſt. 167 ma. The honour of Prieſthod. 67. 89 marg. 360. 578 m. Pre<g ref="char:EOLhyphen"/>eminence before other. 571. nu. 4 pag. 616. 566. nu. 20. pag. 484 marg. Hoſ<g ref="char:EOLhyphen"/>pitalitie and almes tovvard them. 163. marg. 533 marg. See <hi>Almes. Hoſpitalitie.</hi> The Proteſtants make it an odious and reprochful name. 67. nu. 13. pag. 130. They auoid the word in their Engliſh tranſlations of the nevv Teſtament. 333. Their perpetual continencie re<g ref="char:EOLhyphen"/>quiſite. 138. 570. nu. 2. pag. 579. 580. 589. nu. 4. 596. 437 marg. 569 marg. Mariage of Prieſts vnlavvful. 21. 570. at large. 575. contrarie to the auncient Canons. 571. to the Councel of Nice. 570. None euer lawfully maried after holy orders. 21. 570. <hi>Paphnutius</hi> and the <hi>Nicene Councel</hi> concerning this matter. 21. 570. Maried men being made Prieſts, muſt no more companie vvith their vviues: and that according to the example of the Apoſtles. 21. 290 marg. 444. nu. 5. according to the cuſtom of the primitiue Church. 570. 571. The Church may annexe perpetual chaſtitie to holy orders. 580. nu. 4. in the marg. The forbidding of ſuch perſons to marie, is no condem<g ref="char:EOLhyphen"/>nation of Mariage. 575. <hi>Iouinians</hi> old hereſie could neuer induce any one Prieſt. to marie. 582. <hi>Vigilantius</hi> and his follovvers much like to the Prote<g ref="char:EOLhyphen"/>ſtants in this point. 570. See <hi>Vovv.</hi> Prieſts crovvnes. 665. Prieſts garments. 701. Prieſts ſome properly ſo called, ſome vnproperly. 740. Al Chriſtians are no more Prieſts, then they are alſo kings, that is, vnproperly: 657 marg. 700. 709. Their ſpiritual hoſtes. 658.</item>
                <item>CHRISTS Prieſthod and the excellen<g ref="char:EOLhyphen"/>cie thereof. 609. 610. 615. 616. 617. 618. 131. A Prieſt as he is man, not as he is God. 610. The Caluiniſts, either Arrians, or ignorant, in auouching the contrarie. ibid. His Prieſthod eternal, and hovv. 131. 617. 618. 619. &amp; nu. 3. in marg. He concurreth ſtil in al prieſtly actions, and is the principal vvorker. 619 marg. He is not the only Prieſt of the nevv Teſtament. 609. 618. Many Prieſts of the nevv Teſtame<g ref="char:cmbAbbrStroke">̄</g>t properly and peculiarly ſo called, and their Prieſthod external, not only ſpiritual, 609. 616. 617. 618. 619.</item>
                <item>
-                  <hi>Princes,</hi> hovv and wherein to be obeied. 64. 121. 197 marg. 415. 416. 658. 659. They may not vſurpe Eccleſiaſtical functions. 64. 403. 609. nu. 1. pag. 639. They haue no more right of ſuprema<g ref="char:EOLhyphen"/>cie in ſpiritual cauſes, then Heathen Princes. 659. Chriſt and his Apoſtles charged vvith diſobedience to Prin<g ref="char:EOLhyphen"/>ces. 658 nu. 13. Peter &amp; Iohn diſobeied the Magiſtrats co<g ref="char:cmbAbbrStroke">̄</g>maunding them not to preach in the name of IESVS. 299 marg. So muſt Catholike preachers. ib. In things lavvful not to obey them, is a mortal ſinne. 415. Heretical tumultes &amp; diſobedience againſt their Princes. 28. 488. Hereſies agai<g ref="char:cmbAbbrStroke">̄</g>ſt rule &amp; ſuperio<g ref="char:EOLhyphen"/>ritie. 416. 659. nu. 16. and 18. The obe<g ref="char:EOLhyphen"/>dience of Catholikes in al te<g ref="char:cmbAbbrStroke">̄</g>poral cau<g ref="char:EOLhyphen"/>ſes. 416. The deadly ſinnes of Princes &amp; ſuperiors exempt not the ſubiectes from their obedie<g ref="char:cmbAbbrStroke">̄</g>ce, as the <hi>Vvi<gap reason="illegible" resp="#TECH" extent="2 letters">
-                        <desc>••</desc>
-                     </gap>fiſtes</hi> teach. 659. Princes the<g ref="char:cmbAbbrStroke">̄</g> ſelues muſt obey &amp; be ſubiect in matters of ſaith &amp; reli<g ref="char:EOLhyphen"/>gio<g ref="char:cmbAbbrStroke">̄</g>. 639. Al are vnder Peter &amp; his ſuc<g ref="char:EOLhyphen"/>ceſſors. 279. 280. 364 m. Their election &amp; creatio<g ref="char:cmbAbbrStroke">̄</g> far inferiour to Gods inſti<g ref="char:EOLhyphen"/>tution of the ſpiritual Magiſtrate. 658. The temporal Magiſtrate is called, <hi>an humane creature,</hi> and why. 658. nu. 13. Praying for kings and Princes, namely in the <hi>Maſſe.</hi> 566. marg. 567.</item>
+                  <hi>Princes,</hi> hovv and wherein to be obeied. 64. 121. 197 marg. 415. 416. 658. 659. They may not vſurpe Eccleſiaſtical functions. 64. 403. 609. nu. 1. pag. 639. They haue no more right of ſuprema<g ref="char:EOLhyphen"/>cie in ſpiritual cauſes, then Heathen Princes. 659. Chriſt and his Apoſtles charged vvith diſobedience to Prin<g ref="char:EOLhyphen"/>ces. 658 nu. 13. Peter &amp; Iohn diſobeied the Magiſtrats co<g ref="char:cmbAbbrStroke">̄</g>maunding them not to preach in the name of IESVS. 299 marg. So muſt Catholike preachers. ib. In things lavvful not to obey them, is a mortal ſinne. 415. Heretical tumultes &amp; diſobedience againſt their Princes. 28. 488. Hereſies agai<g ref="char:cmbAbbrStroke">̄</g>ſt rule &amp; ſuperio<g ref="char:EOLhyphen"/>ritie. 416. 659. nu. 16. and 18. The obe<g ref="char:EOLhyphen"/>dience of Catholikes in al te<g ref="char:cmbAbbrStroke">̄</g>poral cau<g ref="char:EOLhyphen"/>ſes. 416. The deadly ſinnes of Princes &amp; ſuperiors exempt not the ſubiectes from their obedie<g ref="char:cmbAbbrStroke">̄</g>ce, as the <hi>Vviclefiſtes</hi> teach. 659. Princes the<g ref="char:cmbAbbrStroke">̄</g> ſelues muſt obey &amp; be ſubiect in matters of faith &amp; reli<g ref="char:EOLhyphen"/>gio<g ref="char:cmbAbbrStroke">̄</g>. 639. Al are vnder Peter &amp; his ſuc<g ref="char:EOLhyphen"/>ceſſors. 279. 280. 364 m. Their election &amp; creatio<g ref="char:cmbAbbrStroke">̄</g> far inferiour to Gods inſti<g ref="char:EOLhyphen"/>tution of the ſpiritual Magiſtrate. 658. The temporal Magiſtrate is called, <hi>an humane creature,</hi> and why. 658. nu. 13. Praying for kings and Princes, namely in the <hi>Maſſe.</hi> 566. marg. 567.</item>
                <item>
                   <hi>Proceſsion</hi> on Palme-Sunday. 61.</item>
                <item>
@@ -24221,21 +24166,15 @@
             <list>
                <head>R</head>
                <item>
-                  <hi>REconciliation</hi> to the Cathol. Church. 14. nu. 24. p. 471. nu. 5. <gap reason="illegible" resp="#TECH" extent="1 word">
-                     <desc>〈◊〉</desc>
-                  </gap> 
+                  <hi>REconciliation</hi> to the Cathol. Church. 14. nu. 24. p. 471. nu. 5. See 
                   <hi>
-                     <gap reason="illegible" resp="#TECH" extent="1 letter">
-                        <desc>•</desc>
-                     </gap>chiſme.</hi>
+                     Schiſme.</hi>
                </item>
                <item>
-                  <hi>Religion.</hi> Men of no religion, <gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>uters, Atheiſtes. 33. Moſt happie that ſuffer any loſſe for religion. 114. m. 116. They that forſake their religio<g ref="char:cmbAbbrStroke">̄</g> to ſaue their landes, are like Eſau<g ref="char:punc">▪</g> 635. marg. See <hi>Perſecution.</hi>
+                  <hi>Religion.</hi> Men of no religion, Neuters, Atheiſtes. 33. Moſt happie that ſuffer any loſſe for religion. 114. m. 116. They that forſake their religio<g ref="char:cmbAbbrStroke">̄</g> to ſaue their landes, are like Eſau<g ref="char:punc">▪</g> 635. marg. See <hi>Perſecution.</hi>
                </item>
                <item>
-                  <hi>Religious</hi> life. 561. Their profeſſion is ac<g ref="char:EOLhyphen"/>cording to Chriſts counſel, and the Apoſtles example. 55. 151. 191 marg. 296. nu. 44. to the Saincts of the pri<g ref="char:EOLhyphen"/>mitiue Church. 410 marg. 296. Vigi<g ref="char:EOLhyphen"/>la<g ref="char:cmbAbbrStroke">̄</g>tius hereſie againſt ſuch as forſooke al for Chriſt, 420 marg. Diuers Re<g ref="char:EOLhyphen"/>ligions, of Dominicans, Franciſcans &amp;c. are not diuers Sectes. 323. Their diuers rules and imitation of diuers holy men, is the imitation of Chriſt him ſelf, 531 marg. 547. Their liuing in common, Apoſtolical. 296. Their riſing in the night to pray. 79. nu. 41. Their bleſſing. 55. The contemplatiue life preferred before the actiue by our Sa<g ref="char:EOLhyphen"/>uiour him ſelf, in the perſons of Marie and Martha. 169. Both alvvaies in the Chruch. ibid. See <hi>Monkes</hi> and <hi>Mona<g ref="char:EOLhyphen"/>ſtical life. Eremities.</hi>
+                  <hi>Religious</hi> life. 561. Their profeſſion is ac<g ref="char:EOLhyphen"/>cording to Chriſts counſel, and the Apoſtles example. 55. 151. 191 marg. 296. nu. 44. to the Saincts of the pri<g ref="char:EOLhyphen"/>mitiue Church. 410 marg. 296. Vigi<g ref="char:EOLhyphen"/>la<g ref="char:cmbAbbrStroke">̄</g>tius hereſie againſt ſuch as forſooke al for Chriſt, 420 marg. Diuers Re<g ref="char:EOLhyphen"/>ligions, of Dominicans, Franciſcans &amp;c. are not diuers Sectes. 323. Their diuers rules and imitation of diuers holy men, is the imitation of Chriſt him ſelf, 531 marg. 547. Their liuing in common, Apoſtolical. 296. Their riſing in the night to pray. 79. nu. 41. Their bleſſing. 55. The contemplatiue life preferred before the actiue by our Sa<g ref="char:EOLhyphen"/>uiour him ſelf, in the perſons of Marie and Martha. 169. Both alvvaies in the Church. ibid. See <hi>Monkes</hi> and <hi>Mona<g ref="char:EOLhyphen"/>ſtical life. Eremites.</hi>
                </item>
                <item>
                   <hi>Relikes.</hi>
@@ -24256,11 +24195,9 @@
                <head>S</head>
                <item>
                   <hi>SAcraments.</hi>
-                  <note place="margin">☞</note> ſeuen. 506. 259. See <hi>Confir<g ref="char:EOLhyphen"/>mation. Penance. Orders. Mariage Extreme vnction.</hi> Few and eaſie in reſpect of the Ievves Sacrame<g ref="char:cmbAbbrStroke">̄</g>ts. 506. More effectual and beneficial. ibidem. 446. 623. 619 marg. 627. 228. External elements in the ſame, not burdenous, not Iudaical, nor Heatheniſh. 506. 228. Chriſt vſed external eleme<g ref="char:cmbAbbrStroke">̄</g>ts. 247. what is to ado<g ref="char:EOLhyphen"/>re in ſpirit. 228. S. Auguſtine falſely al<g ref="char:EOLhyphen"/>leaged for tvvo Sacraments only. 506. Grace is giuen in &amp; by the Sacraments, 224. 228. 276. 313. 357 marg. 393. 39<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap> marg. 504. 577. 586 marg. 598 marg. 523. 627. 652. 653. 262 marg. 586 marg. They flovved out of Chriſts ſide, &amp; thence haue their vertue. 273. Con<g ref="char:EOLhyphen"/>tempt of the Sacraments damnable. 157 marg. 321. 316 marg. Vve may not the leſſe eſteeme the Sacraments becauſe of the miniſters of them. pag. 4. nu. 3. pag. 89. nu. 9. The Sacraments firſt to be called for in ſicknes. 92.</item>
+                  <note place="margin">☞</note> ſeuen. 506. 259. See <hi>Confir<g ref="char:EOLhyphen"/>mation. Penance. Orders. Mariage Extreme vnction.</hi> Few and eaſie in reſpect of the Ievves Sacrame<g ref="char:cmbAbbrStroke">̄</g>ts. 506. More effectual and beneficial. ibidem. 446. 623. 619 marg. 627. 228. External elements in the ſame, not burdenous, not Iudaical, nor Heatheniſh. 506. 228. Chriſt vſed external eleme<g ref="char:cmbAbbrStroke">̄</g>ts. 247. what is to ado<g ref="char:EOLhyphen"/>re in ſpirit. 228. S. Auguſtine falſely al<g ref="char:EOLhyphen"/>leaged for tvvo Sacraments only. 506. Grace is giuen in &amp; by the Sacraments, 224. 228. 276. 313. 357 marg. 393. 391 marg. 504. 577. 586 marg. 598 marg. 523. 627. 652. 653. 262 marg. 586 marg. They flovved out of Chriſts ſide, &amp; thence haue their vertue. 273. Con<g ref="char:EOLhyphen"/>tempt of the Sacraments damnable. 157 marg. 321. 316 marg. Vve may not the leſſe eſteeme the Sacraments becauſe of the miniſters of them. pag. 4. nu. 3. pag. 89. nu. 9. The Sacraments firſt to be called for in ſicknes. 92.</item>
                <item>
-                  <hi>The</hi> B. SACRAMENT of the altar. 236.<note place="margin">☞</note> The great myſterie, and inſtitution thereof by our Sauiour. 78. 79. 125. 128. 201. 204. 449. 451. The Catholikes imitate Chriſtes inſtitution thereof and the Apoſtles traditon, the Pro<g ref="char:EOLhyphen"/>teſtants do not. 451. 452. 454. The Proteſtants haue taken avvay the B. Sacrament altogether. 452. 237. nu. 58. The real preſence. 78. 79. 128. 204. 205. 236. 237. nu. 55. pag. 238. 291. 446. nu. 16. pag. 447. 453. 624. 628. 466 m. The Goſpel ſo plaine for the real pre<g ref="char:EOLhyphen"/>ſence, the Beza controuleth it. 205. 201 marg. Tranſubſtantiation. 79. 128. 238. nu. 66. pag. 220 marg. Chriſts mi<g ref="char:EOLhyphen"/>raculous &amp; ſupernatural dealing with his body many vvaies, and that it is not to be meaſured by ſenſe and natu<g ref="char:EOLhyphen"/>ral reaſon. 40. nu. 26. pag. 49. nu. 2. pag. 55. nu. 26. p. 121. nu. 24. pag. 132. 148. 236. nu. 52. pag. 238. 275. 276. 315 marg. 540. 632. Faith neceſſarie in this Sacrament. 128. The Proteſtants iudge thereof by ſenſe and reaſon. 238. They are like the groſſe Capharnaites. 238. To aſke, hovv it may be, is a Ievviſh vvord. 238. Their ſcoffing at it. 38. nu. 55. pag. 83. 103. nu. 3. 129 marg. The real preſence is by conſecration. 79. 128. 446. not by receiuing, or in the receiuing only ibidem. and 452. The Heretikes arguments anſvvered. 124 and 254 marg. Adoration of the B. Sa<g ref="char:EOLhyphen"/>crament. p. 6. 21. nu. 8. pag. 453. 604. The honour thereof by ſolemne pro<g ref="char:EOLhyphen"/>ceſſions. 61. by coſtly altars, chalices, ornaments. 78. 128. by cleane corpo<g ref="char:EOLhyphen"/>rals. 84. by many other meanes. 453. 116 marg. The Angels are preſent. 707. nu. 8. It ſanctifieth the altar. 67. 309. nu. 33. It is the ſuperſub<g ref="char:EOLhyphen"/>ſtantial and daily bread, ſpecially de<g ref="char:EOLhyphen"/>ſired in the PATER NOSTER. 15. 16. The preemine<g ref="char:cmbAbbrStroke">̄</g>ces thereof aboue Man<g ref="char:EOLhyphen"/>na. 236. The wo<g ref="char:cmbAbbrStroke">̄</g>derful effectes thereof in the receiuers. 237. 447. In what ſen<g ref="char:EOLhyphen"/>ſe it is called ſometime a figure. 79. nu. 26. Hovv it is both a figure and yet
+                  <hi>The</hi> B. SACRAMENT of the altar. 236.<note place="margin">☞</note> The great myſterie, and inſtitution thereof by our Sauiour. 78. 79. 125. 128. 201. 204. 449. 451. The Catholikes imitate Chriſtes inſtitution thereof and the Apoſtles tradition, the Pro<g ref="char:EOLhyphen"/>teſtants do not. 451. 452. 454. The Proteſtants haue taken avvay the B. Sacrament altogether. 452. 237. nu. 58. The real preſence. 78. 79. 128. 204. 205. 236. 237. nu. 55. pag. 238. 291. 446. nu. 16. pag. 447. 453. 624. 628. 466 m. The Goſpel ſo plaine for the real pre<g ref="char:EOLhyphen"/>ſence, the Beza controuleth it. 205. 201 marg. Tranſubſtantiation. 79. 128. 238. nu. 66. pag. 220 marg. Chriſts mi<g ref="char:EOLhyphen"/>raculous &amp; ſupernatural dealing with his body many vvaies, and that it is not to be meaſured by ſenſe and natu<g ref="char:EOLhyphen"/>ral reaſon. 40. nu. 26. pag. 49. nu. 2. pag. 55. nu. 26. p. 121. nu. 24. pag. 132. 148. 236. nu. 52. pag. 238. 275. 276. 315 marg. 540. 632. Faith neceſſarie in this Sacrament. 128. The Proteſtants iudge thereof by ſenſe and reaſon. 238. They are like the groſſe Capharnaites. 238. To aſke, hovv it may be, is a Ievviſh vvord. 238. Their ſcoffing at it. 38. nu. 55. pag. 83. 103. nu. 3. 129 marg. The real preſence is by conſecration. 79. 128. 446. not by receiuing, or in the receiuing only ibidem. and 452. The Heretikes arguments anſvvered. 124 and 254 marg. Adoration of the B. Sa<g ref="char:EOLhyphen"/>crament. p. 6. 21. nu. 8. pag. 453. 604. The honour thereof by ſolemne pro<g ref="char:EOLhyphen"/>ceſſions. 61. by coſtly altars, chalices, ornaments. 78. 128. by cleane corpo<g ref="char:EOLhyphen"/>rals. 84. by many other meanes. 453. 116 marg. The Angels are preſent. 707. nu. 8. It ſanctifieth the altar. 67. 309. nu. 33. It is the ſuperſub<g ref="char:EOLhyphen"/>ſtantial and daily bread, ſpecially de<g ref="char:EOLhyphen"/>ſired in the PATER NOSTER. 15. 16. The preemine<g ref="char:cmbAbbrStroke">̄</g>ces thereof aboue Man<g ref="char:EOLhyphen"/>na. 236. The wo<g ref="char:cmbAbbrStroke">̄</g>derful effectes thereof in the receiuers. 237. 447. In what ſen<g ref="char:EOLhyphen"/>ſe it is called ſometime a figure. 79. nu. 26. Hovv it is both a figure and yet
 <pb facs="tcp:2646:423"/> the thing it ſelf. 205. 604. How it is called bread after the conſecration, 79. 236. Vvhether S. Paul ſaying, <hi>the ſupper of our Lord,</hi> meane the <hi>B. Sacra<g ref="char:EOLhyphen"/>ment. 451.</hi> Receiuing in one kinde. 57 &amp; 125 marg. 213. 236. 237 at large. The au<g ref="char:EOLhyphen"/>thoritie of Scriptures and primitiue Church for the ſame. 237. 295 marg 351 marg. It is indifferent, in one or both kindes, according to the Churches or<g ref="char:EOLhyphen"/>dinance. 237. 259. The cauſes vvhy the Church appointed one kind. 237. The whole grace in one kinde, &amp; therfore the people not defrauded. 237. The Heretikes arguments anſwered ibid. &amp; 125 marg. Prieſts ſaying Maſſe, muſt receiue both kindes. 237. The puritie and preparation required to the wor<g ref="char:EOLhyphen"/>thie receiuing thereof. 222. 258. 453. nu. 27. 28. 29. Co<g ref="char:cmbAbbrStroke">̄</g>feſsion of euery mor<g ref="char:EOLhyphen"/>tal ſinne, neceſſarie before we receiue. 453. Euil men receiue the true body &amp; bloud, though vnworthily. 453. The danger and puniſhement of vnwor<g ref="char:EOLhyphen"/>thie receiuing. 453. nu. 27. pag. 454. nu. 30. 31. pag. 449 marg. It is both a <hi>Sacra<g ref="char:EOLhyphen"/>ment</hi> and a <hi>Sacrifice,</hi> and vvhy. 78. 184.</item>
                <item>The SACRIFICE of the altar. 21. nu. 4. 204 and 447 and 616. 617. 623. 627. 628 at large. 228. nu. 23. 332. nu. 12. 638. Chriſt ſacrificed his body and bloud at his laſt ſupper. 79. nu. 28. 204. 205. The ſacrifice of the altar is the ſelf ſame that was vpon the Croſſe. 624. 628. Chriſt is often offered,<note place="margin">☞</note> and in ma<g ref="char:EOLhyphen"/>ny places. 628. It is a commemoratiue ſacrifice, yet a true ſacrifice. 205. It ſuc<g ref="char:EOLhyphen"/>ceded in the place of al the ſacrifices of the old Law. 447. num. 21. 617. 628. Chriſt did not take away al ſacrifice by the new Teſtament, but change them into a better. 617. 623. 628. The external religion of the new Teſta<g ref="char:EOLhyphen"/>ment is principally in the Sacrifice of the altar. 205. Chriſts eternal prieſthod conſiſteth in this ſacrifice. 617. The fa<g ref="char:EOLhyphen"/>thers cal it, the vnbloudy ſacrifice. 625. they call it the <hi>Maſſe. 447.</hi> Vvhy it is called the <hi>Eucharist. 638.</hi> The general redemption vpon the Croſſe, particu<g ref="char:EOLhyphen"/>larly applied in this ſacrifice. 629. The Caluiniſts argume<g ref="char:cmbAbbrStroke">̄</g>t againſt this ſacrifi<g ref="char:EOLhyphen"/>ce, maketh no leſſe againſt the ſacrifices of Moyſes. 624. 205. nu. 19. Their ar<g ref="char:EOLhyphen"/>gument againſt Chriſts body often of<g ref="char:EOLhyphen"/>fered and in many places, was anſwe<g ref="char:EOLhyphen"/>red by the fathers long agoe. 628. It is offered to God only. 332. in the me<g ref="char:EOLhyphen"/>morie and honour of Saincts. 332. 454. 726. for the liuing and the dead. 454. 447. nu. 21. pag. 726. See <hi>Maſſe.</hi>
                </item>
@@ -24275,7 +24212,7 @@
                <item>
                   <hi>Satisfaction.</hi> See <hi>Penance.</hi> Satiſfactorie vvorkes of one for an other. 474. 485. 538. Satiſfaction enioyned. 143 m.</item>
                <item>
-                  <hi>Schiſme.</hi> Prefigured in the Ievves Schiſ<g ref="char:EOLhyphen"/>matical temples. 166. 227. 228. 448. in Ieroboams calues and altars. 448. in Corè, Darhan, Abiron. 482. 695. con<g ref="char:EOLhyphen"/>trarie to the vnitie of the Church 456 501. nu. 9. pag. 519. 520. deteſtable and ſacrilegious. 520. The beginning of al Schiſmes. 426 marg. In ſchiſme no vvorke auailable to ſaluation. 14. nu. 24. pag. 180. 263. nu. 4. pag. 457. num. 1. See <hi>Church.</hi>
+                  <hi>Schiſme.</hi> Prefigured in the Ievves Schiſ<g ref="char:EOLhyphen"/>matical temples. 166. 227. 228. 448. in Ieroboams calues and altars. 448. in Corè, Dathan, Abiron. 482. 695. con<g ref="char:EOLhyphen"/>trarie to the vnitie of the Church 456 501. nu. 9. pag. 519. 520. deteſtable and ſacrilegious. 520. The beginning of al Schiſmes. 426 marg. In ſchiſme no vvorke auailable to ſaluation. 14. nu. 24. pag. 180. 263. nu. 4. pag. 457. num. 1. See <hi>Church.</hi>
                </item>
                <item>
                   <hi>Schiſmatikes,</hi> Schiſmatical ſeruice &amp; ſer<g ref="char:EOLhyphen"/>mons to be auoided 94. 482. 590. 225 marg. Specially the Communion. 442. 447. 448. See <hi>Heretike</hi> and <hi>Hereſie.</hi>
@@ -24283,11 +24220,7 @@
                <item>
                   <hi>Scandal.</hi> 112 marg 356. 386 marg.</item>
                <item>
-                  <hi>Scripture</hi> Canonical and not Canonical diſcerned and iudged by the Church. 499. 500. See pag. 2 after the preface, S. Auguſtines ſentences cited at large. The Scripture and Church, Whether is elder and of more authoritie. 500. The Proteſtants deny many bookes of the Scripture, becauſe they are repug<g ref="char:EOLhyphen"/>nant to their hereſies. See <hi>Heretikes.</hi> They many vvaies corrupt the Scrip<g ref="char:EOLhyphen"/>tures. See <hi>Heretikes.</hi> Priuate Phanta<g ref="char:EOLhyphen"/>ſtical interpretatio<g ref="char:cmbAbbrStroke">̄</g> of Scriptures. 669. 672. Al Heretikes and the Diuel him ſelf alleage Scriptures, but falſely. p. 5. nu. 25. p. 11. nu. 6. p. 34. 145 m. 162. nu. 20. p. 261. 402. 14. nu. 35. 39. pa. 613. 645. 651. nu. 12. p. 646. nu. 21. p. 682. 711. 740. Vvome<g ref="char:cmbAbbrStroke">̄</g> great tatlers &amp; talkers of Scri<g ref="char:EOLhyphen"/>pture. 568. Not the great talkers and hearers thereof, but the doers are bleſ<g ref="char:EOLhyphen"/>ſed. 698 m. The Scripture is ful of pro<g ref="char:EOLhyphen"/>found ſenſes, 232. 508. hard to vnder<g ref="char:EOLhyphen"/>ſtand, 151 marg. 311 marg. 558. nu. 6. pag. 613. nu. 4. pag. 672. 673. 661. nu. 19. p. 662 marg. 740. S. Paules epiſtles hard about iuſtification by faith, and ther<g ref="char:EOLhyphen"/>fore miſconſtrued of old and new he<g ref="char:EOLhyphen"/>retikes. 389. 646. 672. The Epiſtle to the Romanes hard concerning prede<g ref="char:EOLhyphen"/>ſtination. 404 marg. The difficultie of the Apocalypſe. 699. The Proteſtants count al Scriptures eaſie for euery ma<g ref="char:cmbAbbrStroke">̄</g> to vnderſtand by his priuate ſpirit, &amp; therfore they reiect the Doctors ex<g ref="char:EOLhyphen"/>poſitio<g ref="char:cmbAbbrStroke">̄</g>s, &amp; admit nothing but Scrip<g ref="char:EOLhyphen"/>ture. 672. Their foliſh diſtinction that S. Paules epiſtles are not hard, but the matter he vvriteth of. ibid. The ſelf ſame ſcriptures, alleaged by the old heretikes and the Proteſtants, and an<g ref="char:EOLhyphen"/>ſwered by the fathers long agoe. 444. nu. 5. pag. 575. 646. 711. 712. The Scrip<g ref="char:EOLhyphen"/>ture co<g ref="char:cmbAbbrStroke">̄</g>ſiſteth in the true ſenſe therof, which is only in the Cath. Church. 477. nu. 6. p. 669. nu. 20. The bare let<g ref="char:EOLhyphen"/>ter killeth both Iew &amp; Heretike. 477. They ſearche not the Scriptures deepely, but ſuperficially. 232. Vvho be the litle ones that beſt vnderſtand the Scriptures. 30. nu. 25. p. 169. nu. 21. The auncient fathers humilitie in rea<g ref="char:EOLhyphen"/>ding and expounding the Scriptures. 67<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>. 5<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>8. 661. nu. 19. pag. 699. Catholike Doctors only are right handlers of the Scriptures. 590. The curſe for adding and diminiſhing thereof: and that it pertaineth to heretikes, not to Catholike expoſitors. 45. The inter<g ref="char:EOLhyphen"/>pretation of Scripture is called pro<g ref="char:EOLhyphen"/>phecie. 413 marg. when the ſame is ac<g ref="char:EOLhyphen"/>cording to the rule of faith. ibid. Of the tranſlating and reading the holy Scriptures in the vulgar tongue, of the difficultie of them, &amp; vvith what humilitie they ought to be read, &amp; of many others pointes concerning the ſacred Scriptures, ſee the Preface to the reader. The text corrupted by old heretikes. 684. 687. Scriptures haue not only a literal ſenſe, but alſo a myſtical and allegorical. 7. nu. 15. pag. 508. 607 marg. 614 marg. The Proteſta<g ref="char:cmbAbbrStroke">̄</g>ts deride the myſtical interpretations of the
+                  <hi>Scripture</hi> Canonical and not Canonical diſcerned and iudged by the Church. 499. 500. See pag. 2 after the preface, S. Auguſtines ſentences cited at large. The Scripture and Church, Whether is elder and of more authoritie. 500. The Proteſtants deny many bookes of the Scripture, becauſe they are repug<g ref="char:EOLhyphen"/>nant to their hereſies. See <hi>Heretikes.</hi> They many vvaies corrupt the Scrip<g ref="char:EOLhyphen"/>tures. See <hi>Heretikes.</hi> Priuate Phanta<g ref="char:EOLhyphen"/>ſtical interpretatio<g ref="char:cmbAbbrStroke">̄</g> of Scriptures. 669. 672. Al Heretikes and the Diuel him ſelf alleage Scriptures, but falſely. p. 5. nu. 25. p. 11. nu. 6. p. 34. 145 m. 162. nu. 20. p. 261. 402. 14. nu. 35. 39. pa. 613. 645. 651. nu. 12. p. 646. nu. 21. p. 682. 711. 740. Vvome<g ref="char:cmbAbbrStroke">̄</g> great tatlers &amp; talkers of Scri<g ref="char:EOLhyphen"/>pture. 568. Not the great talkers and hearers thereof, but the doers are bleſ<g ref="char:EOLhyphen"/>ſed. 698 m. The Scripture is ful of pro<g ref="char:EOLhyphen"/>found ſenſes, 232. 508. hard to vnder<g ref="char:EOLhyphen"/>ſtand, 151 marg. 311 marg. 558. nu. 6. pag. 613. nu. 4. pag. 672. 673. 661. nu. 19. p. 662 marg. 740. S. Paules epiſtles hard about iuſtification by faith, and ther<g ref="char:EOLhyphen"/>fore miſconſtrued of old and new he<g ref="char:EOLhyphen"/>retikes. 389. 646. 672. The Epiſtle to the Romanes hard concerning prede<g ref="char:EOLhyphen"/>ſtination. 404 marg. The difficultie of the Apocalypſe. 699. The Proteſtants count al Scriptures eaſie for euery ma<g ref="char:cmbAbbrStroke">̄</g> to vnderſtand by his priuate ſpirit, &amp; therfore they reiect the Doctors ex<g ref="char:EOLhyphen"/>poſitio<g ref="char:cmbAbbrStroke">̄</g>s, &amp; admit nothing but Scrip<g ref="char:EOLhyphen"/>ture. 672. Their foliſh diſtinction that S. Paules epiſtles are not hard, but the matter he vvriteth of. ibid. The ſelf ſame ſcriptures, alleaged by the old heretikes and the Proteſtants, and an<g ref="char:EOLhyphen"/>ſwered by the fathers long agoe. 444. nu. 5. pag. 575. 646. 711. 712. The Scrip<g ref="char:EOLhyphen"/>ture co<g ref="char:cmbAbbrStroke">̄</g>ſiſteth in the true ſenſe therof, which is only in the Cath. Church. 477. nu. 6. p. 669. nu. 20. The bare let<g ref="char:EOLhyphen"/>ter killeth both Iew &amp; Heretike. 477. They ſearche not the Scriptures deepely, but ſuperficially. 232. Vvho be the litle ones that beſt vnderſtand the Scriptures. 30. nu. 25. p. 169. nu. 21. The auncient fathers humilitie in rea<g ref="char:EOLhyphen"/>ding and expounding the Scriptures. 672. 673. 661. nu. 19. pag. 699. Catholike Doctors only are right handlers of the Scriptures. 590. The curſe for adding and diminiſhing thereof: and that it pertaineth to heretikes, not to Catholike expoſitors. 45. The inter<g ref="char:EOLhyphen"/>pretation of Scripture is called pro<g ref="char:EOLhyphen"/>phecie. 413 marg. when the ſame is ac<g ref="char:EOLhyphen"/>cording to the rule of faith. ibid. Of the tranſlating and reading the holy Scriptures in the vulgar tongue, of the difficultie of them, &amp; vvith what humilitie they ought to be read, &amp; of many others pointes concerning the ſacred Scriptures, ſee the Preface to the reader. The text corrupted by old heretikes. 684. 687. Scriptures haue not only a literal ſenſe, but alſo a myſtical and allegorical. 7. nu. 15. pag. 508. 607 marg. 614 marg. The Proteſta<g ref="char:cmbAbbrStroke">̄</g>ts deride the myſtical interpretations of the
 <pb facs="tcp:2646:424"/> auncient Doctors. 614 marg. The people may not iudge of the ſenſe of Scriptures, or of their Paſtors expoſi<g ref="char:EOLhyphen"/>tions. 344. The comfort and profite of Chriſtian Cathol. men in reading and hearing the Scriptures. 344. 419 marg. 592. Vvhat they finde in ſearching the Scriptures. 230. Not only Scriptures. but tradition alſo. 622. marg. 559. 592. 279 marg. 678 marg. 717 marg. The Apoſtles and Churches precepts. 336 marg. See <hi>Tradition.</hi> The Churches order in reading the Scriptures in her diuine Seruice. See CHVRCH.</item>
                <item>
                   <hi>Secte</hi> taken ſometime in good part, but novv in the euil. 373. 362 marg.</item>
@@ -24342,14 +24275,14 @@
                </item>
                <item>
                   <hi>Vvorkes</hi> meritorious of life euerlaſting.<note place="margin">☞</note> 17. 177. 387. 430. 593. 594. 613. 703 mar. No workes of them ſelues, vvithout faith and the grace of God, are meri<g ref="char:EOLhyphen"/>torious. 378. 594. Such are the workes that S. Paul excludeth from iuſtifica<g ref="char:EOLhyphen"/>tion.
-<pb facs="tcp:2646:425"/> 378. 387. 390. 411. 385. 499 marg. Vve preſume not vpon our owne workes or merites, as of our ſelues, but as of Gods grace. 516 marg. 594. The Proteſtants make no difference betwene Chriſtian mens workes done in grace, and the workes of Ievves &amp; Pagans. 411. They are iniurious to Gods grace vvhich maketh vorkes meritorious. 594. The Scriptures which they falſely alleage, anſwered. 189. 402. Vve are iuſtified by vvorkes alſo, and not by faith only. 16. 643. 645 and 646 at large. 153 marg. 678 marg. 510 m. 538. m. See <hi>faith.</hi> Good workes before faith, though not meritorious, yet are preparatiues to the firſt iuſtification. 320. 389 m. That euery man ſhal be rewarded accor<g ref="char:EOLunhyphen"/>ding to his vvorkes, is a co<g ref="char:cmbAbbrStroke">̄</g>mon phraſe in Scripture. 47. 386 marg. 387. 430. 656 marg. 744 marg. not according to faith only or lacke of faith. 741. nu. 12. Al good workes rewarded in heauen. 630 marg. 413. nu. 1. pag. 587. 524 marg. 543 marg. 191 marg. Heauen is due for them according to Gods iuſtice. 593. 594. 613. 553 mar. They giue great con<g ref="char:EOLhyphen"/>fidence before God. 630. 627 marg. Vvorkes may be done in reſpect of re<g ref="char:EOLhyphen"/>ward. 16. nu. 4. pag. 631. marg. pa. 444. The three workes of iuſtice. 14. 15. 16. Vvorkes of mercie how acceptable to God. 663. 317. m. 341 marg. See <hi>Almes.</hi> Vvorkes of perfection or ſupereroga<g ref="char:EOLhyphen"/>tion. 444. 485. 168 m. See <hi>C. Euangelical Counſels.</hi> Vvorkes ſatiſfactorie. 143 m. See <hi>faith. Iuſtification. Merite. Revvard.</hi> Heauen prepared for them only that deſerue it by good workes. 58. nu. 23. pag. 73 marg. Vvithout good vvorkes a man ſhal be demned. 143 marg. 153 marg. 739 marg. The booke of euery mans workes opened in the day of iudgement. 741.</item>
+<pb facs="tcp:2646:425"/> 378. 387. 390. 411. 385. 499 marg. Vve preſume not vpon our owne workes or merites, as of our ſelues, but as of Gods grace. 516 marg. 594. The Proteſtants make no difference betwene Chriſtian mens workes done in grace, and the workes of Ievves &amp; Pagans. 411. They are iniurious to Gods grace vvhich maketh vvorkes meritorious. 594. The Scriptures which they falſely alleage, anſwered. 189. 402. Vve are iuſtified by vvorkes alſo, and not by faith only. 16. 643. 645 and 646 at large. 153 marg. 678 marg. 510 m. 538. m. See <hi>faith.</hi> Good workes before faith, though not meritorious, yet are preparatiues to the firſt iuſtification. 320. 389 m. That euery man ſhal be rewarded accor<g ref="char:EOLunhyphen"/>ding to his vvorkes, is a co<g ref="char:cmbAbbrStroke">̄</g>mon phraſe in Scripture. 47. 386 marg. 387. 430. 656 marg. 744 marg. not according to faith only or lacke of faith. 741. nu. 12. Al good workes rewarded in heauen. 630 marg. 413. nu. 1. pag. 587. 524 marg. 543 marg. 191 marg. Heauen is due for them according to Gods iuſtice. 593. 594. 613. 553 mar. They giue great con<g ref="char:EOLhyphen"/>fidence before God. 630. 627 marg. Vvorkes may be done in reſpect of re<g ref="char:EOLhyphen"/>ward. 16. nu. 4. pag. 631. marg. pa. 444. The three workes of iuſtice. 14. 15. 16. Vvorkes of mercie how acceptable to God. 663. 317. m. 341 marg. See <hi>Almes.</hi> Vvorkes of perfection or ſupereroga<g ref="char:EOLhyphen"/>tion. 444. 485. 168 m. See <hi>C. Euangelical Counſels.</hi> Vvorkes ſatiſfactorie. 143 m. See <hi>faith. Iuſtification. Merite. Revvard.</hi> Heauen prepared for them only that deſerue it by good workes. 58. nu. 23. pag. 73 marg. Vvithout good vvorkes a man ſhal be damned. 143 marg. 153 marg. 739 marg. The booke of euery mans workes opened in the day of iudgement. 741.</item>
                <item>Vvorldly frendes. 93. 94. 176 <hi>marg.</hi>
                </item>
             </list>
             <list>
                <head>Z</head>
                <item>
-                  <hi>ZEale</hi> againſt heretikes. See <hi>Heretikes.</hi> in Gods cauſe: 706. nu. 16. pag. 741. nu. 9. Zeale in religion, counted of worldly men, madnes, 93. See <hi>Neuters.</hi> Zeale and ſeruor to heare and folovv Chriſt. 106. Zeale of ſauing ſoules. 150. 182. and 183 marg. 529 marg. 544 m. 651 marg. Zeale againſt ſinne. 433 mar. The madde zeale of heretikes. 342 m.</item>
+                  <hi>ZEale</hi> againſt heretikes. See <hi>Heretikes.</hi> in Gods cauſe: 706. nu. 16. pag. 741. nu. 9. Zeale in religion, counted of worldly men, madnes, 93. See <hi>Neuters.</hi> Zeale and feruor to heare and folovv Chriſt. 106. Zeale of ſauing ſoules. 150. 182. and 183 marg. 529 marg. 544 m. 651 marg. Zeale againſt ſinne. 433 mar. The madde zeale of heretikes. 342 m.</item>
             </list>
          </div>
          <div type="glossary">
@@ -24367,7 +24300,7 @@
                <item>
                   <hi>Agnition,</hi> knovvledge or acknovvledging. p. 600.</item>
                <item>
-                  <hi>Allegorie,</hi> a Myſtical ſpeache, more thou the bare letter. pag. 505. See the Annot. p. 508.</item>
+                  <hi>Allegorie,</hi> a Myſtical ſpeache, more then the bare letter. pag. 505. See the Annot. p. 508.</item>
                <item>
                   <hi>Amen,</hi> expounded pag. 244.</item>
                <item>
@@ -24379,9 +24312,7 @@
                <item>
                   <hi>Aſſumption,</hi> p. 165, Chriſts departure out of this vvorld by his death and Aſcenſion.</item>
                <item>
-                  <hi>Azym<gap reason="illegible" resp="#TECH" extent="1 letter">
-                        <desc>•</desc>
-                     </gap>s,</hi> Vnleauened bread. p. 75.</item>
+                  <hi>Azymes,</hi> Vnleauened bread. p. 75.</item>
             </list>
             <list>
                <head>C</head>
@@ -24391,11 +24322,9 @@
                   <hi>Catechizeth,</hi> and <hi>Catechized.</hi> p. 510. He catechizeth that teacheth the principles of the Chriſtian faith: and they that heare and learne, are ca<g ref="char:EOLhyphen"/>techized, and are therfore called often in the Annotations, <hi>Catechumens.</hi>
                </item>
                <item>
-                  <hi>Character,</hi> a marke or ſtampe. pag. 7<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>3.</item>
+                  <hi>Character,</hi> a marke or ſtampe. pag. 723.</item>
                <item>
-                  <hi>Commeſſſations,</hi> Immoderate bankets, and belly cheere, vvith vvanton riotouſnes. p. 509.</item>
+                  <hi>Commeſſations,</hi> Immoderate bankets, and belly cheere, vvith vvanton riotouſnes. p. 509.</item>
                <item>
                   <hi>Condigne,</hi> comparable. p. 400.</item>
                <item>
@@ -24403,7 +24332,7 @@
                <item>
                   <hi>Cooperate,</hi> ſignifieth vvorking vvith others, p. 401.</item>
                <item>
-                  <hi>likevviſe</hi> Cooperation, Cooperateurs.</item>
+                  likevviſe <hi>Cooperation, Cooperateurs.</hi></item>
                <item>
                   <hi>Corbana,</hi> expounded pag. 80.</item>
             </list>
@@ -24412,12 +24341,10 @@
                <item>
                   <hi>Depoſitum.</hi> p. 582. See the Annot. pag. 584. It may ſignifie alſo, Gods graces giuen vs to keepe, pa. 587. v. 14. Alſo v. 12 ibid. See the Annot.</item>
                <item>
-                  <hi>Didrael. me,</hi> expounded pag. 49.</item>
+                  <hi>Didrachme,</hi> expounded pag. 49.</item>
                <item>
                   <pb facs="tcp:2646:426"/> 
-                  <hi>D<gap reason="illegible" resp="#TECH" extent="1 letter">
-                        <desc>•</desc>
-                     </gap>minical day,</hi> Sunday. See Annot, p. 701. 702.</item>
+                  <hi>Dominical day,</hi> Sunday. See Annot, p. 701. 702.</item>
                <item>
                   <hi>Donaries,</hi> giftes offered to God for his Temple, &amp;c. 199.</item>
             </list>
@@ -24425,9 +24352,7 @@
                <head>E</head>
                <item>
                   <hi>Euacuated</hi> from Chriſt, that is, Made voide and hauing no part vvith him. p. 508.</item>
-               <item>The <gap reason="illegible" resp="#TECH" extent="1 word">
-                     <desc>〈◊〉</desc>
-                  </gap> of the croſſe <hi>euacuated,</hi> that is, made voide, cleane taken avvay. ibidem.</item>
+               <item>The ſcandal of the croſſe <hi>euacuated,</hi> that is, made voide, cleane taken avvay. ibidem.</item>
                <item>
                   <hi>Euangelize,</hi> ſignifieth ſuch preaching of good ti<g ref="char:EOLhyphen"/>dinges, as co<g ref="char:cmbAbbrStroke">̄</g>cerneth the Goſpel. <hi>See the preface,</hi>
                </item>
@@ -24458,12 +24383,12 @@
                   <hi>Iſſue,</hi> good euent. pag. 445.</item>
                <item>
                   <hi>Iuſtice,</hi> taken in the nevv Teſtament, not as it is co<g ref="char:cmbAbbrStroke">̄</g>
-                  <g ref="char:EOLhyphen"/>trarie to vvrong or iniurie, but for that qualitie vvhere of a man is iuſt and iuſtified. p. 391.</item>
+                  <g ref="char:EOLhyphen"/>trarie to vvrong or iniurie, but for that qualitie vvhereof a man is iuſt and iuſtified. p. 391.</item>
             </list>
             <list>
                <head>N</head>
                <item>
-                  <hi>Noophyte,</hi> expounded p. 569.</item>
+                  <hi>Neophyte,</hi> expounded p. 569.</item>
             </list>
             <list>
                <head>P</head>
@@ -24473,9 +24398,9 @@
                   <hi>Paraſceue,</hi> the Ievves Sabboth-eue, Good friday. p. 130. v. 43. <hi>See the Preface.</hi>
                </item>
                <item>
-                  <hi>Paſche,</hi> Eaſter, and, the Paſchal Iambe. p. 201.</item>
+                  <hi>Paſche,</hi> Eaſter, and, the Paſchal lambe. p. 201.</item>
                <item>
-                  <hi>Pentecoſt,</hi> vvhitſuntide, &amp; the ſpace of fifte daies.</item>
+                  <hi>Pentecoſt,</hi> vvhitſuntide, &amp; the ſpace of fiftie daies.</item>
                <item>
                   <hi>Prefinition,</hi> A determination before. p. 517.</item>
                <item>
@@ -24483,13 +24408,13 @@
                <item>
                   <hi>Preſcience,</hi> foreknovvledge. p. 294.</item>
                <item>
-                  <hi>Preuaricatour,</hi> tranſgreſſor: and <hi>preuarication,</hi> tra<g ref="char:cmbAbbrStroke">̄</g>ſ<g ref="char:EOLhyphen"/>greſſion. p. 386. 387.</item>
-               <item>Loaues of <hi>Propoſition,</hi> ſo called, becauſe they vvere propoſed and for vpon the table in the Temple, before God. pag. 31.</item>
+                  <hi>Preuaricatour,</hi> tranſgreſſor: and <hi>preuarication,</hi> tra<g ref="char:cmbAbbrStroke">̄</g>ſ<g ref="char:EOLhyphen"/>greſſion. p. 336. 387.</item>
+               <item>Loaues of <hi>Propoſition,</hi> ſo called, becauſe they vvere propoſed and ſet vpon the table in the Temple, before God. pag. 31.</item>
             </list>
             <list>
                <head>R</head>
                <item>
-                  <hi>Repropitiate</hi> the ſinnes. pag. 605. that is, make a ro<g ref="char:EOLhyphen"/>concillation for them.</item>
+                  <hi>Repropitiate</hi> the ſinnes. pag. 605. that is, make a re<g ref="char:EOLhyphen"/>conciliation for them.</item>
                <item>
                   <hi>Reſolution,</hi> the ſeparation of the body and the ſoule, the departing out of this life. p. 592.</item>
                <item>
@@ -24498,7 +24423,7 @@
             <list>
                <head>S</head>
                <item>
-                  <hi>Sabbatiſmt,</hi> A time of reſting and ceaſing from la<g ref="char:EOLhyphen"/>bours. pag. 607.</item>
+                  <hi>Sabbatiſme,</hi> A time of reſting and ceaſing from la<g ref="char:EOLhyphen"/>bours. pag. 607.</item>
                <item>
                   <hi>Sacrament,</hi> for myſterie. p. 513.</item>
                <item>
@@ -24511,7 +24436,7 @@
                <item>
                   <hi>Tetrarch,</hi> Gouernour or Prince of the 4 part of a countrie. p. 33.</item>
                <item>
-                  <hi>Thrones,</hi> an higher order of Angles. p. 537.</item>
+                  <hi>Thrones,</hi> an higher order of Angels. p. 537.</item>
             </list>
             <list>
                <head>V</head>
@@ -24579,7 +24504,7 @@
                   </row>
                   <row>
                      <cell>409</cell>
-                     <cell>Cathee. 17.</cell>
+                     <cell>Cathec, 17.</cell>
                      <cell>Catech. 18.</cell>
                   </row>
                   <row>
@@ -24590,14 +24515,10 @@
                   <row>
                      <cell>446</cell>
                      <cell>
-                        <gap reason="foreign">
-                           <desc>〈 in non-Latin alphabet 〉</desc>
-                        </gap>
+                        <foreign xml:lang="grc">ἃ ἐυλογοῦμεν</foreign>
                      </cell>
                      <cell>
-                        <gap reason="foreign">
-                           <desc>〈 in non-Latin alphabet 〉</desc>
-                        </gap>.</cell>
+                        <foreign xml:lang="grc">ὃ ἐυλογοῦμεν</foreign>.</cell>
                   </row>
                   <row>
                      <cell>449</cell>

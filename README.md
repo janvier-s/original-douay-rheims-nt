@@ -19,7 +19,8 @@ The base text is the [EEBO-TCP](https://textcreationpartnership.org/) transcript
 | Matthew, Mark, Luke, John | Done (gaps restored, small caps tagged, Unicode NFC) |
 | Acts of the Apostles and end-matter | Audited for transcription errors |
 | General Argument of the Epistles, Romans | In progress (through Rom. 1:27) |
-| Remaining Epistles, Apocalypse | Not yet audited |
+| Remaining Epistles, Apocalypse | Audited during Wikisource production |
+| Back matter (Tables of Epistles & Gospels, Controversies, Hard Words, Errata) | Done (41 gaps incl. 4 Greek readings restored, 44 typist errors fixed, NFC) |
 
 Each audited section has had its gaps filled from the print (polytonic Greek in `<foreign xml:lang="grc">`), its typist errors corrected, small capitals tagged and its text normalised to NFC.
 
@@ -27,8 +28,8 @@ Each audited section has had its gaps filled from the print (polytonic Greek in 
 
 | Element | Count |
 | :--- | ---: |
-| `<gap>` (still unresolved) | 1,626 (1,393 illegible, 233 foreign) |
-| `<foreign>` | 94 |
+| `<gap>` (still unresolved) | 1,521 (1,294 illegible, 227 foreign) |
+| `<foreign>` | 98 |
 | `<note>` | 5,955 |
 | `<pb>` | 802 |
 
